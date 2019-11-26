@@ -1,0 +1,9 @@
+szűrni élsúlyokra és thresholdokra
+
+leírni a maiakat, megmagyarázni a one_twos-kat.
+
+megértetni, források (inkább elméleti, hivatkozások -- akár blogposztok). 
+
+ábramagyarázat -- részletesen, adatpontokat megmagyarázni, vagy annak hiányát
+
+
