@@ -1,5 +1,0 @@
-PING whitworth.edu (198.29.3.9) 56(84) bytes of data.
-
---- whitworth.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5072ms
-

@@ -1,5 +1,0 @@
-PING uwrf.edu (139.225.18.121) 56(84) bytes of data.
-
---- uwrf.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5112ms
-

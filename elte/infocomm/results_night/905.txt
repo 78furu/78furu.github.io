@@ -1,5 +1,0 @@
-PING augsburg.edu (141.224.64.97) 56(84) bytes of data.
-
---- augsburg.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5107ms
-

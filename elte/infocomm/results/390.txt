@@ -1,5 +1,0 @@
-PING fgcu.edu (52.179.191.54) 56(84) bytes of data.
-
---- fgcu.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5116ms
-

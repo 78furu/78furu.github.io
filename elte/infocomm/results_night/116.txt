@@ -1,5 +1,0 @@
-PING citruscollege.edu (137.117.16.226) 56(84) bytes of data.
-
---- citruscollege.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5108ms
-

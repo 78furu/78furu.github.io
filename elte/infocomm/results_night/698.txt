@@ -1,5 +1,0 @@
-PING lindsey.edu (67.141.61.89) 56(84) bytes of data.
-
---- lindsey.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5124ms
-

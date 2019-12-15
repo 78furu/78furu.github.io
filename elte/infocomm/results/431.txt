@@ -1,5 +1,0 @@
-PING ucf.edu (132.170.219.161) 56(84) bytes of data.
-
---- ucf.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5106ms
-

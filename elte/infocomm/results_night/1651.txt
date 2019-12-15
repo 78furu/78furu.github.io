@@ -1,5 +1,0 @@
-PING cedarvalleycollege.edu (13.84.176.165) 56(84) bytes of data.
-
---- cedarvalleycollege.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5103ms
-

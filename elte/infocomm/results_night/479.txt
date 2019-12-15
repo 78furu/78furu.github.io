@@ -1,5 +1,0 @@
-PING paine.edu (74.121.98.45) 56(84) bytes of data.
-
---- paine.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5114ms
-

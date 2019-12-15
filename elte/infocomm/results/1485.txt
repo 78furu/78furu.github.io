@@ -1,5 +1,0 @@
-PING lhup.edu (151.161.128.8) 56(84) bytes of data.
-
---- lhup.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5110ms
-

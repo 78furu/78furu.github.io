@@ -1,5 +1,0 @@
-PING uchicago.edu (34.200.129.209) 56(84) bytes of data.
-
---- uchicago.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5107ms
-

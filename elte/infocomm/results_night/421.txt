@@ -1,5 +1,0 @@
-PING scf.edu (3.223.230.12) 56(84) bytes of data.
-
---- scf.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5105ms
-

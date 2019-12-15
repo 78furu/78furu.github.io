@@ -1,5 +1,0 @@
-PING ipr.edu (168.62.224.13) 56(84) bytes of data.
-
---- ipr.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5126ms
-

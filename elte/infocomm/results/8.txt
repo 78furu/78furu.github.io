@@ -1,5 +1,0 @@
-PING aum.edu (199.80.9.64) 56(84) bytes of data.
-
---- aum.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5112ms
-

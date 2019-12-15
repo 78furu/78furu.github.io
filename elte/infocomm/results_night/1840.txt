@@ -1,5 +1,0 @@
-PING highline.edu (52.33.95.27) 56(84) bytes of data.
-
---- highline.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5120ms
-

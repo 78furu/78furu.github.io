@@ -1,6 +1,0 @@
-PING rcc.edu (204.69.3.218) 56(84) bytes of data.
-From 137.164.38.98 (137.164.38.98) icmp_seq=1 Packet filtered
-
---- rcc.edu ping statistics ---
-6 packets transmitted, 0 received, +1 errors, 100% packet loss, time 5090ms
-

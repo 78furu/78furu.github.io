@@ -1,5 +1,0 @@
-PING endicott.edu (52.168.3.41) 56(84) bytes of data.
-
---- endicott.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5111ms
-

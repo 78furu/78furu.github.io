@@ -1,5 +1,0 @@
-PING llu.edu (151.112.124.102) 56(84) bytes of data.
-
---- llu.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5070ms
-

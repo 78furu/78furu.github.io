@@ -1,5 +1,0 @@
-PING westga.edu (160.10.5.135) 56(84) bytes of data.
-
---- westga.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5116ms
-

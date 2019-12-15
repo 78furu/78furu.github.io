@@ -1,5 +1,0 @@
-PING gtc.edu (199.255.3.24) 56(84) bytes of data.
-
---- gtc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5121ms
-

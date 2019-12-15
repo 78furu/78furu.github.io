@@ -1,5 +1,0 @@
-PING worcester.edu (52.202.66.50) 56(84) bytes of data.
-
---- worcester.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5125ms
-

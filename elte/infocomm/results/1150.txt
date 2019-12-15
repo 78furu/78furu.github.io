@@ -1,5 +1,0 @@
-PING ptsem.edu (34.198.6.77) 56(84) bytes of data.
-
---- ptsem.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5112ms
-

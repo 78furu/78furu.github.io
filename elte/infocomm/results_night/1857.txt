@@ -1,5 +1,0 @@
-PING pugetsound.edu (207.207.127.174) 56(84) bytes of data.
-
---- pugetsound.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5116ms
-

@@ -1,5 +1,0 @@
-PING mssm.edu (146.203.139.18) 56(84) bytes of data.
-
---- mssm.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5107ms
-

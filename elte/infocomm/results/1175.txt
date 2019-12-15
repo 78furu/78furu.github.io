@@ -1,5 +1,0 @@
-PING sanjuancollege.edu (52.43.145.19) 56(84) bytes of data.
-
---- sanjuancollege.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5118ms
-

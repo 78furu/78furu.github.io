@@ -1,5 +1,0 @@
-PING eastern.edu (35.169.153.158) 56(84) bytes of data.
-
---- eastern.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5120ms
-

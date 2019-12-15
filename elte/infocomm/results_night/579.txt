@@ -1,5 +1,0 @@
-PING mccollege.edu (52.38.66.80) 56(84) bytes of data.
-
---- mccollege.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5113ms
-

@@ -1,5 +1,0 @@
-PING uaf.edu (137.229.114.150) 56(84) bytes of data.
-
---- uaf.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5122ms
-

@@ -1,5 +1,0 @@
-PING gettysburg.edu (138.234.4.100) 56(84) bytes of data.
-
---- gettysburg.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5100ms
-

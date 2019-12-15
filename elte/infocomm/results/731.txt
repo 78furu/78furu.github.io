@@ -1,5 +1,0 @@
-PING babson.edu (155.48.7.191) 56(84) bytes of data.
-
---- babson.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5102ms
-

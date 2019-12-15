@@ -1,5 +1,0 @@
-PING kenyon.edu (3.14.25.132) 56(84) bytes of data.
-
---- kenyon.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5100ms
-

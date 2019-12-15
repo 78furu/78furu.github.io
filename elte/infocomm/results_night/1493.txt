@@ -1,5 +1,0 @@
-PING mc3.edu (192.245.50.80) 56(84) bytes of data.
-
---- mc3.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5105ms
-

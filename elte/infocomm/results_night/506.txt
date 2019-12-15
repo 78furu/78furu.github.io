@@ -1,5 +1,0 @@
-PING drake.edu (198.7.223.242) 56(84) bytes of data.
-
---- drake.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5115ms
-

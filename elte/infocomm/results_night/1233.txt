@@ -1,5 +1,0 @@
-PING hofstra.edu (107.20.231.141) 56(84) bytes of data.
-
---- hofstra.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5122ms
-

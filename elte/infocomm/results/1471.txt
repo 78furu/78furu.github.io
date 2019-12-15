@@ -1,5 +1,0 @@
-PING jefferson.edu (35.173.209.146) 56(84) bytes of data.
-
---- jefferson.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5118ms
-

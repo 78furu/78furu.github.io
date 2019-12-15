@@ -1,5 +1,0 @@
-PING uoregon.edu (184.171.111.233) 56(84) bytes of data.
-
---- uoregon.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5109ms
-

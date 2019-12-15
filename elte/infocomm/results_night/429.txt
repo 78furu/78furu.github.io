@@ -1,5 +1,0 @@
-PING svdp.edu (35.172.94.1) 56(84) bytes of data.
-
---- svdp.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5106ms
-

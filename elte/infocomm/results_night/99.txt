@@ -1,5 +1,0 @@
-PING calbaptist.edu (12.204.91.60) 56(84) bytes of data.
-
---- calbaptist.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5100ms
-

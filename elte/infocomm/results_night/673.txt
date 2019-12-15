@@ -1,5 +1,0 @@
-PING highlandcc.edu (192.241.202.247) 56(84) bytes of data.
-
---- highlandcc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5101ms
-

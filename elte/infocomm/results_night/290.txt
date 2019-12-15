@@ -1,5 +1,0 @@
-PING venturacollege.edu (35.166.185.118) 56(84) bytes of data.
-
---- venturacollege.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5094ms
-

@@ -1,5 +1,0 @@
-PING una.edu (216.54.215.184) 56(84) bytes of data.
-
---- una.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5124ms
-

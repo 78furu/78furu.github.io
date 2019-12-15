@@ -1,5 +1,0 @@
-PING coa.edu (34.199.146.173) 56(84) bytes of data.
-
---- coa.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5120ms
-

@@ -1,6 +1,0 @@
-PING hamilton.edu (150.209.10.119) 56(84) bytes of data.
-From 24.24.6.62 (24.24.6.62) icmp_seq=4 Packet filtered
-
---- hamilton.edu ping statistics ---
-6 packets transmitted, 0 received, +1 errors, 100% packet loss, time 5411ms
-pipe 2

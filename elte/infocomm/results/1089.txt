@@ -1,5 +1,0 @@
-PING ndsu.edu (134.129.111.121) 56(84) bytes of data.
-
---- ndsu.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5117ms
-

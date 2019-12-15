@@ -1,5 +1,0 @@
-PING skagit.edu (134.39.44.146) 56(84) bytes of data.
-
---- skagit.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5070ms
-

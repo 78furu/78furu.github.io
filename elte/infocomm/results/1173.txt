@@ -1,5 +1,0 @@
-PING nmt.edu (216.54.215.142) 56(84) bytes of data.
-
---- nmt.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5104ms
-

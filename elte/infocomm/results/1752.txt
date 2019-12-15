@@ -1,5 +1,0 @@
-PING byu.edu (128.187.16.99) 56(84) bytes of data.
-
---- byu.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5119ms
-

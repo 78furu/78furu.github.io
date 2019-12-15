@@ -1,5 +1,0 @@
-PING up.edu (64.251.254.18) 56(84) bytes of data.
-
---- up.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5122ms
-

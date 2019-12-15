@@ -1,5 +1,0 @@
-PING morainevalley.edu (64.107.14.153) 56(84) bytes of data.
-
---- morainevalley.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5112ms
-

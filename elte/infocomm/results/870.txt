@@ -1,5 +1,0 @@
-PING emich.edu (52.23.179.191) 56(84) bytes of data.
-
---- emich.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5107ms
-

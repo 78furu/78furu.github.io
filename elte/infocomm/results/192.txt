@@ -1,5 +1,0 @@
-PING lattc.edu (198.188.57.2) 56(84) bytes of data.
-
---- lattc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5111ms
-

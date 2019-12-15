@@ -1,5 +1,0 @@
-PING ycp.edu (34.206.61.195) 56(84) bytes of data.
-
---- ycp.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5124ms
-

@@ -1,5 +1,0 @@
-PING ciachef.edu (13.68.134.142) 56(84) bytes of data.
-
---- ciachef.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5126ms
-

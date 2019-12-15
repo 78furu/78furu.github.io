@@ -1,5 +1,0 @@
-PING uwsp.edu (143.236.202.207) 56(84) bytes of data.
-
---- uwsp.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5112ms
-

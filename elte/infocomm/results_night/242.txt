@@ -1,5 +1,0 @@
-PING saddleback.edu (209.129.85.100) 56(84) bytes of data.
-
---- saddleback.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5085ms
-

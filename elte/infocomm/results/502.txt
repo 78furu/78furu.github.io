@@ -1,5 +1,0 @@
-PING coe.edu (192.133.84.75) 56(84) bytes of data.
-
---- coe.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5096ms
-

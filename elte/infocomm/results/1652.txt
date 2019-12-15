@@ -1,5 +1,0 @@
-PING coastalbend.edu (67.79.47.69) 56(84) bytes of data.
-
---- coastalbend.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5096ms
-

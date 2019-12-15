@@ -1,5 +1,0 @@
-PING iwu.edu (198.178.132.13) 56(84) bytes of data.
-
---- iwu.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5104ms
-

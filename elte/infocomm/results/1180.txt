@@ -1,5 +1,0 @@
-PING gbcnv.edu (134.197.186.30) 56(84) bytes of data.
-
---- gbcnv.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5124ms
-

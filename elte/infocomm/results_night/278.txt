@@ -1,5 +1,0 @@
-PING ucpress.edu (54.68.168.68) 56(84) bytes of data.
-
---- ucpress.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5127ms
-

@@ -1,5 +1,0 @@
-PING emu.edu (35.153.187.142) 56(84) bytes of data.
-
---- emu.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5120ms
-

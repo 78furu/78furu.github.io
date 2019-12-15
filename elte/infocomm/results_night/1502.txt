@@ -1,5 +1,0 @@
-PING northampton.edu (208.73.176.25) 56(84) bytes of data.
-
---- northampton.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5122ms
-

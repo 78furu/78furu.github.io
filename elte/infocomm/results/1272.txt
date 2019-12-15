@@ -1,5 +1,0 @@
-PING pratt.edu (65.51.58.140) 56(84) bytes of data.
-
---- pratt.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5111ms
-

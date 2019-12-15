@@ -1,5 +1,0 @@
-PING gsw.edu (168.18.216.210) 56(84) bytes of data.
-
---- gsw.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5124ms
-

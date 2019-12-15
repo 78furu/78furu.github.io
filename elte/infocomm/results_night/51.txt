@@ -1,5 +1,0 @@
-PING uaccb.edu (208.190.107.139) 56(84) bytes of data.
-
---- uaccb.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5112ms
-

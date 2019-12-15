@@ -1,5 +1,0 @@
-PING avila.edu (52.11.81.187) 56(84) bytes of data.
-
---- avila.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5104ms
-

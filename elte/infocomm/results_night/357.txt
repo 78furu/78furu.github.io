@@ -1,5 +1,0 @@
-PING wesleyan.edu (52.201.203.11) 56(84) bytes of data.
-
---- wesleyan.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5119ms
-

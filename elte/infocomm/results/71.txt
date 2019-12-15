@@ -1,5 +1,0 @@
-PING pima.edu (144.90.136.19) 56(84) bytes of data.
-
---- pima.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5127ms
-

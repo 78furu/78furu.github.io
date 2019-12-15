@@ -1,5 +1,0 @@
-PING sinclair.edu (140.106.57.49) 56(84) bytes of data.
-
---- sinclair.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5114ms
-

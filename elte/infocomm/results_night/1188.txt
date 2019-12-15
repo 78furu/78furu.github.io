@@ -1,5 +1,0 @@
-PING albany.edu (18.216.105.254) 56(84) bytes of data.
-
---- albany.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5115ms
-

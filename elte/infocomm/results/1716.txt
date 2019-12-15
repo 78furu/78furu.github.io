@@ -1,5 +1,0 @@
-PING tjc.edu (72.32.66.243) 56(84) bytes of data.
-
---- tjc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5125ms
-

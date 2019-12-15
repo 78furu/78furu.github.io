@@ -1,5 +1,0 @@
-PING grossmont.edu (160.227.20.224) 56(84) bytes of data.
-
---- grossmont.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5109ms
-

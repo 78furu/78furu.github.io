@@ -1,5 +1,0 @@
-PING lenoircc.edu (35.243.145.126) 56(84) bytes of data.
-
---- lenoircc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5108ms
-

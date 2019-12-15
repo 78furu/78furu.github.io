@@ -1,5 +1,0 @@
-PING twu.edu (198.178.139.215) 56(84) bytes of data.
-
---- twu.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5107ms
-

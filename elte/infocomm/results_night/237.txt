@@ -1,5 +1,0 @@
-PING redlands.edu (13.88.18.4) 56(84) bytes of data.
-
---- redlands.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5120ms
-

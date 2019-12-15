@@ -1,5 +1,0 @@
-PING lc.edu (216.125.196.117) 56(84) bytes of data.
-
---- lc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5118ms
-

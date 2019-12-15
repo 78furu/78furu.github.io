@@ -1,5 +1,0 @@
-PING kctcs.edu (67.208.145.191) 56(84) bytes of data.
-
---- kctcs.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5103ms
-

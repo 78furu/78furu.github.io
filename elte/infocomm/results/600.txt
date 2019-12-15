@@ -1,5 +1,0 @@
-PING rockvalleycollege.edu (64.107.200.207) 56(84) bytes of data.
-
---- rockvalleycollege.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5107ms
-

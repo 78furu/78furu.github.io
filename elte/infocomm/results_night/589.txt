@@ -1,5 +1,0 @@
-PING northpark.edu (192.75.211.34) 56(84) bytes of data.
-
---- northpark.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5107ms
-

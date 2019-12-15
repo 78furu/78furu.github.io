@@ -1,5 +1,0 @@
-PING nyu.edu (216.165.47.10) 56(84) bytes of data.
-
---- nyu.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5117ms
-

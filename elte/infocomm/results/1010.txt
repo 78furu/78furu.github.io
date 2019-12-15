@@ -1,5 +1,0 @@
-PING milescc.edu (207.196.242.59) 56(84) bytes of data.
-
---- milescc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5111ms
-

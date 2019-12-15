@@ -1,5 +1,0 @@
-PING traviss.edu (204.122.250.45) 56(84) bytes of data.
-
---- traviss.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5101ms
-

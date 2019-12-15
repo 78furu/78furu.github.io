@@ -1,5 +1,0 @@
-PING niagara.edu (192.188.5.61) 56(84) bytes of data.
-
---- niagara.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5100ms
-

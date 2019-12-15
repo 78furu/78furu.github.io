@@ -1,5 +1,0 @@
-PING calstate.edu (137.145.17.11) 56(84) bytes of data.
-
---- calstate.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5111ms
-

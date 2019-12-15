@@ -1,5 +1,0 @@
-PING ttu.edu (129.118.241.15) 56(84) bytes of data.
-
---- ttu.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5098ms
-

@@ -1,5 +1,0 @@
-PING butlercc.edu (75.41.39.30) 56(84) bytes of data.
-
---- butlercc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5101ms
-

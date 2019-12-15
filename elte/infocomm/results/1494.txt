@@ -1,5 +1,0 @@
-PING mercyhurst.edu (3.19.149.11) 56(84) bytes of data.
-
---- mercyhurst.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5117ms
-

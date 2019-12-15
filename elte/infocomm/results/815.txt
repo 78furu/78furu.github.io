@@ -1,5 +1,0 @@
-PING loyola.edu (144.126.4.114) 56(84) bytes of data.
-
---- loyola.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5105ms
-

@@ -1,5 +1,0 @@
-PING suny.edu (136.223.147.9) 56(84) bytes of data.
-
---- suny.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5122ms
-

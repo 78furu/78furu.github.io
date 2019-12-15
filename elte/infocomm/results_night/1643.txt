@@ -1,5 +1,0 @@
-PING austincollege.edu (198.151.179.59) 56(84) bytes of data.
-
---- austincollege.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5102ms
-

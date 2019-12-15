@@ -1,5 +1,0 @@
-PING utsouthwestern.edu (199.242.239.24) 56(84) bytes of data.
-
---- utsouthwestern.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5109ms
-

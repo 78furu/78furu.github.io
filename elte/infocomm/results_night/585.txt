@@ -1,5 +1,0 @@
-PING morton.edu (66.99.216.143) 56(84) bytes of data.
-
---- morton.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5105ms
-

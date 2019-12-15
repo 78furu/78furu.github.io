@@ -1,5 +1,0 @@
-PING georgiasouthern.edu (162.218.137.39) 56(84) bytes of data.
-
---- georgiasouthern.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5112ms
-

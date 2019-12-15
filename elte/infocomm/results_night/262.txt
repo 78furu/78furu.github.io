@@ -1,5 +1,0 @@
-PING smc.edu (207.151.69.30) 56(84) bytes of data.
-
---- smc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5098ms
-

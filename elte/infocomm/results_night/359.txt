@@ -1,5 +1,0 @@
-PING american.edu (147.9.4.186) 56(84) bytes of data.
-
---- american.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5066ms
-

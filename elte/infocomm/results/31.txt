@@ -1,5 +1,0 @@
-PING snead.edu (40.67.157.135) 56(84) bytes of data.
-
---- snead.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5120ms
-

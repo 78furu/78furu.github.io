@@ -1,5 +1,0 @@
-PING gbc.edu (107.1.39.102) 56(84) bytes of data.
-
---- gbc.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5123ms
-

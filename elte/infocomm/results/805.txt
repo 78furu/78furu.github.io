@@ -1,5 +1,0 @@
-PING frederick.edu (69.63.143.21) 56(84) bytes of data.
-
---- frederick.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5113ms
-

@@ -1,5 +1,0 @@
-PING greenville.edu (216.125.80.51) 56(84) bytes of data.
-
---- greenville.edu ping statistics ---
-6 packets transmitted, 0 received, 100% packet loss, time 5108ms
-
