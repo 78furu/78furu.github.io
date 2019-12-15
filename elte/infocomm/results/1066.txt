@@ -1,0 +1,5 @@
+PING sebts.edu (216.54.215.156) 56(84) bytes of data.
+
+--- sebts.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5097ms
+

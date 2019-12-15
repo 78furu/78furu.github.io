@@ -1,0 +1,5 @@
+PING usm.edu (131.95.7.15) 56(84) bytes of data.
+
+--- usm.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5101ms
+

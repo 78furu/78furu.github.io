@@ -1,0 +1,5 @@
+PING howard.edu (138.238.144.31) 56(84) bytes of data.
+
+--- howard.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5106ms
+

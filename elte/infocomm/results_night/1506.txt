@@ -1,0 +1,11 @@
+PING philau.edu (208.103.188.82) 56(84) bytes of data.
+64 bytes from phillyu.xxx (208.103.188.82): icmp_seq=1 ttl=109 time=127 ms
+64 bytes from phillyu.xxx (208.103.188.82): icmp_seq=2 ttl=109 time=132 ms
+64 bytes from phillyu.xxx (208.103.188.82): icmp_seq=3 ttl=109 time=132 ms
+64 bytes from phillyu.xxx (208.103.188.82): icmp_seq=4 ttl=109 time=132 ms
+64 bytes from phillyu.xxx (208.103.188.82): icmp_seq=5 ttl=109 time=132 ms
+64 bytes from phillyu.xxx (208.103.188.82): icmp_seq=6 ttl=109 time=127 ms
+
+--- philau.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5000ms
+rtt min/avg/max/mdev = 127.115/130.559/132.440/2.338 ms

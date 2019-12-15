@@ -1,0 +1,11 @@
+PING lakelandcc.edu (208.68.195.248) 56(84) bytes of data.
+64 bytes from library.lakelandcc.edu (208.68.195.248): icmp_seq=1 ttl=228 time=150 ms
+64 bytes from library.lakelandcc.edu (208.68.195.248): icmp_seq=2 ttl=228 time=149 ms
+64 bytes from library.lakelandcc.edu (208.68.195.248): icmp_seq=3 ttl=228 time=146 ms
+64 bytes from library.lakelandcc.edu (208.68.195.248): icmp_seq=4 ttl=228 time=151 ms
+64 bytes from library.lakelandcc.edu (208.68.195.248): icmp_seq=5 ttl=228 time=149 ms
+64 bytes from library.lakelandcc.edu (208.68.195.248): icmp_seq=6 ttl=228 time=156 ms
+
+--- lakelandcc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5004ms
+rtt min/avg/max/mdev = 146.581/150.657/156.594/3.022 ms

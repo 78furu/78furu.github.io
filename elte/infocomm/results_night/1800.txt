@@ -1,0 +1,11 @@
+PING vhcc.edu (135.84.124.41) 56(84) bytes of data.
+64 bytes from 135.84.124.41 (135.84.124.41): icmp_seq=1 ttl=234 time=120 ms
+64 bytes from 135.84.124.41 (135.84.124.41): icmp_seq=2 ttl=234 time=120 ms
+64 bytes from 135.84.124.41 (135.84.124.41): icmp_seq=3 ttl=234 time=120 ms
+64 bytes from 135.84.124.41 (135.84.124.41): icmp_seq=4 ttl=234 time=120 ms
+64 bytes from 135.84.124.41 (135.84.124.41): icmp_seq=5 ttl=234 time=120 ms
+64 bytes from 135.84.124.41 (135.84.124.41): icmp_seq=6 ttl=234 time=119 ms
+
+--- vhcc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 14124ms
+rtt min/avg/max/mdev = 119.984/120.399/120.758/0.263 ms

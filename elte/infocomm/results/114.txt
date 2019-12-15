@@ -1,0 +1,11 @@
+PING chapman.edu (192.77.116.204) 56(84) bytes of data.
+64 bytes from www.chapman.edu (192.77.116.204): icmp_seq=1 ttl=234 time=165 ms
+64 bytes from www.chapman.edu (192.77.116.204): icmp_seq=2 ttl=234 time=165 ms
+64 bytes from www.chapman.edu (192.77.116.204): icmp_seq=3 ttl=234 time=164 ms
+64 bytes from www.chapman.edu (192.77.116.204): icmp_seq=4 ttl=234 time=165 ms
+64 bytes from www.chapman.edu (192.77.116.204): icmp_seq=5 ttl=234 time=164 ms
+64 bytes from www.chapman.edu (192.77.116.204): icmp_seq=6 ttl=234 time=166 ms
+
+--- chapman.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 164.685/165.261/166.009/0.473 ms

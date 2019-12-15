@@ -1,0 +1,11 @@
+PING stolaf.edu (199.91.183.16) 56(84) bytes of data.
+64 bytes from wp.stolaf.edu (199.91.183.16): icmp_seq=1 ttl=42 time=131 ms
+64 bytes from wp.stolaf.edu (199.91.183.16): icmp_seq=2 ttl=42 time=132 ms
+64 bytes from wp.stolaf.edu (199.91.183.16): icmp_seq=3 ttl=42 time=145 ms
+64 bytes from wp.stolaf.edu (199.91.183.16): icmp_seq=4 ttl=42 time=130 ms
+64 bytes from wp.stolaf.edu (199.91.183.16): icmp_seq=5 ttl=42 time=131 ms
+64 bytes from wp.stolaf.edu (199.91.183.16): icmp_seq=6 ttl=42 time=138 ms
+
+--- stolaf.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5001ms
+rtt min/avg/max/mdev = 130.957/134.817/145.410/5.363 ms

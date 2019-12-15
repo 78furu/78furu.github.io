@@ -1,0 +1,11 @@
+PING usciences.edu (216.38.0.34) 56(84) bytes of data.
+64 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=1 ttl=38 time=127 ms
+64 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=2 ttl=38 time=127 ms
+64 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=3 ttl=38 time=127 ms
+64 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=4 ttl=38 time=126 ms
+64 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=5 ttl=38 time=126 ms
+64 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=6 ttl=38 time=127 ms
+
+--- usciences.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 126.926/127.144/127.375/0.258 ms

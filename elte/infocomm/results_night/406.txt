@@ -1,0 +1,5 @@
+PING mdc.edu (147.70.29.8) 56(84) bytes of data.
+
+--- mdc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5117ms
+

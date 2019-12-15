@@ -1,0 +1,11 @@
+PING gccaz.edu (192.230.67.140) 56(84) bytes of data.
+64 bytes from 192.230.67.140.ip.incapdns.net (192.230.67.140): icmp_seq=1 ttl=46 time=111 ms
+64 bytes from 192.230.67.140.ip.incapdns.net (192.230.67.140): icmp_seq=2 ttl=46 time=111 ms
+64 bytes from 192.230.67.140.ip.incapdns.net (192.230.67.140): icmp_seq=3 ttl=46 time=112 ms
+64 bytes from 192.230.67.140.ip.incapdns.net (192.230.67.140): icmp_seq=4 ttl=46 time=111 ms
+64 bytes from 192.230.67.140.ip.incapdns.net (192.230.67.140): icmp_seq=5 ttl=46 time=111 ms
+64 bytes from 192.230.67.140.ip.incapdns.net (192.230.67.140): icmp_seq=6 ttl=46 time=111 ms
+
+--- gccaz.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 111.192/111.567/112.013/0.522 ms

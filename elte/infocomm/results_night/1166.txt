@@ -1,0 +1,11 @@
+PING pccc.edu (130.156.38.100) 56(84) bytes of data.
+64 bytes from pccc.edu (130.156.38.100): icmp_seq=1 ttl=46 time=111 ms
+64 bytes from pccc.edu (130.156.38.100): icmp_seq=2 ttl=46 time=110 ms
+64 bytes from pccc.edu (130.156.38.100): icmp_seq=3 ttl=46 time=111 ms
+64 bytes from pccc.edu (130.156.38.100): icmp_seq=4 ttl=46 time=110 ms
+64 bytes from pccc.edu (130.156.38.100): icmp_seq=5 ttl=46 time=111 ms
+64 bytes from pccc.edu (130.156.38.100): icmp_seq=6 ttl=46 time=110 ms
+
+--- pccc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 110.716/110.919/111.032/0.294 ms

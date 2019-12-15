@@ -1,0 +1,11 @@
+PING iu.edu (129.79.78.188) 56(84) bytes of data.
+64 bytes from zeus2-iu.gateway.indiana.edu (129.79.78.188): icmp_seq=1 ttl=43 time=127 ms
+64 bytes from zeus2-iu.gateway.indiana.edu (129.79.78.188): icmp_seq=2 ttl=43 time=135 ms
+64 bytes from zeus2-iu.gateway.indiana.edu (129.79.78.188): icmp_seq=3 ttl=43 time=126 ms
+64 bytes from zeus2-iu.gateway.indiana.edu (129.79.78.188): icmp_seq=4 ttl=43 time=126 ms
+64 bytes from zeus2-iu.gateway.indiana.edu (129.79.78.188): icmp_seq=5 ttl=43 time=126 ms
+64 bytes from zeus2-iu.gateway.indiana.edu (129.79.78.188): icmp_seq=6 ttl=43 time=142 ms
+
+--- iu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 126.387/130.993/142.750/6.158 ms

@@ -1,0 +1,5 @@
+PING iup.edu (144.80.198.92) 56(84) bytes of data.
+
+--- iup.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5126ms
+

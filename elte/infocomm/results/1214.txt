@@ -1,0 +1,11 @@
+PING dowling.edu (66.39.23.172) 56(84) bytes of data.
+64 bytes from skypoint.cc (66.39.23.172): icmp_seq=1 ttl=40 time=120 ms
+64 bytes from skypoint.cc (66.39.23.172): icmp_seq=2 ttl=40 time=120 ms
+64 bytes from skypoint.cc (66.39.23.172): icmp_seq=3 ttl=40 time=121 ms
+64 bytes from skypoint.cc (66.39.23.172): icmp_seq=4 ttl=40 time=120 ms
+64 bytes from skypoint.cc (66.39.23.172): icmp_seq=5 ttl=40 time=121 ms
+64 bytes from skypoint.cc (66.39.23.172): icmp_seq=6 ttl=40 time=121 ms
+
+--- dowling.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5001ms
+rtt min/avg/max/mdev = 120.786/121.150/121.838/0.439 ms

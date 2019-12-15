@@ -1,0 +1,11 @@
+PING brandman.edu (35.164.177.254) 56(84) bytes of data.
+64 bytes from ec2-35-164-177-254.us-west-2.compute.amazonaws.com (35.164.177.254): icmp_seq=1 ttl=216 time=187 ms
+64 bytes from ec2-35-164-177-254.us-west-2.compute.amazonaws.com (35.164.177.254): icmp_seq=2 ttl=216 time=187 ms
+64 bytes from ec2-35-164-177-254.us-west-2.compute.amazonaws.com (35.164.177.254): icmp_seq=3 ttl=216 time=186 ms
+64 bytes from ec2-35-164-177-254.us-west-2.compute.amazonaws.com (35.164.177.254): icmp_seq=4 ttl=216 time=186 ms
+64 bytes from ec2-35-164-177-254.us-west-2.compute.amazonaws.com (35.164.177.254): icmp_seq=5 ttl=216 time=188 ms
+64 bytes from ec2-35-164-177-254.us-west-2.compute.amazonaws.com (35.164.177.254): icmp_seq=6 ttl=216 time=186 ms
+
+--- brandman.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 186.591/187.152/188.694/0.755 ms

@@ -1,0 +1,11 @@
+PING nmsu.edu (128.123.3.2) 56(84) bytes of data.
+64 bytes from 128.123.3.2 (128.123.3.2): icmp_seq=1 ttl=227 time=152 ms
+64 bytes from 128.123.3.2 (128.123.3.2): icmp_seq=2 ttl=227 time=152 ms
+64 bytes from 128.123.3.2 (128.123.3.2): icmp_seq=3 ttl=227 time=153 ms
+64 bytes from 128.123.3.2 (128.123.3.2): icmp_seq=4 ttl=227 time=152 ms
+64 bytes from 128.123.3.2 (128.123.3.2): icmp_seq=5 ttl=227 time=152 ms
+64 bytes from 128.123.3.2 (128.123.3.2): icmp_seq=6 ttl=227 time=152 ms
+
+--- nmsu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 152.268/152.723/153.337/0.492 ms

@@ -1,0 +1,5 @@
+PING ohlone.edu (52.52.16.141) 56(84) bytes of data.
+
+--- ohlone.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5103ms
+

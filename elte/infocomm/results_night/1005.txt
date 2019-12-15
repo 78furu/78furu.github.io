@@ -1,0 +1,5 @@
+PING iccms.edu (216.79.146.153) 56(84) bytes of data.
+
+--- iccms.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5080ms
+

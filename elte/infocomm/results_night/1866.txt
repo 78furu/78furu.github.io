@@ -1,0 +1,5 @@
+PING wwu.edu (140.160.254.47) 56(84) bytes of data.
+
+--- wwu.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5095ms
+

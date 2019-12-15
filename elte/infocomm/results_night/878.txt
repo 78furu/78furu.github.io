@@ -1,0 +1,11 @@
+PING jccmi.edu (104.154.118.190) 56(84) bytes of data.
+64 bytes from 190.118.154.104.bc.googleusercontent.com (104.154.118.190): icmp_seq=1 ttl=47 time=120 ms
+64 bytes from 190.118.154.104.bc.googleusercontent.com (104.154.118.190): icmp_seq=2 ttl=47 time=120 ms
+64 bytes from 190.118.154.104.bc.googleusercontent.com (104.154.118.190): icmp_seq=3 ttl=47 time=119 ms
+64 bytes from 190.118.154.104.bc.googleusercontent.com (104.154.118.190): icmp_seq=4 ttl=47 time=119 ms
+64 bytes from 190.118.154.104.bc.googleusercontent.com (104.154.118.190): icmp_seq=5 ttl=47 time=119 ms
+64 bytes from 190.118.154.104.bc.googleusercontent.com (104.154.118.190): icmp_seq=6 ttl=47 time=120 ms
+
+--- jccmi.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 119.765/119.979/120.229/0.156 ms

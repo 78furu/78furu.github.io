@@ -1,0 +1,5 @@
+PING fairfield.edu (192.160.244.19) 56(84) bytes of data.
+
+--- fairfield.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5106ms
+

@@ -1,0 +1,11 @@
+PING josephscollege.edu (70.34.32.58) 56(84) bytes of data.
+64 bytes from intellicomweb.com (70.34.32.58): icmp_seq=1 ttl=44 time=120 ms
+64 bytes from intellicomweb.com (70.34.32.58): icmp_seq=2 ttl=44 time=123 ms
+64 bytes from intellicomweb.com (70.34.32.58): icmp_seq=3 ttl=44 time=123 ms
+64 bytes from intellicomweb.com (70.34.32.58): icmp_seq=4 ttl=44 time=119 ms
+64 bytes from intellicomweb.com (70.34.32.58): icmp_seq=5 ttl=44 time=120 ms
+64 bytes from intellicomweb.com (70.34.32.58): icmp_seq=6 ttl=44 time=119 ms
+
+--- josephscollege.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 119.409/121.137/123.998/1.771 ms

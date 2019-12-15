@@ -1,0 +1,11 @@
+PING perrytech.edu (50.116.13.51) 56(84) bytes of data.
+64 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=1 ttl=35 time=180 ms
+64 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=2 ttl=35 time=181 ms
+64 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=3 ttl=35 time=180 ms
+64 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=4 ttl=35 time=180 ms
+64 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=5 ttl=35 time=180 ms
+64 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=6 ttl=35 time=180 ms
+
+--- perrytech.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 180.465/180.714/181.043/0.194 ms

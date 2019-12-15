@@ -1,0 +1,11 @@
+PING slu.edu (216.146.46.10) 56(84) bytes of data.
+64 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=1 ttl=46 time=104 ms
+64 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=2 ttl=46 time=105 ms
+64 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=3 ttl=46 time=104 ms
+64 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=4 ttl=46 time=105 ms
+64 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=5 ttl=46 time=104 ms
+64 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=6 ttl=46 time=104 ms
+
+--- slu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 104.435/104.875/105.342/0.393 ms

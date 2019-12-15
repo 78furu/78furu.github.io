@@ -1,0 +1,5 @@
+PING seattleu.edu (54.148.86.219) 56(84) bytes of data.
+
+--- seattleu.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5107ms
+

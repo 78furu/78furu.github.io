@@ -1,0 +1,11 @@
+PING umflint.edu (141.216.3.108) 56(84) bytes of data.
+64 bytes from umf-dc4.umflint.edu (141.216.3.108): icmp_seq=1 ttl=106 time=118 ms
+64 bytes from umf-dc4.umflint.edu (141.216.3.108): icmp_seq=2 ttl=106 time=118 ms
+64 bytes from umf-dc4.umflint.edu (141.216.3.108): icmp_seq=3 ttl=106 time=128 ms
+64 bytes from umf-dc4.umflint.edu (141.216.3.108): icmp_seq=4 ttl=106 time=119 ms
+64 bytes from umf-dc4.umflint.edu (141.216.3.108): icmp_seq=5 ttl=106 time=119 ms
+64 bytes from umf-dc4.umflint.edu (141.216.3.108): icmp_seq=6 ttl=106 time=129 ms
+
+--- umflint.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 118.358/122.355/129.370/4.689 ms

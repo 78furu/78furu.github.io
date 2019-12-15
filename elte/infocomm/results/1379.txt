@@ -1,0 +1,10 @@
+PING osu.edu (140.254.112.130) 56(84) bytes of data.
+64 bytes from WH-prdosuedu130-VIP.it.ohio-state.edu (140.254.112.130): icmp_seq=1 ttl=232 time=126 ms
+64 bytes from WH-prdosuedu130-VIP.it.ohio-state.edu (140.254.112.130): icmp_seq=2 ttl=232 time=126 ms
+64 bytes from WH-prdosuedu130-VIP.it.ohio-state.edu (140.254.112.130): icmp_seq=3 ttl=232 time=132 ms
+64 bytes from WH-prdosuedu130-VIP.it.ohio-state.edu (140.254.112.130): icmp_seq=5 ttl=232 time=130 ms
+64 bytes from WH-prdosuedu130-VIP.it.ohio-state.edu (140.254.112.130): icmp_seq=6 ttl=232 time=131 ms
+
+--- osu.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5308ms
+rtt min/avg/max/mdev = 126.115/129.578/132.379/2.678 ms

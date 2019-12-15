@@ -1,0 +1,5 @@
+PING nunez.edu (107.20.149.85) 56(84) bytes of data.
+
+--- nunez.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5110ms
+

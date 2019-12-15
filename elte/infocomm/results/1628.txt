@@ -1,0 +1,11 @@
+PING twcnet.edu (173.236.125.42) 56(84) bytes of data.
+64 bytes from server2.guilddev.com (173.236.125.42): icmp_seq=1 ttl=45 time=129 ms
+64 bytes from server2.guilddev.com (173.236.125.42): icmp_seq=2 ttl=45 time=126 ms
+64 bytes from server2.guilddev.com (173.236.125.42): icmp_seq=3 ttl=45 time=127 ms
+64 bytes from server2.guilddev.com (173.236.125.42): icmp_seq=4 ttl=45 time=127 ms
+64 bytes from server2.guilddev.com (173.236.125.42): icmp_seq=5 ttl=45 time=130 ms
+64 bytes from server2.guilddev.com (173.236.125.42): icmp_seq=6 ttl=45 time=129 ms
+
+--- twcnet.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 126.922/128.571/130.433/1.453 ms

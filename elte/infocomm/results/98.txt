@@ -1,0 +1,11 @@
+PING calarts.edu (198.182.157.167) 56(84) bytes of data.
+64 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=1 ttl=35 time=172 ms
+64 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=2 ttl=35 time=173 ms
+64 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=3 ttl=35 time=172 ms
+64 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=4 ttl=35 time=172 ms
+64 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=5 ttl=35 time=172 ms
+64 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=6 ttl=35 time=174 ms
+
+--- calarts.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 172.435/173.179/174.888/0.945 ms

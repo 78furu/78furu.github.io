@@ -1,0 +1,10 @@
+PING hope.edu (209.140.194.21) 56(84) bytes of data.
+64 bytes from blue.hope.edu (209.140.194.21): icmp_seq=2 ttl=42 time=122 ms
+64 bytes from blue.hope.edu (209.140.194.21): icmp_seq=3 ttl=42 time=128 ms
+64 bytes from blue.hope.edu (209.140.194.21): icmp_seq=4 ttl=42 time=122 ms
+64 bytes from blue.hope.edu (209.140.194.21): icmp_seq=5 ttl=42 time=126 ms
+64 bytes from blue.hope.edu (209.140.194.21): icmp_seq=6 ttl=42 time=122 ms
+
+--- hope.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5025ms
+rtt min/avg/max/mdev = 122.369/124.618/128.947/2.747 ms

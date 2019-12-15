@@ -1,0 +1,11 @@
+PING lssu.edu (104.198.158.154) 56(84) bytes of data.
+64 bytes from 154.158.198.104.bc.googleusercontent.com (104.198.158.154): icmp_seq=1 ttl=49 time=122 ms
+64 bytes from 154.158.198.104.bc.googleusercontent.com (104.198.158.154): icmp_seq=2 ttl=49 time=122 ms
+64 bytes from 154.158.198.104.bc.googleusercontent.com (104.198.158.154): icmp_seq=3 ttl=49 time=124 ms
+64 bytes from 154.158.198.104.bc.googleusercontent.com (104.198.158.154): icmp_seq=4 ttl=49 time=123 ms
+64 bytes from 154.158.198.104.bc.googleusercontent.com (104.198.158.154): icmp_seq=5 ttl=49 time=122 ms
+64 bytes from 154.158.198.104.bc.googleusercontent.com (104.198.158.154): icmp_seq=6 ttl=49 time=139 ms
+
+--- lssu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 122.125/125.887/139.859/6.310 ms

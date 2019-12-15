@@ -1,0 +1,11 @@
+PING vcsu.edu (134.129.3.179) 56(84) bytes of data.
+64 bytes from webserv.vcsu.edu (134.129.3.179): icmp_seq=1 ttl=41 time=136 ms
+64 bytes from webserv.vcsu.edu (134.129.3.179): icmp_seq=2 ttl=41 time=135 ms
+64 bytes from webserv.vcsu.edu (134.129.3.179): icmp_seq=3 ttl=41 time=135 ms
+64 bytes from webserv.vcsu.edu (134.129.3.179): icmp_seq=4 ttl=41 time=135 ms
+64 bytes from webserv.vcsu.edu (134.129.3.179): icmp_seq=5 ttl=41 time=135 ms
+64 bytes from webserv.vcsu.edu (134.129.3.179): icmp_seq=6 ttl=41 time=135 ms
+
+--- vcsu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 135.425/135.711/136.015/0.202 ms

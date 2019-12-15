@@ -1,0 +1,11 @@
+PING msubillings.edu (192.156.215.222) 56(84) bytes of data.
+64 bytes from store.msubillings.edu (192.156.215.222): icmp_seq=1 ttl=102 time=149 ms
+64 bytes from store.msubillings.edu (192.156.215.222): icmp_seq=2 ttl=102 time=157 ms
+64 bytes from store.msubillings.edu (192.156.215.222): icmp_seq=3 ttl=102 time=149 ms
+64 bytes from store.msubillings.edu (192.156.215.222): icmp_seq=4 ttl=102 time=149 ms
+64 bytes from store.msubillings.edu (192.156.215.222): icmp_seq=5 ttl=102 time=148 ms
+64 bytes from store.msubillings.edu (192.156.215.222): icmp_seq=6 ttl=102 time=149 ms
+
+--- msubillings.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5000ms
+rtt min/avg/max/mdev = 148.996/150.709/157.627/3.123 ms

@@ -1,0 +1,11 @@
+PING nmc.edu (198.108.199.10) 56(84) bytes of data.
+64 bytes from web.nmc.edu (198.108.199.10): icmp_seq=1 ttl=42 time=129 ms
+64 bytes from web.nmc.edu (198.108.199.10): icmp_seq=2 ttl=42 time=129 ms
+64 bytes from web.nmc.edu (198.108.199.10): icmp_seq=3 ttl=42 time=128 ms
+64 bytes from web.nmc.edu (198.108.199.10): icmp_seq=4 ttl=42 time=128 ms
+64 bytes from web.nmc.edu (198.108.199.10): icmp_seq=5 ttl=42 time=128 ms
+64 bytes from web.nmc.edu (198.108.199.10): icmp_seq=6 ttl=42 time=129 ms
+
+--- nmc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 128.877/129.168/129.894/0.543 ms

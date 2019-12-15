@@ -1,0 +1,11 @@
+PING kgi.edu (35.224.88.2) 56(84) bytes of data.
+64 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=1 ttl=49 time=120 ms
+64 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=2 ttl=49 time=120 ms
+64 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=3 ttl=49 time=120 ms
+64 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=4 ttl=49 time=124 ms
+64 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=5 ttl=49 time=120 ms
+64 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=6 ttl=49 time=121 ms
+
+--- kgi.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 120.475/121.410/124.128/1.348 ms

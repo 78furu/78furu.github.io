@@ -1,0 +1,11 @@
+PING ohio.edu (132.235.8.52) 56(84) bytes of data.
+64 bytes from ohio.edu (132.235.8.52): icmp_seq=1 ttl=226 time=158 ms
+64 bytes from ohio.edu (132.235.8.52): icmp_seq=2 ttl=226 time=143 ms
+64 bytes from ohio.edu (132.235.8.52): icmp_seq=3 ttl=226 time=149 ms
+64 bytes from ohio.edu (132.235.8.52): icmp_seq=4 ttl=226 time=144 ms
+64 bytes from ohio.edu (132.235.8.52): icmp_seq=5 ttl=226 time=157 ms
+64 bytes from ohio.edu (132.235.8.52): icmp_seq=6 ttl=226 time=150 ms
+
+--- ohio.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 143.280/150.629/158.174/5.804 ms

@@ -1,0 +1,16 @@
+PING bellarmine.edu (198.190.212.28) 56(84) bytes of data.
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=1 ttl=99 time=135 ms
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=1 ttl=99 time=135 ms (DUP!)
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=2 ttl=99 time=132 ms
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=2 ttl=99 time=132 ms (DUP!)
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=3 ttl=99 time=133 ms
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=3 ttl=99 time=133 ms (DUP!)
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=4 ttl=99 time=132 ms
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=4 ttl=99 time=132 ms (DUP!)
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=5 ttl=99 time=132 ms
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=5 ttl=99 time=133 ms (DUP!)
+64 bytes from thomasmertonsociety.org (198.190.212.28): icmp_seq=6 ttl=99 time=132 ms
+
+--- bellarmine.edu ping statistics ---
+6 packets transmitted, 6 received, +5 duplicates, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 132.564/133.409/135.253/1.009 ms

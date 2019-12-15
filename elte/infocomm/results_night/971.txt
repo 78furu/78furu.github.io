@@ -1,0 +1,11 @@
+PING ncmissouri.edu (146.66.113.183) 56(84) bytes of data.
+64 bytes from ip-146-66-113-183.siteground.com (146.66.113.183): icmp_seq=1 ttl=46 time=124 ms
+64 bytes from ip-146-66-113-183.siteground.com (146.66.113.183): icmp_seq=2 ttl=46 time=119 ms
+64 bytes from ip-146-66-113-183.siteground.com (146.66.113.183): icmp_seq=3 ttl=46 time=119 ms
+64 bytes from ip-146-66-113-183.siteground.com (146.66.113.183): icmp_seq=4 ttl=46 time=119 ms
+64 bytes from ip-146-66-113-183.siteground.com (146.66.113.183): icmp_seq=5 ttl=46 time=119 ms
+64 bytes from ip-146-66-113-183.siteground.com (146.66.113.183): icmp_seq=6 ttl=46 time=119 ms
+
+--- ncmissouri.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 119.612/120.580/124.650/1.876 ms

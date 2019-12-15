@@ -1,0 +1,5 @@
+PING mus.edu (150.131.193.223) 56(84) bytes of data.
+
+--- mus.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5120ms
+

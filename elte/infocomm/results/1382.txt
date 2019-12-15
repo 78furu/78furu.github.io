@@ -1,0 +1,10 @@
+PING ecok.edu (198.11.7.250) 56(84) bytes of data.
+64 bytes from 198.11.7.250 (198.11.7.250): icmp_seq=1 ttl=39 time=152 ms
+64 bytes from 198.11.7.250 (198.11.7.250): icmp_seq=2 ttl=39 time=154 ms
+64 bytes from 198.11.7.250 (198.11.7.250): icmp_seq=3 ttl=39 time=156 ms
+64 bytes from 198.11.7.250 (198.11.7.250): icmp_seq=5 ttl=39 time=152 ms
+64 bytes from 198.11.7.250 (198.11.7.250): icmp_seq=6 ttl=39 time=158 ms
+
+--- ecok.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 14185ms
+rtt min/avg/max/mdev = 152.029/154.748/158.543/2.497 ms

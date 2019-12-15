@@ -1,0 +1,11 @@
+PING lewisu.edu (204.248.57.178) 56(84) bytes of data.
+64 bytes from www.lewisu.edu (204.248.57.178): icmp_seq=1 ttl=102 time=121 ms
+64 bytes from www.lewisu.edu (204.248.57.178): icmp_seq=2 ttl=102 time=121 ms
+64 bytes from www.lewisu.edu (204.248.57.178): icmp_seq=3 ttl=102 time=121 ms
+64 bytes from www.lewisu.edu (204.248.57.178): icmp_seq=4 ttl=102 time=120 ms
+64 bytes from www.lewisu.edu (204.248.57.178): icmp_seq=5 ttl=102 time=121 ms
+64 bytes from www.lewisu.edu (204.248.57.178): icmp_seq=6 ttl=102 time=120 ms
+
+--- lewisu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 120.890/121.085/121.338/0.382 ms

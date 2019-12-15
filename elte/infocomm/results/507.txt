@@ -1,0 +1,5 @@
+PING dwci.edu (54.210.119.120) 56(84) bytes of data.
+
+--- dwci.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5112ms
+

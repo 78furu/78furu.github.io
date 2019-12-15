@@ -1,0 +1,11 @@
+PING uscb.edu (173.199.177.208) 56(84) bytes of data.
+64 bytes from host2.uscb.edu (173.199.177.208): icmp_seq=1 ttl=37 time=136 ms
+64 bytes from host2.uscb.edu (173.199.177.208): icmp_seq=2 ttl=37 time=135 ms
+64 bytes from host2.uscb.edu (173.199.177.208): icmp_seq=3 ttl=37 time=135 ms
+64 bytes from host2.uscb.edu (173.199.177.208): icmp_seq=4 ttl=37 time=135 ms
+64 bytes from host2.uscb.edu (173.199.177.208): icmp_seq=5 ttl=37 time=135 ms
+64 bytes from host2.uscb.edu (173.199.177.208): icmp_seq=6 ttl=37 time=138 ms
+
+--- uscb.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 135.473/136.056/138.210/1.073 ms

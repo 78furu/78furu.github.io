@@ -1,0 +1,5 @@
+PING duq.edu (165.190.1.15) 56(84) bytes of data.
+
+--- duq.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5116ms
+

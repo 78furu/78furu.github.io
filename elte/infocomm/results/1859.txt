@@ -1,0 +1,11 @@
+PING uwb.edu (140.142.158.99) 56(84) bytes of data.
+64 bytes from dc2-twr.uwb.edu (140.142.158.99): icmp_seq=1 ttl=102 time=184 ms
+64 bytes from dc2-twr.uwb.edu (140.142.158.99): icmp_seq=2 ttl=102 time=180 ms
+64 bytes from dc2-twr.uwb.edu (140.142.158.99): icmp_seq=3 ttl=102 time=186 ms
+64 bytes from dc2-twr.uwb.edu (140.142.158.99): icmp_seq=4 ttl=102 time=177 ms
+64 bytes from dc2-twr.uwb.edu (140.142.158.99): icmp_seq=5 ttl=102 time=180 ms
+64 bytes from dc2-twr.uwb.edu (140.142.158.99): icmp_seq=6 ttl=102 time=178 ms
+
+--- uwb.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 177.648/181.284/186.899/3.407 ms

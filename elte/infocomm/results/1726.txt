@@ -1,0 +1,11 @@
+PING uh.edu (129.7.97.54) 56(84) bytes of data.
+64 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=1 ttl=232 time=156 ms
+64 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=2 ttl=232 time=155 ms
+64 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=3 ttl=232 time=155 ms
+64 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=4 ttl=232 time=155 ms
+64 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=5 ttl=232 time=155 ms
+64 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=6 ttl=232 time=156 ms
+
+--- uh.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5004ms
+rtt min/avg/max/mdev = 155.777/156.000/156.342/0.185 ms

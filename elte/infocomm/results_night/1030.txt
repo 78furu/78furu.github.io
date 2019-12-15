@@ -1,0 +1,11 @@
+PING cravencc.edu (37.60.233.38) 56(84) bytes of data.
+64 bytes from c12806.sgvps.net (37.60.233.38): icmp_seq=1 ttl=46 time=118 ms
+64 bytes from c12806.sgvps.net (37.60.233.38): icmp_seq=2 ttl=46 time=118 ms
+64 bytes from c12806.sgvps.net (37.60.233.38): icmp_seq=3 ttl=46 time=118 ms
+64 bytes from c12806.sgvps.net (37.60.233.38): icmp_seq=4 ttl=46 time=118 ms
+64 bytes from c12806.sgvps.net (37.60.233.38): icmp_seq=5 ttl=46 time=118 ms
+64 bytes from c12806.sgvps.net (37.60.233.38): icmp_seq=6 ttl=46 time=119 ms
+
+--- cravencc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 118.544/118.764/119.079/0.393 ms

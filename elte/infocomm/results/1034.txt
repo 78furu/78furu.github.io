@@ -1,0 +1,11 @@
+PING ecsu.edu (216.38.10.223) 56(84) bytes of data.
+64 bytes from 216.38.10.223 (216.38.10.223): icmp_seq=1 ttl=37 time=129 ms
+64 bytes from 216.38.10.223 (216.38.10.223): icmp_seq=2 ttl=37 time=130 ms
+64 bytes from 216.38.10.223 (216.38.10.223): icmp_seq=3 ttl=37 time=128 ms
+64 bytes from 216.38.10.223 (216.38.10.223): icmp_seq=4 ttl=37 time=128 ms
+64 bytes from 216.38.10.223 (216.38.10.223): icmp_seq=5 ttl=37 time=131 ms
+64 bytes from 216.38.10.223 (216.38.10.223): icmp_seq=6 ttl=37 time=128 ms
+
+--- ecsu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5004ms
+rtt min/avg/max/mdev = 128.010/129.263/131.168/1.173 ms

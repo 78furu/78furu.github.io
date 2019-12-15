@@ -1,0 +1,5 @@
+PING rocky.edu (63.158.238.68) 56(84) bytes of data.
+
+--- rocky.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5100ms
+

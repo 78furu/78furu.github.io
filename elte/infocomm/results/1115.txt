@@ -1,0 +1,10 @@
+PING colby-sawyer.edu (104.130.244.188) 56(84) bytes of data.
+64 bytes from 104.130.244.188 (104.130.244.188): icmp_seq=2 ttl=38 time=128 ms
+64 bytes from 104.130.244.188 (104.130.244.188): icmp_seq=3 ttl=38 time=129 ms
+64 bytes from 104.130.244.188 (104.130.244.188): icmp_seq=4 ttl=38 time=129 ms
+64 bytes from 104.130.244.188 (104.130.244.188): icmp_seq=5 ttl=38 time=129 ms
+64 bytes from 104.130.244.188 (104.130.244.188): icmp_seq=6 ttl=38 time=128 ms
+
+--- colby-sawyer.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5010ms
+rtt min/avg/max/mdev = 128.089/128.926/129.690/0.709 ms

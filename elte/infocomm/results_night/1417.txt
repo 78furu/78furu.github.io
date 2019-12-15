@@ -1,0 +1,5 @@
+PING linnbenton.edu (69.63.136.47) 56(84) bytes of data.
+
+--- linnbenton.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5106ms
+

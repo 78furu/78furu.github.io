@@ -1,0 +1,5 @@
+PING piedmontcc.edu (40.76.84.175) 56(84) bytes of data.
+
+--- piedmontcc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5102ms
+

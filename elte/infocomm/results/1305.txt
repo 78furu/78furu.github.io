@@ -1,0 +1,5 @@
+PING usma.edu (3.213.208.205) 56(84) bytes of data.
+
+--- usma.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5103ms
+

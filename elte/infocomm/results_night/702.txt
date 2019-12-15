@@ -1,0 +1,11 @@
+PING murraystate.edu (216.249.159.7) 56(84) bytes of data.
+64 bytes from www.podsecuritymatters.com (216.249.159.7): icmp_seq=1 ttl=103 time=136 ms
+64 bytes from www.podsecuritymatters.com (216.249.159.7): icmp_seq=2 ttl=103 time=136 ms
+64 bytes from www.podsecuritymatters.com (216.249.159.7): icmp_seq=3 ttl=103 time=135 ms
+64 bytes from www.podsecuritymatters.com (216.249.159.7): icmp_seq=4 ttl=103 time=135 ms
+64 bytes from www.podsecuritymatters.com (216.249.159.7): icmp_seq=5 ttl=103 time=135 ms
+64 bytes from www.podsecuritymatters.com (216.249.159.7): icmp_seq=6 ttl=103 time=135 ms
+
+--- murraystate.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 135.824/135.954/136.237/0.151 ms

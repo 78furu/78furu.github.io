@@ -1,0 +1,11 @@
+PING neci.edu (104.31.83.244) 56(84) bytes of data.
+64 bytes from 104.31.83.244 (104.31.83.244): icmp_seq=1 ttl=54 time=1.61 ms
+64 bytes from 104.31.83.244 (104.31.83.244): icmp_seq=2 ttl=54 time=1.54 ms
+64 bytes from 104.31.83.244 (104.31.83.244): icmp_seq=3 ttl=54 time=1.66 ms
+64 bytes from 104.31.83.244 (104.31.83.244): icmp_seq=4 ttl=54 time=1.54 ms
+64 bytes from 104.31.83.244 (104.31.83.244): icmp_seq=5 ttl=54 time=1.89 ms
+64 bytes from 104.31.83.244 (104.31.83.244): icmp_seq=6 ttl=54 time=1.65 ms
+
+--- neci.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 1.543/1.654/1.899/0.124 ms

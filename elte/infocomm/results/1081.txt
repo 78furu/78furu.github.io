@@ -1,0 +1,11 @@
+PING warren-wilson.edu (23.185.0.1) 56(84) bytes of data.
+64 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=1 ttl=52 time=14.6 ms
+64 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=2 ttl=52 time=15.3 ms
+64 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=3 ttl=52 time=15.3 ms
+64 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=4 ttl=52 time=15.5 ms
+64 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=5 ttl=52 time=14.9 ms
+64 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=6 ttl=52 time=17.7 ms
+
+--- warren-wilson.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 14.699/15.604/17.738/1.008 ms

@@ -1,0 +1,5 @@
+PING harpercollege.edu (52.162.241.134) 56(84) bytes of data.
+
+--- harpercollege.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5100ms
+

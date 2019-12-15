@@ -1,0 +1,11 @@
+PING jsc.edu (107.180.56.176) 56(84) bytes of data.
+64 bytes from ip-107-180-56-176.ip.secureserver.net (107.180.56.176): icmp_seq=1 ttl=41 time=110 ms
+64 bytes from ip-107-180-56-176.ip.secureserver.net (107.180.56.176): icmp_seq=2 ttl=41 time=110 ms
+64 bytes from ip-107-180-56-176.ip.secureserver.net (107.180.56.176): icmp_seq=3 ttl=41 time=110 ms
+64 bytes from ip-107-180-56-176.ip.secureserver.net (107.180.56.176): icmp_seq=4 ttl=41 time=111 ms
+64 bytes from ip-107-180-56-176.ip.secureserver.net (107.180.56.176): icmp_seq=5 ttl=41 time=110 ms
+64 bytes from ip-107-180-56-176.ip.secureserver.net (107.180.56.176): icmp_seq=6 ttl=41 time=110 ms
+
+--- jsc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 110.407/110.587/111.156/0.261 ms

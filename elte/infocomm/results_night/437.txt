@@ -1,0 +1,11 @@
+PING ut.edu (216.176.183.78) 56(84) bytes of data.
+64 bytes from 78.216-176-183-rdns.ingeniuxondemand.com (216.176.183.78): icmp_seq=1 ttl=33 time=175 ms
+64 bytes from 78.216-176-183-rdns.ingeniuxondemand.com (216.176.183.78): icmp_seq=2 ttl=33 time=175 ms
+64 bytes from 78.216-176-183-rdns.ingeniuxondemand.com (216.176.183.78): icmp_seq=3 ttl=33 time=176 ms
+64 bytes from 78.216-176-183-rdns.ingeniuxondemand.com (216.176.183.78): icmp_seq=4 ttl=33 time=176 ms
+64 bytes from 78.216-176-183-rdns.ingeniuxondemand.com (216.176.183.78): icmp_seq=5 ttl=33 time=175 ms
+64 bytes from 78.216-176-183-rdns.ingeniuxondemand.com (216.176.183.78): icmp_seq=6 ttl=33 time=176 ms
+
+--- ut.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 175.887/176.121/176.647/0.254 ms

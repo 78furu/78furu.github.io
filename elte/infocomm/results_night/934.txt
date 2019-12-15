@@ -1,0 +1,11 @@
+PING smsu.edu (199.17.208.60) 56(84) bytes of data.
+64 bytes from www.smsu.edu (199.17.208.60): icmp_seq=1 ttl=35 time=135 ms
+64 bytes from www.smsu.edu (199.17.208.60): icmp_seq=2 ttl=35 time=134 ms
+64 bytes from www.smsu.edu (199.17.208.60): icmp_seq=3 ttl=35 time=135 ms
+64 bytes from www.smsu.edu (199.17.208.60): icmp_seq=4 ttl=35 time=134 ms
+64 bytes from www.smsu.edu (199.17.208.60): icmp_seq=5 ttl=35 time=137 ms
+64 bytes from www.smsu.edu (199.17.208.60): icmp_seq=6 ttl=35 time=134 ms
+
+--- smsu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5000ms
+rtt min/avg/max/mdev = 134.018/135.156/137.100/1.040 ms

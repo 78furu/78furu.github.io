@@ -1,0 +1,5 @@
+PING cwc.edu (54.148.205.141) 56(84) bytes of data.
+
+--- cwc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5099ms
+

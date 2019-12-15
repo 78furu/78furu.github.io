@@ -1,0 +1,11 @@
+PING umb.edu (216.243.141.139) 56(84) bytes of data.
+64 bytes from msp-iph243-2139.arcustech.com (216.243.141.139): icmp_seq=1 ttl=46 time=120 ms
+64 bytes from msp-iph243-2139.arcustech.com (216.243.141.139): icmp_seq=2 ttl=46 time=127 ms
+64 bytes from msp-iph243-2139.arcustech.com (216.243.141.139): icmp_seq=3 ttl=46 time=122 ms
+64 bytes from msp-iph243-2139.arcustech.com (216.243.141.139): icmp_seq=4 ttl=46 time=121 ms
+64 bytes from msp-iph243-2139.arcustech.com (216.243.141.139): icmp_seq=5 ttl=46 time=118 ms
+64 bytes from msp-iph243-2139.arcustech.com (216.243.141.139): icmp_seq=6 ttl=46 time=122 ms
+
+--- umb.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 6114ms
+rtt min/avg/max/mdev = 118.794/122.022/127.194/2.678 ms

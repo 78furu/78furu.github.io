@@ -1,0 +1,5 @@
+PING lehigh.edu (128.180.1.81) 56(84) bytes of data.
+
+--- lehigh.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5110ms
+

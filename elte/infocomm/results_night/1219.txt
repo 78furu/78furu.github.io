@@ -1,0 +1,5 @@
+PING esc.edu (138.116.179.71) 56(84) bytes of data.
+
+--- esc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5112ms
+

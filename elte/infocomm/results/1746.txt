@@ -1,0 +1,11 @@
+PING vgi.edu (67.20.76.74) 56(84) bytes of data.
+64 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=1 ttl=41 time=178 ms
+64 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=2 ttl=41 time=177 ms
+64 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=3 ttl=41 time=177 ms
+64 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=4 ttl=41 time=181 ms
+64 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=5 ttl=41 time=179 ms
+64 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=6 ttl=41 time=177 ms
+
+--- vgi.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 177.608/178.762/181.410/1.367 ms

@@ -1,0 +1,5 @@
+PING radford.edu (137.45.29.220) 56(84) bytes of data.
+
+--- radford.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5127ms
+

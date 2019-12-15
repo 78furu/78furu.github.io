@@ -1,0 +1,11 @@
+PING calhoun.edu (69.16.249.10) 56(84) bytes of data.
+64 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=1 ttl=39 time=129 ms
+64 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=2 ttl=39 time=130 ms
+64 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=3 ttl=39 time=129 ms
+64 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=4 ttl=39 time=130 ms
+64 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=5 ttl=39 time=130 ms
+64 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=6 ttl=39 time=129 ms
+
+--- calhoun.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 129.922/130.101/130.316/0.260 ms

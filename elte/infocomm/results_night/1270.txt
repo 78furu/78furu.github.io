@@ -1,0 +1,11 @@
+PING plattsburgh.edu (104.25.173.113) 56(84) bytes of data.
+64 bytes from 104.25.173.113 (104.25.173.113): icmp_seq=1 ttl=54 time=2.86 ms
+64 bytes from 104.25.173.113 (104.25.173.113): icmp_seq=2 ttl=54 time=2.03 ms
+64 bytes from 104.25.173.113 (104.25.173.113): icmp_seq=3 ttl=54 time=1.83 ms
+64 bytes from 104.25.173.113 (104.25.173.113): icmp_seq=4 ttl=54 time=2.06 ms
+64 bytes from 104.25.173.113 (104.25.173.113): icmp_seq=5 ttl=54 time=1.87 ms
+64 bytes from 104.25.173.113 (104.25.173.113): icmp_seq=6 ttl=54 time=2.04 ms
+
+--- plattsburgh.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 1.838/2.121/2.866/0.346 ms

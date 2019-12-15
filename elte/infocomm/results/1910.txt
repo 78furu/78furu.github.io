@@ -1,0 +1,11 @@
+PING concord.edu (75.98.231.179) 56(84) bytes of data.
+64 bytes from 75.98.231.179 (75.98.231.179): icmp_seq=1 ttl=100 time=128 ms
+64 bytes from 75.98.231.179 (75.98.231.179): icmp_seq=2 ttl=100 time=127 ms
+64 bytes from 75.98.231.179 (75.98.231.179): icmp_seq=3 ttl=100 time=128 ms
+64 bytes from 75.98.231.179 (75.98.231.179): icmp_seq=4 ttl=100 time=129 ms
+64 bytes from 75.98.231.179 (75.98.231.179): icmp_seq=5 ttl=100 time=128 ms
+64 bytes from 75.98.231.179 (75.98.231.179): icmp_seq=6 ttl=100 time=128 ms
+
+--- concord.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 127.849/128.603/129.036/0.512 ms

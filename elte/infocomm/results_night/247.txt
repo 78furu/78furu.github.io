@@ -1,0 +1,11 @@
+PING scrippscollege.edu (199.83.133.101) 56(84) bytes of data.
+64 bytes from 199.83.133.101.ip.incapdns.net (199.83.133.101): icmp_seq=1 ttl=46 time=109 ms
+64 bytes from 199.83.133.101.ip.incapdns.net (199.83.133.101): icmp_seq=2 ttl=46 time=108 ms
+64 bytes from 199.83.133.101.ip.incapdns.net (199.83.133.101): icmp_seq=3 ttl=46 time=108 ms
+64 bytes from 199.83.133.101.ip.incapdns.net (199.83.133.101): icmp_seq=4 ttl=46 time=109 ms
+64 bytes from 199.83.133.101.ip.incapdns.net (199.83.133.101): icmp_seq=5 ttl=46 time=108 ms
+64 bytes from 199.83.133.101.ip.incapdns.net (199.83.133.101): icmp_seq=6 ttl=46 time=108 ms
+
+--- scrippscollege.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 108.548/108.875/109.126/0.324 ms

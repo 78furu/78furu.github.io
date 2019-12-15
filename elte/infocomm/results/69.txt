@@ -1,0 +1,10 @@
+PING phoenix.edu (204.17.21.77) 56(84) bytes of data.
+64 bytes from axia.phoenix.edu (204.17.21.77): icmp_seq=1 ttl=234 time=155 ms
+64 bytes from axia.phoenix.edu (204.17.21.77): icmp_seq=2 ttl=234 time=156 ms
+64 bytes from axia.phoenix.edu (204.17.21.77): icmp_seq=4 ttl=234 time=155 ms
+64 bytes from axia.phoenix.edu (204.17.21.77): icmp_seq=5 ttl=234 time=155 ms
+64 bytes from axia.phoenix.edu (204.17.21.77): icmp_seq=6 ttl=234 time=155 ms
+
+--- phoenix.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5024ms
+rtt min/avg/max/mdev = 155.183/155.745/156.166/0.569 ms

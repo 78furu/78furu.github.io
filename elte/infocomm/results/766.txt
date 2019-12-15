@@ -1,0 +1,11 @@
+PING montserrat.edu (209.59.181.120) 56(84) bytes of data.
+64 bytes from 209.59.181.120 (209.59.181.120): icmp_seq=1 ttl=38 time=128 ms
+64 bytes from 209.59.181.120 (209.59.181.120): icmp_seq=2 ttl=38 time=133 ms
+64 bytes from 209.59.181.120 (209.59.181.120): icmp_seq=3 ttl=38 time=129 ms
+64 bytes from 209.59.181.120 (209.59.181.120): icmp_seq=4 ttl=38 time=138 ms
+64 bytes from 209.59.181.120 (209.59.181.120): icmp_seq=5 ttl=38 time=130 ms
+64 bytes from 209.59.181.120 (209.59.181.120): icmp_seq=6 ttl=38 time=131 ms
+
+--- montserrat.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5001ms
+rtt min/avg/max/mdev = 128.919/132.239/138.313/3.172 ms

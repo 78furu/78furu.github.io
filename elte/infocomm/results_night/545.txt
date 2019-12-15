@@ -1,0 +1,11 @@
+PING colum.edu (216.146.221.38) 56(84) bytes of data.
+64 bytes from blogs.colum.edu.pairsite.com (216.146.221.38): icmp_seq=1 ttl=43 time=145 ms
+64 bytes from blogs.colum.edu.pairsite.com (216.146.221.38): icmp_seq=2 ttl=43 time=146 ms
+64 bytes from blogs.colum.edu.pairsite.com (216.146.221.38): icmp_seq=3 ttl=43 time=145 ms
+64 bytes from blogs.colum.edu.pairsite.com (216.146.221.38): icmp_seq=4 ttl=43 time=145 ms
+64 bytes from blogs.colum.edu.pairsite.com (216.146.221.38): icmp_seq=5 ttl=43 time=145 ms
+64 bytes from blogs.colum.edu.pairsite.com (216.146.221.38): icmp_seq=6 ttl=43 time=146 ms
+
+--- colum.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 145.295/145.900/146.723/0.434 ms

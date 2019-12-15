@@ -1,0 +1,11 @@
+PING ocean.edu (104.198.0.80) 56(84) bytes of data.
+64 bytes from 80.0.198.104.bc.googleusercontent.com (104.198.0.80): icmp_seq=1 ttl=48 time=155 ms
+64 bytes from 80.0.198.104.bc.googleusercontent.com (104.198.0.80): icmp_seq=2 ttl=48 time=154 ms
+64 bytes from 80.0.198.104.bc.googleusercontent.com (104.198.0.80): icmp_seq=3 ttl=48 time=154 ms
+64 bytes from 80.0.198.104.bc.googleusercontent.com (104.198.0.80): icmp_seq=4 ttl=48 time=154 ms
+64 bytes from 80.0.198.104.bc.googleusercontent.com (104.198.0.80): icmp_seq=5 ttl=48 time=154 ms
+64 bytes from 80.0.198.104.bc.googleusercontent.com (104.198.0.80): icmp_seq=6 ttl=48 time=154 ms
+
+--- ocean.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 154.565/154.741/155.082/0.542 ms

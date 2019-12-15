@@ -1,0 +1,5 @@
+PING fordham.edu (150.108.28.79) 56(84) bytes of data.
+
+--- fordham.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5128ms
+

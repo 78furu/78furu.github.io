@@ -1,0 +1,11 @@
+PING nwfsc.edu (104.27.177.68) 56(84) bytes of data.
+64 bytes from 104.27.177.68 (104.27.177.68): icmp_seq=1 ttl=54 time=1.94 ms
+64 bytes from 104.27.177.68 (104.27.177.68): icmp_seq=2 ttl=54 time=2.67 ms
+64 bytes from 104.27.177.68 (104.27.177.68): icmp_seq=3 ttl=54 time=2.13 ms
+64 bytes from 104.27.177.68 (104.27.177.68): icmp_seq=4 ttl=54 time=10.1 ms
+64 bytes from 104.27.177.68 (104.27.177.68): icmp_seq=5 ttl=54 time=1.71 ms
+64 bytes from 104.27.177.68 (104.27.177.68): icmp_seq=6 ttl=54 time=2.09 ms
+
+--- nwfsc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 1.715/3.452/10.152/3.010 ms

@@ -1,0 +1,5 @@
+PING cf.edu (162.248.69.68) 56(84) bytes of data.
+
+--- cf.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5091ms
+

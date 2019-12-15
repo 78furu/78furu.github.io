@@ -1,0 +1,5 @@
+PING uconn.edu (137.99.26.48) 56(84) bytes of data.
+
+--- uconn.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5099ms
+

@@ -1,0 +1,11 @@
+PING etown.edu (173.240.224.38) 56(84) bytes of data.
+64 bytes from www.etown.edu (173.240.224.38): icmp_seq=1 ttl=100 time=127 ms
+64 bytes from www.etown.edu (173.240.224.38): icmp_seq=2 ttl=100 time=133 ms
+64 bytes from www.etown.edu (173.240.224.38): icmp_seq=3 ttl=100 time=132 ms
+64 bytes from www.etown.edu (173.240.224.38): icmp_seq=4 ttl=100 time=130 ms
+64 bytes from www.etown.edu (173.240.224.38): icmp_seq=5 ttl=100 time=135 ms
+64 bytes from www.etown.edu (173.240.224.38): icmp_seq=6 ttl=100 time=137 ms
+
+--- etown.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 127.723/132.988/137.853/3.320 ms

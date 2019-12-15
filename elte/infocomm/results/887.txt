@@ -1,0 +1,5 @@
+PING marygrove.edu (54.174.62.52) 56(84) bytes of data.
+
+--- marygrove.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5111ms
+

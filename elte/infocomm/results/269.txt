@@ -1,0 +1,5 @@
+PING taftcollege.edu (52.9.107.190) 56(84) bytes of data.
+
+--- taftcollege.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5115ms
+

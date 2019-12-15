@@ -1,0 +1,11 @@
+PING elms.edu (64.91.224.34) 56(84) bytes of data.
+64 bytes from 64.91.224.34 (64.91.224.34): icmp_seq=1 ttl=38 time=134 ms
+64 bytes from 64.91.224.34 (64.91.224.34): icmp_seq=2 ttl=38 time=134 ms
+64 bytes from 64.91.224.34 (64.91.224.34): icmp_seq=3 ttl=38 time=135 ms
+64 bytes from 64.91.224.34 (64.91.224.34): icmp_seq=4 ttl=38 time=134 ms
+64 bytes from 64.91.224.34 (64.91.224.34): icmp_seq=5 ttl=38 time=134 ms
+64 bytes from 64.91.224.34 (64.91.224.34): icmp_seq=6 ttl=38 time=134 ms
+
+--- elms.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 134.742/134.896/135.139/0.324 ms

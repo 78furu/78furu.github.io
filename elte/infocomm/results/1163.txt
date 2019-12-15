@@ -1,0 +1,11 @@
+PING wpunj.edu (149.151.1.62) 56(84) bytes of data.
+64 bytes from www.wpunj.edu (149.151.1.62): icmp_seq=1 ttl=228 time=101 ms
+64 bytes from www.wpunj.edu (149.151.1.62): icmp_seq=2 ttl=228 time=105 ms
+64 bytes from www.wpunj.edu (149.151.1.62): icmp_seq=3 ttl=228 time=101 ms
+64 bytes from www.wpunj.edu (149.151.1.62): icmp_seq=4 ttl=228 time=102 ms
+64 bytes from www.wpunj.edu (149.151.1.62): icmp_seq=5 ttl=228 time=104 ms
+64 bytes from www.wpunj.edu (149.151.1.62): icmp_seq=6 ttl=228 time=102 ms
+
+--- wpunj.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 101.308/102.967/105.373/1.581 ms

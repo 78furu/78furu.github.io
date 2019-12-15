@@ -1,0 +1,11 @@
+PING atom.edu (104.196.146.230) 56(84) bytes of data.
+64 bytes from 230.146.196.104.bc.googleusercontent.com (104.196.146.230): icmp_seq=1 ttl=50 time=112 ms
+64 bytes from 230.146.196.104.bc.googleusercontent.com (104.196.146.230): icmp_seq=2 ttl=50 time=113 ms
+64 bytes from 230.146.196.104.bc.googleusercontent.com (104.196.146.230): icmp_seq=3 ttl=50 time=112 ms
+64 bytes from 230.146.196.104.bc.googleusercontent.com (104.196.146.230): icmp_seq=4 ttl=50 time=113 ms
+64 bytes from 230.146.196.104.bc.googleusercontent.com (104.196.146.230): icmp_seq=5 ttl=50 time=113 ms
+64 bytes from 230.146.196.104.bc.googleusercontent.com (104.196.146.230): icmp_seq=6 ttl=50 time=113 ms
+
+--- atom.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 112.609/113.033/113.305/0.423 ms

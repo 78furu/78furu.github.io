@@ -1,0 +1,11 @@
+PING umw.edu (35.167.97.208) 56(84) bytes of data.
+64 bytes from ec2-35-167-97-208.us-west-2.compute.amazonaws.com (35.167.97.208): icmp_seq=1 ttl=215 time=187 ms
+64 bytes from ec2-35-167-97-208.us-west-2.compute.amazonaws.com (35.167.97.208): icmp_seq=2 ttl=215 time=187 ms
+64 bytes from ec2-35-167-97-208.us-west-2.compute.amazonaws.com (35.167.97.208): icmp_seq=3 ttl=215 time=187 ms
+64 bytes from ec2-35-167-97-208.us-west-2.compute.amazonaws.com (35.167.97.208): icmp_seq=4 ttl=215 time=187 ms
+64 bytes from ec2-35-167-97-208.us-west-2.compute.amazonaws.com (35.167.97.208): icmp_seq=5 ttl=215 time=187 ms
+64 bytes from ec2-35-167-97-208.us-west-2.compute.amazonaws.com (35.167.97.208): icmp_seq=6 ttl=215 time=187 ms
+
+--- umw.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 187.245/187.363/187.513/0.086 ms

@@ -1,0 +1,11 @@
+PING slc.edu (216.244.115.147) 56(84) bytes of data.
+64 bytes from mx2.slc.edu (216.244.115.147): icmp_seq=1 ttl=37 time=102 ms
+64 bytes from mx2.slc.edu (216.244.115.147): icmp_seq=2 ttl=37 time=102 ms
+64 bytes from mx2.slc.edu (216.244.115.147): icmp_seq=3 ttl=37 time=102 ms
+64 bytes from mx2.slc.edu (216.244.115.147): icmp_seq=4 ttl=37 time=102 ms
+64 bytes from mx2.slc.edu (216.244.115.147): icmp_seq=5 ttl=37 time=102 ms
+64 bytes from mx2.slc.edu (216.244.115.147): icmp_seq=6 ttl=37 time=102 ms
+
+--- slc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 102.028/102.415/102.555/0.317 ms

@@ -1,0 +1,11 @@
+PING gonzaga.edu (147.222.2.71) 56(84) bytes of data.
+64 bytes from 147.222.2.71 (147.222.2.71): icmp_seq=1 ttl=104 time=169 ms
+64 bytes from 147.222.2.71 (147.222.2.71): icmp_seq=2 ttl=104 time=169 ms
+64 bytes from 147.222.2.71 (147.222.2.71): icmp_seq=3 ttl=104 time=169 ms
+64 bytes from 147.222.2.71 (147.222.2.71): icmp_seq=4 ttl=104 time=169 ms
+64 bytes from 147.222.2.71 (147.222.2.71): icmp_seq=5 ttl=104 time=169 ms
+64 bytes from 147.222.2.71 (147.222.2.71): icmp_seq=6 ttl=104 time=169 ms
+
+--- gonzaga.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 169.052/169.345/169.845/0.600 ms

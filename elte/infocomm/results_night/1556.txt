@@ -1,0 +1,11 @@
+PING clemson.edu (130.127.204.30) 56(84) bytes of data.
+64 bytes from 130.127.204.30 (130.127.204.30): icmp_seq=1 ttl=234 time=118 ms
+64 bytes from 130.127.204.30 (130.127.204.30): icmp_seq=2 ttl=234 time=118 ms
+64 bytes from 130.127.204.30 (130.127.204.30): icmp_seq=3 ttl=234 time=118 ms
+64 bytes from 130.127.204.30 (130.127.204.30): icmp_seq=4 ttl=234 time=118 ms
+64 bytes from 130.127.204.30 (130.127.204.30): icmp_seq=5 ttl=234 time=118 ms
+64 bytes from 130.127.204.30 (130.127.204.30): icmp_seq=6 ttl=234 time=118 ms
+
+--- clemson.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 118.174/118.474/118.705/0.431 ms

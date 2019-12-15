@@ -1,0 +1,10 @@
+PING lancasterseminary.edu (192.240.170.122) 56(84) bytes of data.
+64 bytes from eep1-06.nexcess.net (192.240.170.122): icmp_seq=1 ttl=38 time=133 ms
+64 bytes from eep1-06.nexcess.net (192.240.170.122): icmp_seq=3 ttl=38 time=133 ms
+64 bytes from eep1-06.nexcess.net (192.240.170.122): icmp_seq=4 ttl=38 time=131 ms
+64 bytes from eep1-06.nexcess.net (192.240.170.122): icmp_seq=5 ttl=38 time=130 ms
+64 bytes from eep1-06.nexcess.net (192.240.170.122): icmp_seq=6 ttl=38 time=133 ms
+
+--- lancasterseminary.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5032ms
+rtt min/avg/max/mdev = 130.047/132.435/133.860/1.528 ms

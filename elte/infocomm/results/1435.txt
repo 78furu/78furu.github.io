@@ -1,0 +1,11 @@
+PING alvernia.edu (23.185.0.4) 56(84) bytes of data.
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=1 ttl=52 time=42.3 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=2 ttl=52 time=36.4 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=3 ttl=52 time=46.3 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=4 ttl=52 time=42.6 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=5 ttl=52 time=32.6 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=6 ttl=52 time=37.5 ms
+
+--- alvernia.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5004ms
+rtt min/avg/max/mdev = 32.677/39.659/46.311/4.551 ms

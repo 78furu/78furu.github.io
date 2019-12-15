@@ -1,0 +1,11 @@
+PING cnu.edu (147.135.23.33) 56(84) bytes of data.
+64 bytes from 147.135.23.33 (147.135.23.33): icmp_seq=1 ttl=106 time=117 ms
+64 bytes from 147.135.23.33 (147.135.23.33): icmp_seq=2 ttl=106 time=117 ms
+64 bytes from 147.135.23.33 (147.135.23.33): icmp_seq=3 ttl=106 time=117 ms
+64 bytes from 147.135.23.33 (147.135.23.33): icmp_seq=4 ttl=106 time=117 ms
+64 bytes from 147.135.23.33 (147.135.23.33): icmp_seq=5 ttl=106 time=117 ms
+64 bytes from 147.135.23.33 (147.135.23.33): icmp_seq=6 ttl=106 time=117 ms
+
+--- cnu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 117.145/117.650/117.941/0.319 ms

@@ -1,0 +1,5 @@
+PING dsu.edu (138.247.117.13) 56(84) bytes of data.
+
+--- dsu.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5106ms
+

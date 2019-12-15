@@ -1,0 +1,11 @@
+PING otterbein.edu (23.251.152.199) 56(84) bytes of data.
+64 bytes from 199.152.251.23.bc.googleusercontent.com (23.251.152.199): icmp_seq=1 ttl=48 time=120 ms
+64 bytes from 199.152.251.23.bc.googleusercontent.com (23.251.152.199): icmp_seq=2 ttl=48 time=120 ms
+64 bytes from 199.152.251.23.bc.googleusercontent.com (23.251.152.199): icmp_seq=3 ttl=48 time=120 ms
+64 bytes from 199.152.251.23.bc.googleusercontent.com (23.251.152.199): icmp_seq=4 ttl=48 time=120 ms
+64 bytes from 199.152.251.23.bc.googleusercontent.com (23.251.152.199): icmp_seq=5 ttl=48 time=120 ms
+64 bytes from 199.152.251.23.bc.googleusercontent.com (23.251.152.199): icmp_seq=6 ttl=48 time=120 ms
+
+--- otterbein.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 120.319/120.421/120.557/0.077 ms

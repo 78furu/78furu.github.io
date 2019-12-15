@@ -1,0 +1,5 @@
+PING shawu.edu (152.39.93.111) 56(84) bytes of data.
+
+--- shawu.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5104ms
+

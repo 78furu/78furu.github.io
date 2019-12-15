@@ -1,0 +1,5 @@
+PING baycollege.edu (198.110.213.65) 56(84) bytes of data.
+
+--- baycollege.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5123ms
+

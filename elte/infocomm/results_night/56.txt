@@ -1,0 +1,5 @@
+PING uca.edu (161.31.3.35) 56(84) bytes of data.
+
+--- uca.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5113ms
+

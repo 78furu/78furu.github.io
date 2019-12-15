@@ -1,0 +1,5 @@
+PING clinton.edu (136.223.177.6) 56(84) bytes of data.
+
+--- clinton.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5105ms
+

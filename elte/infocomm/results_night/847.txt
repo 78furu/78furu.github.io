@@ -1,0 +1,11 @@
+PING smccme.edu (172.104.25.123) 56(84) bytes of data.
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=1 ttl=43 time=108 ms
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=2 ttl=43 time=109 ms
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=3 ttl=43 time=107 ms
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=4 ttl=43 time=108 ms
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=5 ttl=43 time=108 ms
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=6 ttl=43 time=108 ms
+
+--- smccme.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 107.980/108.434/109.089/0.550 ms

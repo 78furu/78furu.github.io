@@ -1,0 +1,5 @@
+PING stanly.edu (152.27.54.7) 56(84) bytes of data.
+
+--- stanly.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5102ms
+

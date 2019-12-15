@@ -1,0 +1,11 @@
+PING pitzer.edu (134.173.112.13) 56(84) bytes of data.
+64 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=1 ttl=108 time=168 ms
+64 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=2 ttl=108 time=167 ms
+64 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=3 ttl=108 time=167 ms
+64 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=4 ttl=108 time=167 ms
+64 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=5 ttl=108 time=167 ms
+64 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=6 ttl=108 time=167 ms
+
+--- pitzer.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 167.400/167.718/168.317/0.608 ms

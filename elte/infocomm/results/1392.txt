@@ -1,0 +1,11 @@
+PING oru.edu (72.249.108.162) 56(84) bytes of data.
+64 bytes from oru.directrouter.com (72.249.108.162): icmp_seq=1 ttl=38 time=142 ms
+64 bytes from oru.directrouter.com (72.249.108.162): icmp_seq=2 ttl=38 time=134 ms
+64 bytes from oru.directrouter.com (72.249.108.162): icmp_seq=3 ttl=38 time=135 ms
+64 bytes from oru.directrouter.com (72.249.108.162): icmp_seq=4 ttl=38 time=137 ms
+64 bytes from oru.directrouter.com (72.249.108.162): icmp_seq=5 ttl=38 time=139 ms
+64 bytes from oru.directrouter.com (72.249.108.162): icmp_seq=6 ttl=38 time=141 ms
+
+--- oru.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 134.672/138.474/142.417/2.891 ms

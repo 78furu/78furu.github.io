@@ -1,0 +1,5 @@
+PING hvcc.edu (151.103.18.13) 56(84) bytes of data.
+
+--- hvcc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5127ms
+

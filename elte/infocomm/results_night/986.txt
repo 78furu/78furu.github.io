@@ -1,0 +1,5 @@
+PING umsl.edu (134.124.1.234) 56(84) bytes of data.
+
+--- umsl.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5099ms
+

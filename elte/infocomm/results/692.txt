@@ -1,0 +1,5 @@
+PING eku.edu (157.89.60.92) 56(84) bytes of data.
+
+--- eku.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5108ms
+

@@ -1,0 +1,5 @@
+PING lakemichigancollege.edu (192.109.104.21) 56(84) bytes of data.
+
+--- lakemichigancollege.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5100ms
+

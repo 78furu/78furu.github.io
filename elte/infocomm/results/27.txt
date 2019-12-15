@@ -1,0 +1,5 @@
+PING ua.edu (130.160.0.54) 56(84) bytes of data.
+
+--- ua.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5127ms
+

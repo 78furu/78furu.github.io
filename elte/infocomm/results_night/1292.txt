@@ -1,0 +1,11 @@
+PING sunyacc.edu (173.199.181.18) 56(84) bytes of data.
+64 bytes from 173.199.181.18 (173.199.181.18): icmp_seq=1 ttl=39 time=131 ms
+64 bytes from 173.199.181.18 (173.199.181.18): icmp_seq=2 ttl=39 time=131 ms
+64 bytes from 173.199.181.18 (173.199.181.18): icmp_seq=3 ttl=39 time=129 ms
+64 bytes from 173.199.181.18 (173.199.181.18): icmp_seq=4 ttl=39 time=129 ms
+64 bytes from 173.199.181.18 (173.199.181.18): icmp_seq=5 ttl=39 time=129 ms
+64 bytes from 173.199.181.18 (173.199.181.18): icmp_seq=6 ttl=39 time=129 ms
+
+--- sunyacc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 129.722/130.254/131.132/0.758 ms

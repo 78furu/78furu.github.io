@@ -1,0 +1,5 @@
+PING marymount.edu (198.91.36.196) 56(84) bytes of data.
+
+--- marymount.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5102ms
+

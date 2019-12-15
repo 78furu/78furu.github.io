@@ -1,0 +1,11 @@
+PING salem.edu (130.211.177.194) 56(84) bytes of data.
+64 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=1 ttl=49 time=123 ms
+64 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=2 ttl=49 time=123 ms
+64 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=3 ttl=49 time=123 ms
+64 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=4 ttl=49 time=123 ms
+64 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=5 ttl=49 time=123 ms
+64 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=6 ttl=49 time=123 ms
+
+--- salem.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 123.091/123.403/123.896/0.432 ms

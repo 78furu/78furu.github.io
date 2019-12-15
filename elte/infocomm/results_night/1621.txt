@@ -1,0 +1,11 @@
+PING sco.edu (104.26.0.214) 56(84) bytes of data.
+64 bytes from 104.26.0.214 (104.26.0.214): icmp_seq=1 ttl=54 time=1.61 ms
+64 bytes from 104.26.0.214 (104.26.0.214): icmp_seq=2 ttl=54 time=1.60 ms
+64 bytes from 104.26.0.214 (104.26.0.214): icmp_seq=3 ttl=54 time=1.65 ms
+64 bytes from 104.26.0.214 (104.26.0.214): icmp_seq=4 ttl=54 time=1.43 ms
+64 bytes from 104.26.0.214 (104.26.0.214): icmp_seq=5 ttl=54 time=1.69 ms
+64 bytes from 104.26.0.214 (104.26.0.214): icmp_seq=6 ttl=54 time=1.80 ms
+
+--- sco.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 1.430/1.632/1.802/0.120 ms

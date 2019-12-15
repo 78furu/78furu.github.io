@@ -1,0 +1,11 @@
+PING brynmawr.edu (165.106.9.64) 56(84) bytes of data.
+64 bytes from brynmawr.edu (165.106.9.64): icmp_seq=1 ttl=42 time=110 ms
+64 bytes from brynmawr.edu (165.106.9.64): icmp_seq=2 ttl=42 time=110 ms
+64 bytes from brynmawr.edu (165.106.9.64): icmp_seq=3 ttl=42 time=110 ms
+64 bytes from brynmawr.edu (165.106.9.64): icmp_seq=4 ttl=42 time=110 ms
+64 bytes from brynmawr.edu (165.106.9.64): icmp_seq=5 ttl=42 time=110 ms
+64 bytes from brynmawr.edu (165.106.9.64): icmp_seq=6 ttl=42 time=110 ms
+
+--- brynmawr.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 110.253/110.524/110.858/0.304 ms

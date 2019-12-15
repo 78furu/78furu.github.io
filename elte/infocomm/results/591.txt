@@ -1,0 +1,9 @@
+PING oakton.edu (192.234.16.8) 56(84) bytes of data.
+64 bytes from www.oakton.edu (192.234.16.8): icmp_seq=1 ttl=37 time=135 ms
+64 bytes from www.oakton.edu (192.234.16.8): icmp_seq=3 ttl=37 time=132 ms
+64 bytes from www.oakton.edu (192.234.16.8): icmp_seq=4 ttl=37 time=136 ms
+64 bytes from www.oakton.edu (192.234.16.8): icmp_seq=5 ttl=37 time=137 ms
+
+--- oakton.edu ping statistics ---
+6 packets transmitted, 4 received, 33% packet loss, time 5137ms
+rtt min/avg/max/mdev = 132.649/135.664/137.847/1.989 ms

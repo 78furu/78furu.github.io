@@ -1,0 +1,5 @@
+PING ohiodominican.edu (199.218.242.32) 56(84) bytes of data.
+
+--- ohiodominican.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5126ms
+

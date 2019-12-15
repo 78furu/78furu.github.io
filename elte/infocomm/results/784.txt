@@ -1,0 +1,11 @@
+PING umass.edu (128.119.8.148) 56(84) bytes of data.
+64 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=1 ttl=236 time=114 ms
+64 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=2 ttl=236 time=120 ms
+64 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=3 ttl=236 time=115 ms
+64 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=4 ttl=236 time=114 ms
+64 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=5 ttl=236 time=114 ms
+64 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=6 ttl=236 time=114 ms
+
+--- umass.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 114.600/115.716/120.056/1.988 ms

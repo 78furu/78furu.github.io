@@ -1,0 +1,5 @@
+PING bju.edu (23.151.224.70) 56(84) bytes of data.
+
+--- bju.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5124ms
+

@@ -1,0 +1,5 @@
+PING the-bac.edu (38.97.75.17) 56(84) bytes of data.
+
+--- the-bac.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5121ms
+

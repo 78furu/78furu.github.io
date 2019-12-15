@@ -1,0 +1,11 @@
+PING se.edu (156.110.192.22) 56(84) bytes of data.
+64 bytes from cp2.onenet.net (156.110.192.22): icmp_seq=1 ttl=41 time=154 ms
+64 bytes from cp2.onenet.net (156.110.192.22): icmp_seq=2 ttl=41 time=146 ms
+64 bytes from cp2.onenet.net (156.110.192.22): icmp_seq=3 ttl=41 time=148 ms
+64 bytes from cp2.onenet.net (156.110.192.22): icmp_seq=4 ttl=41 time=147 ms
+64 bytes from cp2.onenet.net (156.110.192.22): icmp_seq=5 ttl=41 time=153 ms
+64 bytes from cp2.onenet.net (156.110.192.22): icmp_seq=6 ttl=41 time=150 ms
+
+--- se.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5004ms
+rtt min/avg/max/mdev = 146.792/150.160/154.885/3.045 ms

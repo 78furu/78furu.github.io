@@ -1,0 +1,11 @@
+PING presby.edu (192.237.214.94) 56(84) bytes of data.
+64 bytes from 192.237.214.94 (192.237.214.94): icmp_seq=1 ttl=42 time=133 ms
+64 bytes from 192.237.214.94 (192.237.214.94): icmp_seq=2 ttl=42 time=132 ms
+64 bytes from 192.237.214.94 (192.237.214.94): icmp_seq=3 ttl=42 time=132 ms
+64 bytes from 192.237.214.94 (192.237.214.94): icmp_seq=4 ttl=42 time=133 ms
+64 bytes from 192.237.214.94 (192.237.214.94): icmp_seq=5 ttl=42 time=133 ms
+64 bytes from 192.237.214.94 (192.237.214.94): icmp_seq=6 ttl=42 time=143 ms
+
+--- presby.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 132.751/134.774/143.352/3.842 ms

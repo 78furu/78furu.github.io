@@ -1,0 +1,5 @@
+PING campbell.edu (34.192.232.40) 56(84) bytes of data.
+
+--- campbell.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5116ms
+

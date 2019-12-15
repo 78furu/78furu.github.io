@@ -1,0 +1,5 @@
+PING fortis.edu (52.5.90.155) 56(84) bytes of data.
+
+--- fortis.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5106ms
+

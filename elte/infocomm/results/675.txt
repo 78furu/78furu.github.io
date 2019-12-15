@@ -1,0 +1,5 @@
+PING kckcc.edu (74.87.192.45) 56(84) bytes of data.
+
+--- kckcc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5121ms
+

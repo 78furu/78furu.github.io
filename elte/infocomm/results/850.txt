@@ -1,0 +1,11 @@
+PING umpi.edu (209.188.87.170) 56(84) bytes of data.
+64 bytes from noflakesdvd.com (209.188.87.170): icmp_seq=1 ttl=38 time=137 ms
+64 bytes from noflakesdvd.com (209.188.87.170): icmp_seq=2 ttl=38 time=135 ms
+64 bytes from noflakesdvd.com (209.188.87.170): icmp_seq=3 ttl=38 time=135 ms
+64 bytes from noflakesdvd.com (209.188.87.170): icmp_seq=4 ttl=38 time=135 ms
+64 bytes from noflakesdvd.com (209.188.87.170): icmp_seq=5 ttl=38 time=135 ms
+64 bytes from noflakesdvd.com (209.188.87.170): icmp_seq=6 ttl=38 time=136 ms
+
+--- umpi.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 135.337/135.988/137.609/0.942 ms

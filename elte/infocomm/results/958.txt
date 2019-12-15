@@ -1,0 +1,11 @@
+PING jeffco.edu (198.209.253.16) 56(84) bytes of data.
+64 bytes from 198.209.253.16 (198.209.253.16): icmp_seq=1 ttl=44 time=152 ms
+64 bytes from 198.209.253.16 (198.209.253.16): icmp_seq=2 ttl=44 time=138 ms
+64 bytes from 198.209.253.16 (198.209.253.16): icmp_seq=3 ttl=44 time=147 ms
+64 bytes from 198.209.253.16 (198.209.253.16): icmp_seq=4 ttl=44 time=140 ms
+64 bytes from 198.209.253.16 (198.209.253.16): icmp_seq=5 ttl=44 time=138 ms
+64 bytes from 198.209.253.16 (198.209.253.16): icmp_seq=6 ttl=44 time=137 ms
+
+--- jeffco.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 137.993/142.422/152.205/5.358 ms

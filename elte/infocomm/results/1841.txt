@@ -1,0 +1,5 @@
+PING mfwi.edu (162.17.173.194) 56(84) bytes of data.
+
+--- mfwi.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5118ms
+

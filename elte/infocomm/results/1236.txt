@@ -1,0 +1,11 @@
+PING idc.edu (192.124.249.117) 56(84) bytes of data.
+64 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=1 ttl=47 time=19.4 ms
+64 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=2 ttl=47 time=20.3 ms
+64 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=3 ttl=47 time=19.3 ms
+64 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=4 ttl=47 time=21.1 ms
+64 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=5 ttl=47 time=19.8 ms
+64 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=6 ttl=47 time=20.1 ms
+
+--- idc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 19.378/20.049/21.173/0.606 ms

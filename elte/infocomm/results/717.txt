@@ -1,0 +1,16 @@
+PING lsuhsc.edu (155.58.211.13) 56(84) bytes of data.
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=1 ttl=107 time=136 ms
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=1 ttl=107 time=136 ms (DUP!)
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=2 ttl=107 time=136 ms
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=2 ttl=107 time=136 ms (DUP!)
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=3 ttl=107 time=151 ms
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=3 ttl=107 time=152 ms (DUP!)
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=4 ttl=107 time=138 ms
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=4 ttl=107 time=138 ms (DUP!)
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=5 ttl=107 time=136 ms
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=5 ttl=107 time=136 ms (DUP!)
+64 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=6 ttl=107 time=136 ms
+
+--- lsuhsc.edu ping statistics ---
+6 packets transmitted, 6 received, +5 duplicates, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 136.150/139.680/152.322/5.833 ms

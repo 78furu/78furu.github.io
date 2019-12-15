@@ -1,0 +1,11 @@
+PING ashford.edu (52.37.121.15) 56(84) bytes of data.
+64 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=1 ttl=23 time=217 ms
+64 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=2 ttl=23 time=195 ms
+64 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=3 ttl=23 time=195 ms
+64 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=4 ttl=23 time=194 ms
+64 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=5 ttl=23 time=195 ms
+64 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=6 ttl=23 time=195 ms
+
+--- ashford.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 194.884/198.977/217.674/8.380 ms

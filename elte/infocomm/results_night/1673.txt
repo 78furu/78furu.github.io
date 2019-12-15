@@ -1,0 +1,11 @@
+PING letu.edu (13.224.215.123) 56(84) bytes of data.
+64 bytes from server-13-224-215-123.phl50.r.cloudfront.net (13.224.215.123): icmp_seq=1 ttl=234 time=112 ms
+64 bytes from server-13-224-215-123.phl50.r.cloudfront.net (13.224.215.123): icmp_seq=2 ttl=234 time=112 ms
+64 bytes from server-13-224-215-123.phl50.r.cloudfront.net (13.224.215.123): icmp_seq=3 ttl=234 time=112 ms
+64 bytes from server-13-224-215-123.phl50.r.cloudfront.net (13.224.215.123): icmp_seq=4 ttl=234 time=112 ms
+64 bytes from server-13-224-215-123.phl50.r.cloudfront.net (13.224.215.123): icmp_seq=5 ttl=234 time=112 ms
+64 bytes from server-13-224-215-123.phl50.r.cloudfront.net (13.224.215.123): icmp_seq=6 ttl=234 time=112 ms
+
+--- letu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 112.452/112.621/112.842/0.235 ms

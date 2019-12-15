@@ -1,0 +1,11 @@
+PING randolph.edu (192.124.249.169) 56(84) bytes of data.
+64 bytes from cloudproxy10169.sucuri.net (192.124.249.169): icmp_seq=1 ttl=47 time=21.9 ms
+64 bytes from cloudproxy10169.sucuri.net (192.124.249.169): icmp_seq=2 ttl=47 time=22.1 ms
+64 bytes from cloudproxy10169.sucuri.net (192.124.249.169): icmp_seq=3 ttl=47 time=21.9 ms
+64 bytes from cloudproxy10169.sucuri.net (192.124.249.169): icmp_seq=4 ttl=47 time=21.3 ms
+64 bytes from cloudproxy10169.sucuri.net (192.124.249.169): icmp_seq=5 ttl=47 time=24.4 ms
+64 bytes from cloudproxy10169.sucuri.net (192.124.249.169): icmp_seq=6 ttl=47 time=21.4 ms
+
+--- randolph.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 21.368/22.228/24.456/1.038 ms

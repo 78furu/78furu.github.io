@@ -1,0 +1,11 @@
+PING heritagebiblecollege.edu (199.34.228.59) 56(84) bytes of data.
+64 bytes from pages-custom-15.weebly.com (199.34.228.59): icmp_seq=1 ttl=45 time=171 ms
+64 bytes from pages-custom-15.weebly.com (199.34.228.59): icmp_seq=2 ttl=45 time=171 ms
+64 bytes from pages-custom-15.weebly.com (199.34.228.59): icmp_seq=3 ttl=45 time=176 ms
+64 bytes from pages-custom-15.weebly.com (199.34.228.59): icmp_seq=4 ttl=45 time=179 ms
+64 bytes from pages-custom-15.weebly.com (199.34.228.59): icmp_seq=5 ttl=45 time=171 ms
+64 bytes from pages-custom-15.weebly.com (199.34.228.59): icmp_seq=6 ttl=45 time=172 ms
+
+--- heritagebiblecollege.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5162ms
+rtt min/avg/max/mdev = 171.180/173.774/179.264/3.008 ms

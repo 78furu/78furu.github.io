@@ -1,0 +1,11 @@
+PING piercecollege.edu (207.62.63.167) 56(84) bytes of data.
+64 bytes from 207.62.63.167 (207.62.63.167): icmp_seq=1 ttl=109 time=165 ms
+64 bytes from 207.62.63.167 (207.62.63.167): icmp_seq=2 ttl=109 time=166 ms
+64 bytes from 207.62.63.167 (207.62.63.167): icmp_seq=3 ttl=109 time=165 ms
+64 bytes from 207.62.63.167 (207.62.63.167): icmp_seq=4 ttl=109 time=165 ms
+64 bytes from 207.62.63.167 (207.62.63.167): icmp_seq=5 ttl=109 time=165 ms
+64 bytes from 207.62.63.167 (207.62.63.167): icmp_seq=6 ttl=109 time=165 ms
+
+--- piercecollege.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 165.404/165.771/166.892/0.509 ms

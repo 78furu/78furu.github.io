@@ -1,0 +1,11 @@
+PING tmcc.edu (54.68.85.93) 56(84) bytes of data.
+64 bytes from ec2-54-68-85-93.us-west-2.compute.amazonaws.com (54.68.85.93): icmp_seq=1 ttl=23 time=188 ms
+64 bytes from ec2-54-68-85-93.us-west-2.compute.amazonaws.com (54.68.85.93): icmp_seq=2 ttl=23 time=187 ms
+64 bytes from ec2-54-68-85-93.us-west-2.compute.amazonaws.com (54.68.85.93): icmp_seq=3 ttl=23 time=189 ms
+64 bytes from ec2-54-68-85-93.us-west-2.compute.amazonaws.com (54.68.85.93): icmp_seq=4 ttl=23 time=188 ms
+64 bytes from ec2-54-68-85-93.us-west-2.compute.amazonaws.com (54.68.85.93): icmp_seq=5 ttl=23 time=187 ms
+64 bytes from ec2-54-68-85-93.us-west-2.compute.amazonaws.com (54.68.85.93): icmp_seq=6 ttl=23 time=187 ms
+
+--- tmcc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 187.570/188.307/189.314/0.827 ms

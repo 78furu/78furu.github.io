@@ -1,0 +1,10 @@
+PING assumption.edu (23.185.0.4) 56(84) bytes of data.
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=1 ttl=52 time=23.3 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=2 ttl=52 time=21.9 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=3 ttl=52 time=28.6 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=4 ttl=52 time=28.8 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=5 ttl=52 time=20.0 ms
+
+--- assumption.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5007ms
+rtt min/avg/max/mdev = 20.028/24.577/28.873/3.586 ms

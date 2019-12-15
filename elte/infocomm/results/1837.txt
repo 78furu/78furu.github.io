@@ -1,0 +1,11 @@
+PING faithseminary.edu (160.153.66.225) 56(84) bytes of data.
+64 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=1 ttl=45 time=173 ms
+64 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=2 ttl=45 time=173 ms
+64 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=3 ttl=45 time=173 ms
+64 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=4 ttl=45 time=173 ms
+64 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=5 ttl=45 time=173 ms
+64 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=6 ttl=45 time=173 ms
+
+--- faithseminary.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 173.226/173.589/173.962/0.422 ms

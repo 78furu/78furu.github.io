@@ -1,0 +1,5 @@
+PING illinois.edu (192.17.172.3) 56(84) bytes of data.
+
+--- illinois.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5119ms
+

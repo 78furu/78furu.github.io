@@ -1,0 +1,10 @@
+PING roosevelt.edu (130.94.70.189) 56(84) bytes of data.
+64 bytes from 130.94.70.189 (130.94.70.189): icmp_seq=1 ttl=102 time=115 ms
+64 bytes from 130.94.70.189 (130.94.70.189): icmp_seq=2 ttl=102 time=112 ms
+64 bytes from 130.94.70.189 (130.94.70.189): icmp_seq=3 ttl=102 time=124 ms
+64 bytes from 130.94.70.189 (130.94.70.189): icmp_seq=4 ttl=102 time=123 ms
+64 bytes from 130.94.70.189 (130.94.70.189): icmp_seq=5 ttl=102 time=113 ms
+
+--- roosevelt.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5004ms
+rtt min/avg/max/mdev = 112.304/117.824/124.931/5.181 ms

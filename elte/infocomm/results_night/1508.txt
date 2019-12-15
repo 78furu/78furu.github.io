@@ -1,0 +1,11 @@
+PING psu.edu (128.118.142.114) 56(84) bytes of data.
+64 bytes from tr16g04.aset.psu.edu (128.118.142.114): icmp_seq=1 ttl=235 time=137 ms
+64 bytes from tr16g04.aset.psu.edu (128.118.142.114): icmp_seq=2 ttl=235 time=137 ms
+64 bytes from tr16g04.aset.psu.edu (128.118.142.114): icmp_seq=3 ttl=235 time=136 ms
+64 bytes from tr16g04.aset.psu.edu (128.118.142.114): icmp_seq=4 ttl=235 time=136 ms
+64 bytes from tr16g04.aset.psu.edu (128.118.142.114): icmp_seq=5 ttl=235 time=136 ms
+64 bytes from tr16g04.aset.psu.edu (128.118.142.114): icmp_seq=6 ttl=235 time=136 ms
+
+--- psu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 136.622/136.903/137.242/0.524 ms

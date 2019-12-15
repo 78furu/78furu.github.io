@@ -1,0 +1,11 @@
+PING cornellcollege.edu (144.62.8.10) 56(84) bytes of data.
+64 bytes from 144.62.8.10 (144.62.8.10): icmp_seq=1 ttl=110 time=125 ms
+64 bytes from 144.62.8.10 (144.62.8.10): icmp_seq=2 ttl=110 time=124 ms
+64 bytes from 144.62.8.10 (144.62.8.10): icmp_seq=3 ttl=110 time=124 ms
+64 bytes from 144.62.8.10 (144.62.8.10): icmp_seq=4 ttl=110 time=124 ms
+64 bytes from 144.62.8.10 (144.62.8.10): icmp_seq=5 ttl=110 time=124 ms
+64 bytes from 144.62.8.10 (144.62.8.10): icmp_seq=6 ttl=110 time=124 ms
+
+--- cornellcollege.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 124.460/124.716/125.232/0.483 ms

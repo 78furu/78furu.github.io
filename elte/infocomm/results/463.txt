@@ -1,0 +1,5 @@
+PING gpc.edu (168.28.193.227) 56(84) bytes of data.
+
+--- gpc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5114ms
+

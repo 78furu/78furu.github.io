@@ -1,0 +1,5 @@
+PING mcdaniel.edu (107.20.200.116) 56(84) bytes of data.
+
+--- mcdaniel.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5114ms
+

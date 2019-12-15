@@ -1,0 +1,11 @@
+PING wilmington.edu (130.211.141.252) 56(84) bytes of data.
+64 bytes from 252.141.211.130.bc.googleusercontent.com (130.211.141.252): icmp_seq=1 ttl=48 time=120 ms
+64 bytes from 252.141.211.130.bc.googleusercontent.com (130.211.141.252): icmp_seq=2 ttl=48 time=120 ms
+64 bytes from 252.141.211.130.bc.googleusercontent.com (130.211.141.252): icmp_seq=3 ttl=48 time=120 ms
+64 bytes from 252.141.211.130.bc.googleusercontent.com (130.211.141.252): icmp_seq=4 ttl=48 time=120 ms
+64 bytes from 252.141.211.130.bc.googleusercontent.com (130.211.141.252): icmp_seq=5 ttl=48 time=120 ms
+64 bytes from 252.141.211.130.bc.googleusercontent.com (130.211.141.252): icmp_seq=6 ttl=48 time=120 ms
+
+--- wilmington.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 120.046/120.271/120.482/0.433 ms

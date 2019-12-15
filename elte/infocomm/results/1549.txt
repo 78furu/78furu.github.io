@@ -1,0 +1,5 @@
+PING ric.edu (192.133.12.63) 56(84) bytes of data.
+
+--- ric.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5113ms
+

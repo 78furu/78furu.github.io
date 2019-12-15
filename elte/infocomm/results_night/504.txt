@@ -1,0 +1,5 @@
+PING dmacc.edu (40.122.206.150) 56(84) bytes of data.
+
+--- dmacc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5101ms
+

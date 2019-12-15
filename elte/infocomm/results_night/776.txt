@@ -1,0 +1,5 @@
+PING simmons.edu (134.140.12.61) 56(84) bytes of data.
+
+--- simmons.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5102ms
+

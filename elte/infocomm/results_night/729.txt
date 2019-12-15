@@ -1,0 +1,5 @@
+PING amherst.edu (148.85.136.32) 56(84) bytes of data.
+
+--- amherst.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5107ms
+

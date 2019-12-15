@@ -1,0 +1,5 @@
+PING fandm.edu (34.235.240.136) 56(84) bytes of data.
+
+--- fandm.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5110ms
+

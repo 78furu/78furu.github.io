@@ -1,0 +1,11 @@
+PING depaul.edu (140.192.193.61) 56(84) bytes of data.
+64 bytes from depaul.edu (140.192.193.61): icmp_seq=1 ttl=41 time=121 ms
+64 bytes from depaul.edu (140.192.193.61): icmp_seq=2 ttl=41 time=121 ms
+64 bytes from depaul.edu (140.192.193.61): icmp_seq=3 ttl=41 time=122 ms
+64 bytes from depaul.edu (140.192.193.61): icmp_seq=4 ttl=41 time=121 ms
+64 bytes from depaul.edu (140.192.193.61): icmp_seq=5 ttl=41 time=121 ms
+64 bytes from depaul.edu (140.192.193.61): icmp_seq=6 ttl=41 time=121 ms
+
+--- depaul.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 121.040/121.450/122.171/0.533 ms

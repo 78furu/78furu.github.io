@@ -1,0 +1,11 @@
+PING rose-hulman.edu (137.112.18.53) 56(84) bytes of data.
+64 bytes from www.rose-hulman.edu (137.112.18.53): icmp_seq=1 ttl=233 time=129 ms
+64 bytes from www.rose-hulman.edu (137.112.18.53): icmp_seq=2 ttl=233 time=127 ms
+64 bytes from www.rose-hulman.edu (137.112.18.53): icmp_seq=3 ttl=233 time=126 ms
+64 bytes from www.rose-hulman.edu (137.112.18.53): icmp_seq=4 ttl=233 time=126 ms
+64 bytes from www.rose-hulman.edu (137.112.18.53): icmp_seq=5 ttl=233 time=127 ms
+64 bytes from www.rose-hulman.edu (137.112.18.53): icmp_seq=6 ttl=233 time=127 ms
+
+--- rose-hulman.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 126.785/127.563/129.582/0.954 ms

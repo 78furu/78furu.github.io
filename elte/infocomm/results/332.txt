@@ -1,0 +1,10 @@
+PING uccs.edu (128.198.4.52) 56(84) bytes of data.
+64 bytes from uccs.edu (128.198.4.52): icmp_seq=2 ttl=103 time=210 ms
+64 bytes from uccs.edu (128.198.4.52): icmp_seq=3 ttl=103 time=220 ms
+64 bytes from uccs.edu (128.198.4.52): icmp_seq=4 ttl=103 time=189 ms
+64 bytes from uccs.edu (128.198.4.52): icmp_seq=5 ttl=103 time=187 ms
+64 bytes from uccs.edu (128.198.4.52): icmp_seq=6 ttl=103 time=241 ms
+
+--- uccs.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5034ms
+rtt min/avg/max/mdev = 187.383/209.812/241.088/19.983 ms

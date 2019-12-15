@@ -1,0 +1,5 @@
+PING csusm.edu (144.37.5.45) 56(84) bytes of data.
+
+--- csusm.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5103ms
+

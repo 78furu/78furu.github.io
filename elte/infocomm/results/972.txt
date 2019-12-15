@@ -1,0 +1,11 @@
+PING nts.edu (104.196.222.91) 56(84) bytes of data.
+64 bytes from 91.222.196.104.bc.googleusercontent.com (104.196.222.91): icmp_seq=1 ttl=51 time=113 ms
+64 bytes from 91.222.196.104.bc.googleusercontent.com (104.196.222.91): icmp_seq=2 ttl=51 time=113 ms
+64 bytes from 91.222.196.104.bc.googleusercontent.com (104.196.222.91): icmp_seq=3 ttl=51 time=116 ms
+64 bytes from 91.222.196.104.bc.googleusercontent.com (104.196.222.91): icmp_seq=4 ttl=51 time=120 ms
+64 bytes from 91.222.196.104.bc.googleusercontent.com (104.196.222.91): icmp_seq=5 ttl=51 time=113 ms
+64 bytes from 91.222.196.104.bc.googleusercontent.com (104.196.222.91): icmp_seq=6 ttl=51 time=113 ms
+
+--- nts.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 113.069/115.239/120.706/2.728 ms

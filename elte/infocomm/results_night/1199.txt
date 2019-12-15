@@ -1,0 +1,11 @@
+PING clarkson.edu (128.153.4.220) 56(84) bytes of data.
+64 bytes from www.clarkson.edu (128.153.4.220): icmp_seq=1 ttl=41 time=115 ms
+64 bytes from www.clarkson.edu (128.153.4.220): icmp_seq=2 ttl=41 time=115 ms
+64 bytes from www.clarkson.edu (128.153.4.220): icmp_seq=3 ttl=41 time=114 ms
+64 bytes from www.clarkson.edu (128.153.4.220): icmp_seq=4 ttl=41 time=115 ms
+64 bytes from www.clarkson.edu (128.153.4.220): icmp_seq=5 ttl=41 time=115 ms
+64 bytes from www.clarkson.edu (128.153.4.220): icmp_seq=6 ttl=41 time=115 ms
+
+--- clarkson.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 114.935/115.295/115.591/0.350 ms

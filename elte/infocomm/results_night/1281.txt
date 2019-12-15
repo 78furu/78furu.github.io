@@ -1,0 +1,11 @@
+PING siena.edu (66.194.176.136) 56(84) bytes of data.
+64 bytes from sienadiningservices.com (66.194.176.136): icmp_seq=1 ttl=45 time=110 ms
+64 bytes from sienadiningservices.com (66.194.176.136): icmp_seq=2 ttl=45 time=109 ms
+64 bytes from sienadiningservices.com (66.194.176.136): icmp_seq=3 ttl=45 time=110 ms
+64 bytes from sienadiningservices.com (66.194.176.136): icmp_seq=4 ttl=45 time=109 ms
+64 bytes from sienadiningservices.com (66.194.176.136): icmp_seq=5 ttl=45 time=110 ms
+64 bytes from sienadiningservices.com (66.194.176.136): icmp_seq=6 ttl=45 time=109 ms
+
+--- siena.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 109.648/110.030/110.461/0.465 ms

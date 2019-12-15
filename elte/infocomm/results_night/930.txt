@@ -1,0 +1,11 @@
+PING nhcc.edu (134.29.150.220) 56(84) bytes of data.
+64 bytes from www.nhcc.edu (134.29.150.220): icmp_seq=1 ttl=227 time=130 ms
+64 bytes from www.nhcc.edu (134.29.150.220): icmp_seq=2 ttl=227 time=131 ms
+64 bytes from www.nhcc.edu (134.29.150.220): icmp_seq=3 ttl=227 time=132 ms
+64 bytes from www.nhcc.edu (134.29.150.220): icmp_seq=4 ttl=227 time=131 ms
+64 bytes from www.nhcc.edu (134.29.150.220): icmp_seq=5 ttl=227 time=130 ms
+64 bytes from www.nhcc.edu (134.29.150.220): icmp_seq=6 ttl=227 time=130 ms
+
+--- nhcc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 130.618/131.180/132.512/0.721 ms

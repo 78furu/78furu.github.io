@@ -1,0 +1,11 @@
+PING pmi.edu (209.104.9.167) 56(84) bytes of data.
+64 bytes from 209.104.9.167 (209.104.9.167): icmp_seq=1 ttl=103 time=157 ms
+64 bytes from 209.104.9.167 (209.104.9.167): icmp_seq=2 ttl=103 time=156 ms
+64 bytes from 209.104.9.167 (209.104.9.167): icmp_seq=3 ttl=103 time=156 ms
+64 bytes from 209.104.9.167 (209.104.9.167): icmp_seq=4 ttl=103 time=156 ms
+64 bytes from 209.104.9.167 (209.104.9.167): icmp_seq=5 ttl=103 time=157 ms
+64 bytes from 209.104.9.167 (209.104.9.167): icmp_seq=6 ttl=103 time=156 ms
+
+--- pmi.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5000ms
+rtt min/avg/max/mdev = 156.528/157.047/157.836/0.615 ms

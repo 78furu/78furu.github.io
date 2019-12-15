@@ -1,0 +1,5 @@
+PING stu.edu (64.56.82.222) 56(84) bytes of data.
+
+--- stu.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5112ms
+

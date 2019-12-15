@@ -1,0 +1,11 @@
+PING collegeofidaho.edu (104.26.8.155) 56(84) bytes of data.
+64 bytes from 104.26.8.155 (104.26.8.155): icmp_seq=1 ttl=54 time=1.57 ms
+64 bytes from 104.26.8.155 (104.26.8.155): icmp_seq=2 ttl=54 time=2.15 ms
+64 bytes from 104.26.8.155 (104.26.8.155): icmp_seq=3 ttl=54 time=1.99 ms
+64 bytes from 104.26.8.155 (104.26.8.155): icmp_seq=4 ttl=54 time=1.88 ms
+64 bytes from 104.26.8.155 (104.26.8.155): icmp_seq=5 ttl=54 time=2.17 ms
+64 bytes from 104.26.8.155 (104.26.8.155): icmp_seq=6 ttl=54 time=1.81 ms
+
+--- collegeofidaho.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 1.570/1.932/2.171/0.211 ms

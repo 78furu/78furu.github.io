@@ -1,0 +1,5 @@
+PING roberts.edu (24.213.134.32) 56(84) bytes of data.
+
+--- roberts.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5122ms
+

@@ -1,0 +1,5 @@
+PING carver.edu (40.87.56.69) 56(84) bytes of data.
+
+--- carver.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5117ms
+

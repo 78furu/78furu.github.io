@@ -1,0 +1,5 @@
+PING delhi.edu (137.124.64.87) 56(84) bytes of data.
+
+--- delhi.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5105ms
+

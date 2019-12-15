@@ -1,0 +1,11 @@
+PING nmu.edu (198.110.200.65) 56(84) bytes of data.
+64 bytes from franklin.nmu.edu (198.110.200.65): icmp_seq=1 ttl=44 time=130 ms
+64 bytes from franklin.nmu.edu (198.110.200.65): icmp_seq=2 ttl=44 time=129 ms
+64 bytes from franklin.nmu.edu (198.110.200.65): icmp_seq=3 ttl=44 time=129 ms
+64 bytes from franklin.nmu.edu (198.110.200.65): icmp_seq=4 ttl=44 time=129 ms
+64 bytes from franklin.nmu.edu (198.110.200.65): icmp_seq=5 ttl=44 time=129 ms
+64 bytes from franklin.nmu.edu (198.110.200.65): icmp_seq=6 ttl=44 time=129 ms
+
+--- nmu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 129.416/129.729/130.128/0.524 ms

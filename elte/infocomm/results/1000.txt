@@ -1,0 +1,11 @@
+PING prcc.edu (165.227.249.212) 56(84) bytes of data.
+64 bytes from 165.227.249.212 (165.227.249.212): icmp_seq=1 ttl=46 time=114 ms
+64 bytes from 165.227.249.212 (165.227.249.212): icmp_seq=2 ttl=46 time=110 ms
+64 bytes from 165.227.249.212 (165.227.249.212): icmp_seq=3 ttl=46 time=109 ms
+64 bytes from 165.227.249.212 (165.227.249.212): icmp_seq=4 ttl=46 time=112 ms
+64 bytes from 165.227.249.212 (165.227.249.212): icmp_seq=5 ttl=46 time=109 ms
+64 bytes from 165.227.249.212 (165.227.249.212): icmp_seq=6 ttl=46 time=109 ms
+
+--- prcc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 109.392/111.099/114.892/1.993 ms

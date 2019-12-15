@@ -1,0 +1,5 @@
+PING csun.edu (130.166.238.195) 56(84) bytes of data.
+
+--- csun.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5096ms
+

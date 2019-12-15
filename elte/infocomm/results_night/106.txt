@@ -1,0 +1,11 @@
+PING canyons.edu (207.233.55.54) 56(84) bytes of data.
+64 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=1 ttl=107 time=168 ms
+64 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=2 ttl=107 time=166 ms
+64 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=3 ttl=107 time=167 ms
+64 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=4 ttl=107 time=167 ms
+64 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=5 ttl=107 time=167 ms
+64 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=6 ttl=107 time=167 ms
+
+--- canyons.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 166.873/167.489/168.303/0.724 ms

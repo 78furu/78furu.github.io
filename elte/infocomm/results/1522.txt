@@ -1,0 +1,5 @@
+PING thiel.edu (198.178.162.2) 56(84) bytes of data.
+
+--- thiel.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5113ms
+

@@ -1,0 +1,5 @@
+PING ncc.edu (198.38.11.35) 56(84) bytes of data.
+
+--- ncc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5122ms
+

@@ -1,0 +1,11 @@
+PING arapahoe.edu (69.16.200.10) 56(84) bytes of data.
+64 bytes from 69.16.200.10 (69.16.200.10): icmp_seq=1 ttl=39 time=135 ms
+64 bytes from 69.16.200.10 (69.16.200.10): icmp_seq=2 ttl=39 time=135 ms
+64 bytes from 69.16.200.10 (69.16.200.10): icmp_seq=3 ttl=39 time=134 ms
+64 bytes from 69.16.200.10 (69.16.200.10): icmp_seq=4 ttl=39 time=134 ms
+64 bytes from 69.16.200.10 (69.16.200.10): icmp_seq=5 ttl=39 time=135 ms
+64 bytes from 69.16.200.10 (69.16.200.10): icmp_seq=6 ttl=39 time=134 ms
+
+--- arapahoe.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 134.399/135.031/135.763/0.656 ms

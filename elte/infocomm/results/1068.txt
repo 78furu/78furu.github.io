@@ -1,0 +1,5 @@
+PING southwesterncc.edu (63.142.134.102) 56(84) bytes of data.
+
+--- southwesterncc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5107ms
+

@@ -1,0 +1,5 @@
+PING columbiasc.edu (216.59.22.60) 56(84) bytes of data.
+
+--- columbiasc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5113ms
+

@@ -1,0 +1,11 @@
+PING ucsd.edu (132.239.180.101) 56(84) bytes of data.
+64 bytes from preuss.ucsd.edu (132.239.180.101): icmp_seq=1 ttl=44 time=165 ms
+64 bytes from preuss.ucsd.edu (132.239.180.101): icmp_seq=2 ttl=44 time=166 ms
+64 bytes from preuss.ucsd.edu (132.239.180.101): icmp_seq=3 ttl=44 time=166 ms
+64 bytes from preuss.ucsd.edu (132.239.180.101): icmp_seq=4 ttl=44 time=166 ms
+64 bytes from preuss.ucsd.edu (132.239.180.101): icmp_seq=5 ttl=44 time=166 ms
+64 bytes from preuss.ucsd.edu (132.239.180.101): icmp_seq=6 ttl=44 time=165 ms
+
+--- ucsd.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5004ms
+rtt min/avg/max/mdev = 165.693/166.039/166.258/0.203 ms

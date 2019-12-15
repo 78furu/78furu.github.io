@@ -1,0 +1,11 @@
+PING ltcc.edu (65.74.154.203) 56(84) bytes of data.
+64 bytes from 65.74.154.203 (65.74.154.203): icmp_seq=1 ttl=34 time=175 ms
+64 bytes from 65.74.154.203 (65.74.154.203): icmp_seq=2 ttl=34 time=180 ms
+64 bytes from 65.74.154.203 (65.74.154.203): icmp_seq=3 ttl=34 time=175 ms
+64 bytes from 65.74.154.203 (65.74.154.203): icmp_seq=4 ttl=34 time=176 ms
+64 bytes from 65.74.154.203 (65.74.154.203): icmp_seq=5 ttl=34 time=175 ms
+64 bytes from 65.74.154.203 (65.74.154.203): icmp_seq=6 ttl=34 time=175 ms
+
+--- ltcc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 175.345/176.433/180.292/1.803 ms

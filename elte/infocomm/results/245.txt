@@ -1,0 +1,5 @@
+PING sbcc.edu (35.155.203.214) 56(84) bytes of data.
+
+--- sbcc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5102ms
+

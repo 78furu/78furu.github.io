@@ -1,0 +1,11 @@
+PING mvnu.edu (174.138.116.199) 56(84) bytes of data.
+64 bytes from 174.138.116.199 (174.138.116.199): icmp_seq=1 ttl=46 time=111 ms
+64 bytes from 174.138.116.199 (174.138.116.199): icmp_seq=2 ttl=46 time=110 ms
+64 bytes from 174.138.116.199 (174.138.116.199): icmp_seq=3 ttl=46 time=111 ms
+64 bytes from 174.138.116.199 (174.138.116.199): icmp_seq=4 ttl=46 time=110 ms
+64 bytes from 174.138.116.199 (174.138.116.199): icmp_seq=5 ttl=46 time=110 ms
+64 bytes from 174.138.116.199 (174.138.116.199): icmp_seq=6 ttl=46 time=111 ms
+
+--- mvnu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5003ms
+rtt min/avg/max/mdev = 110.869/111.050/111.240/0.361 ms

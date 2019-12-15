@@ -1,0 +1,5 @@
+PING tarleton.edu (173.255.37.169) 56(84) bytes of data.
+
+--- tarleton.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5105ms
+

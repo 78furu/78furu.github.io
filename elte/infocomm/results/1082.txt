@@ -1,0 +1,5 @@
+PING wcu.edu (152.30.23.83) 56(84) bytes of data.
+
+--- wcu.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5121ms
+

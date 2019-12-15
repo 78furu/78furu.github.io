@@ -1,0 +1,5 @@
+PING lemoyne.edu (192.231.124.149) 56(84) bytes of data.
+
+--- lemoyne.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5126ms
+

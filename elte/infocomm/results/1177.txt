@@ -1,0 +1,11 @@
+PING unm.edu (129.24.172.124) 56(84) bytes of data.
+64 bytes from wireless.unm.edu (129.24.172.124): icmp_seq=1 ttl=229 time=150 ms
+64 bytes from wireless.unm.edu (129.24.172.124): icmp_seq=2 ttl=229 time=151 ms
+64 bytes from wireless.unm.edu (129.24.172.124): icmp_seq=3 ttl=229 time=151 ms
+64 bytes from wireless.unm.edu (129.24.172.124): icmp_seq=4 ttl=229 time=151 ms
+64 bytes from wireless.unm.edu (129.24.172.124): icmp_seq=5 ttl=229 time=152 ms
+64 bytes from wireless.unm.edu (129.24.172.124): icmp_seq=6 ttl=229 time=150 ms
+
+--- unm.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 150.910/151.435/152.681/0.746 ms

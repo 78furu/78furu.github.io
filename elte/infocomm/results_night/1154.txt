@@ -1,0 +1,5 @@
+PING rowan.edu (150.250.77.84) 56(84) bytes of data.
+
+--- rowan.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5115ms
+

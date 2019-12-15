@@ -1,0 +1,11 @@
+PING fau.edu (131.91.101.181) 56(84) bytes of data.
+64 bytes from webnet.fau.edu (131.91.101.181): icmp_seq=1 ttl=234 time=131 ms
+64 bytes from webnet.fau.edu (131.91.101.181): icmp_seq=2 ttl=234 time=132 ms
+64 bytes from webnet.fau.edu (131.91.101.181): icmp_seq=3 ttl=234 time=130 ms
+64 bytes from webnet.fau.edu (131.91.101.181): icmp_seq=4 ttl=234 time=130 ms
+64 bytes from webnet.fau.edu (131.91.101.181): icmp_seq=5 ttl=234 time=138 ms
+64 bytes from webnet.fau.edu (131.91.101.181): icmp_seq=6 ttl=234 time=141 ms
+
+--- fau.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 130.126/134.077/141.652/4.321 ms

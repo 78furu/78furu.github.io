@@ -1,0 +1,11 @@
+PING keuka.edu (104.26.6.233) 56(84) bytes of data.
+64 bytes from 104.26.6.233 (104.26.6.233): icmp_seq=1 ttl=54 time=1.75 ms
+64 bytes from 104.26.6.233 (104.26.6.233): icmp_seq=2 ttl=54 time=2.03 ms
+64 bytes from 104.26.6.233 (104.26.6.233): icmp_seq=3 ttl=54 time=1.69 ms
+64 bytes from 104.26.6.233 (104.26.6.233): icmp_seq=4 ttl=54 time=1.69 ms
+64 bytes from 104.26.6.233 (104.26.6.233): icmp_seq=5 ttl=54 time=2.09 ms
+64 bytes from 104.26.6.233 (104.26.6.233): icmp_seq=6 ttl=54 time=1.56 ms
+
+--- keuka.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 1.568/1.807/2.092/0.192 ms

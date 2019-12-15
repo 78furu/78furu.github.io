@@ -1,0 +1,5 @@
+PING flagler.edu (52.0.23.229) 56(84) bytes of data.
+
+--- flagler.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5127ms
+

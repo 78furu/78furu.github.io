@@ -1,0 +1,11 @@
+PING rsu.edu (104.27.142.181) 56(84) bytes of data.
+64 bytes from 104.27.142.181 (104.27.142.181): icmp_seq=1 ttl=54 time=1.87 ms
+64 bytes from 104.27.142.181 (104.27.142.181): icmp_seq=2 ttl=54 time=1.91 ms
+64 bytes from 104.27.142.181 (104.27.142.181): icmp_seq=3 ttl=54 time=1.89 ms
+64 bytes from 104.27.142.181 (104.27.142.181): icmp_seq=4 ttl=54 time=1.99 ms
+64 bytes from 104.27.142.181 (104.27.142.181): icmp_seq=5 ttl=54 time=1.71 ms
+64 bytes from 104.27.142.181 (104.27.142.181): icmp_seq=6 ttl=54 time=1.55 ms
+
+--- rsu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 1.558/1.823/1.993/0.155 ms

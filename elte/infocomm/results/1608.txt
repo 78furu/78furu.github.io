@@ -1,0 +1,11 @@
+PING hiwassee.edu (205.139.102.215) 56(84) bytes of data.
+64 bytes from 205.139.102.215 (205.139.102.215): icmp_seq=1 ttl=232 time=110 ms
+64 bytes from 205.139.102.215 (205.139.102.215): icmp_seq=2 ttl=232 time=111 ms
+64 bytes from 205.139.102.215 (205.139.102.215): icmp_seq=3 ttl=232 time=109 ms
+64 bytes from 205.139.102.215 (205.139.102.215): icmp_seq=4 ttl=232 time=114 ms
+64 bytes from 205.139.102.215 (205.139.102.215): icmp_seq=5 ttl=232 time=110 ms
+64 bytes from 205.139.102.215 (205.139.102.215): icmp_seq=6 ttl=232 time=110 ms
+
+--- hiwassee.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 109.946/111.123/114.944/1.745 ms

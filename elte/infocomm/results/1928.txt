@@ -1,0 +1,11 @@
+PING sheridan.edu (148.72.1.242) 56(84) bytes of data.
+64 bytes from ip-148-72-1-242.ip.secureserver.net (148.72.1.242): icmp_seq=1 ttl=41 time=117 ms
+64 bytes from ip-148-72-1-242.ip.secureserver.net (148.72.1.242): icmp_seq=2 ttl=41 time=126 ms
+64 bytes from ip-148-72-1-242.ip.secureserver.net (148.72.1.242): icmp_seq=3 ttl=41 time=111 ms
+64 bytes from ip-148-72-1-242.ip.secureserver.net (148.72.1.242): icmp_seq=4 ttl=41 time=111 ms
+64 bytes from ip-148-72-1-242.ip.secureserver.net (148.72.1.242): icmp_seq=5 ttl=41 time=111 ms
+64 bytes from ip-148-72-1-242.ip.secureserver.net (148.72.1.242): icmp_seq=6 ttl=41 time=111 ms
+
+--- sheridan.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 111.158/114.922/126.807/5.727 ms

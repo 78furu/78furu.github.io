@@ -1,0 +1,11 @@
+PING carnegiescience.edu (192.70.249.137) 56(84) bytes of data.
+64 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=1 ttl=42 time=111 ms
+64 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=2 ttl=42 time=111 ms
+64 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=3 ttl=42 time=111 ms
+64 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=4 ttl=42 time=111 ms
+64 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=5 ttl=42 time=111 ms
+64 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=6 ttl=42 time=111 ms
+
+--- carnegiescience.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 111.349/111.724/111.849/0.421 ms

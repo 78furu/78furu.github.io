@@ -1,0 +1,11 @@
+PING anaheim.edu (209.59.156.13) 56(84) bytes of data.
+64 bytes from host2.anaheim.edu (209.59.156.13): icmp_seq=1 ttl=38 time=132 ms
+64 bytes from host2.anaheim.edu (209.59.156.13): icmp_seq=2 ttl=38 time=131 ms
+64 bytes from host2.anaheim.edu (209.59.156.13): icmp_seq=3 ttl=38 time=132 ms
+64 bytes from host2.anaheim.edu (209.59.156.13): icmp_seq=4 ttl=38 time=131 ms
+64 bytes from host2.anaheim.edu (209.59.156.13): icmp_seq=5 ttl=38 time=132 ms
+64 bytes from host2.anaheim.edu (209.59.156.13): icmp_seq=6 ttl=38 time=132 ms
+
+--- anaheim.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 131.831/132.157/132.540/0.312 ms

@@ -1,0 +1,5 @@
+PING redstone.edu (216.198.248.251) 56(84) bytes of data.
+
+--- redstone.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5124ms
+

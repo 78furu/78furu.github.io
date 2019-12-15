@@ -1,0 +1,5 @@
+PING delta.edu (161.133.129.64) 56(84) bytes of data.
+
+--- delta.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5115ms
+

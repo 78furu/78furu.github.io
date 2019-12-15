@@ -1,0 +1,11 @@
+PING aamu.edu (198.180.132.26) 56(84) bytes of data.
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=1 ttl=39 time=138 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=2 ttl=39 time=138 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=3 ttl=39 time=139 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=4 ttl=39 time=138 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=5 ttl=39 time=138 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=6 ttl=39 time=138 ms
+
+--- aamu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 138.467/138.678/139.040/0.516 ms

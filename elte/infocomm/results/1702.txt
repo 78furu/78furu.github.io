@@ -1,0 +1,5 @@
+PING stcl.edu (207.91.174.161) 56(84) bytes of data.
+
+--- stcl.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5125ms
+

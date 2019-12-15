@@ -1,0 +1,5 @@
+PING apus.edu (63.236.101.14) 56(84) bytes of data.
+
+--- apus.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5104ms
+

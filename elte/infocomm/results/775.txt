@@ -1,0 +1,5 @@
+PING salemstate.edu (40.71.32.70) 56(84) bytes of data.
+
+--- salemstate.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5128ms
+

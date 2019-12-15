@@ -1,0 +1,7 @@
+PING wpi.edu (130.215.36.26) 56(84) bytes of data.
+From 18.2.0.42 (18.2.0.42) icmp_seq=1 Packet filtered
+From 18.2.0.42 (18.2.0.42) icmp_seq=2 Packet filtered
+
+--- wpi.edu ping statistics ---
+6 packets transmitted, 0 received, +2 errors, 100% packet loss, time 5055ms
+

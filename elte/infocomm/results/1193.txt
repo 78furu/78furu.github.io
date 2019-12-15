@@ -1,0 +1,11 @@
+PING barnard.edu (107.21.241.248) 56(84) bytes of data.
+64 bytes from ec2-107-21-241-248.compute-1.amazonaws.com (107.21.241.248): icmp_seq=1 ttl=40 time=109 ms
+64 bytes from ec2-107-21-241-248.compute-1.amazonaws.com (107.21.241.248): icmp_seq=2 ttl=40 time=109 ms
+64 bytes from ec2-107-21-241-248.compute-1.amazonaws.com (107.21.241.248): icmp_seq=3 ttl=40 time=109 ms
+64 bytes from ec2-107-21-241-248.compute-1.amazonaws.com (107.21.241.248): icmp_seq=4 ttl=40 time=109 ms
+64 bytes from ec2-107-21-241-248.compute-1.amazonaws.com (107.21.241.248): icmp_seq=5 ttl=40 time=109 ms
+64 bytes from ec2-107-21-241-248.compute-1.amazonaws.com (107.21.241.248): icmp_seq=6 ttl=40 time=109 ms
+
+--- barnard.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 109.201/109.371/109.708/0.266 ms

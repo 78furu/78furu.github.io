@@ -1,0 +1,5 @@
+PING mesacc.edu (140.198.64.99) 56(84) bytes of data.
+
+--- mesacc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5125ms
+

@@ -1,0 +1,5 @@
+PING csulb.edu (134.139.19.49) 56(84) bytes of data.
+
+--- csulb.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5125ms
+

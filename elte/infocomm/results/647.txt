@@ -1,0 +1,11 @@
+PING iupui.edu (129.79.78.167) 56(84) bytes of data.
+64 bytes from zeus1-iupui.gateway.indiana.edu (129.79.78.167): icmp_seq=1 ttl=43 time=141 ms
+64 bytes from zeus1-iupui.gateway.indiana.edu (129.79.78.167): icmp_seq=2 ttl=43 time=130 ms
+64 bytes from zeus1-iupui.gateway.indiana.edu (129.79.78.167): icmp_seq=3 ttl=43 time=126 ms
+64 bytes from zeus1-iupui.gateway.indiana.edu (129.79.78.167): icmp_seq=4 ttl=43 time=128 ms
+64 bytes from zeus1-iupui.gateway.indiana.edu (129.79.78.167): icmp_seq=5 ttl=43 time=127 ms
+64 bytes from zeus1-iupui.gateway.indiana.edu (129.79.78.167): icmp_seq=6 ttl=43 time=132 ms
+
+--- iupui.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 126.588/131.113/141.937/5.290 ms

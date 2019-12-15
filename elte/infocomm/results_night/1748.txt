@@ -1,0 +1,11 @@
+PING wbu.edu (65.182.93.120) 56(84) bytes of data.
+64 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=1 ttl=99 time=155 ms
+64 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=2 ttl=99 time=153 ms
+64 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=3 ttl=99 time=158 ms
+64 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=4 ttl=99 time=156 ms
+64 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=5 ttl=99 time=156 ms
+64 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=6 ttl=99 time=156 ms
+
+--- wbu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 153.928/156.093/158.077/1.331 ms

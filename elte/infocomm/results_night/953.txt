@@ -1,0 +1,11 @@
+PING drury.edu (216.15.173.35) 56(84) bytes of data.
+64 bytes from 35.173.15.216.rdns.ezhostingserver.com (216.15.173.35): icmp_seq=1 ttl=105 time=133 ms
+64 bytes from 35.173.15.216.rdns.ezhostingserver.com (216.15.173.35): icmp_seq=2 ttl=105 time=133 ms
+64 bytes from 35.173.15.216.rdns.ezhostingserver.com (216.15.173.35): icmp_seq=3 ttl=105 time=133 ms
+64 bytes from 35.173.15.216.rdns.ezhostingserver.com (216.15.173.35): icmp_seq=4 ttl=105 time=133 ms
+64 bytes from 35.173.15.216.rdns.ezhostingserver.com (216.15.173.35): icmp_seq=5 ttl=105 time=135 ms
+64 bytes from 35.173.15.216.rdns.ezhostingserver.com (216.15.173.35): icmp_seq=6 ttl=105 time=133 ms
+
+--- drury.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 133.031/133.766/135.724/0.987 ms

@@ -1,0 +1,10 @@
+PING rccd.edu (204.69.3.218) 56(84) bytes of data.
+From 137.164.38.98 (137.164.38.98) icmp_seq=1 Packet filtered
+From 137.164.38.98 (137.164.38.98) icmp_seq=2 Packet filtered
+From 137.164.38.98 (137.164.38.98) icmp_seq=3 Packet filtered
+From 137.164.38.98 (137.164.38.98) icmp_seq=4 Packet filtered
+From 137.164.38.98 (137.164.38.98) icmp_seq=5 Packet filtered
+
+--- rccd.edu ping statistics ---
+6 packets transmitted, 0 received, +5 errors, 100% packet loss, time 5002ms
+

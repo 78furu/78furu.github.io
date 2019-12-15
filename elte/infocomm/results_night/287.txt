@@ -1,0 +1,11 @@
+PING usc.edu (50.59.168.94) 56(84) bytes of data.
+64 bytes from 50.59.168.94 (50.59.168.94): icmp_seq=1 ttl=233 time=210 ms
+64 bytes from 50.59.168.94 (50.59.168.94): icmp_seq=2 ttl=233 time=228 ms
+64 bytes from 50.59.168.94 (50.59.168.94): icmp_seq=3 ttl=233 time=215 ms
+64 bytes from 50.59.168.94 (50.59.168.94): icmp_seq=4 ttl=233 time=210 ms
+64 bytes from 50.59.168.94 (50.59.168.94): icmp_seq=5 ttl=233 time=216 ms
+64 bytes from 50.59.168.94 (50.59.168.94): icmp_seq=6 ttl=233 time=209 ms
+
+--- usc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 209.771/215.226/228.802/6.622 ms

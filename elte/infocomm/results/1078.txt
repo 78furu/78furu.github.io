@@ -1,0 +1,5 @@
+PING uncw.edu (104.45.152.13) 56(84) bytes of data.
+
+--- uncw.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5127ms
+

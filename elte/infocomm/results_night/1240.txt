@@ -1,0 +1,11 @@
+PING juilliard.edu (104.26.12.156) 56(84) bytes of data.
+64 bytes from 104.26.12.156 (104.26.12.156): icmp_seq=1 ttl=54 time=1.67 ms
+64 bytes from 104.26.12.156 (104.26.12.156): icmp_seq=2 ttl=54 time=1.90 ms
+64 bytes from 104.26.12.156 (104.26.12.156): icmp_seq=3 ttl=54 time=1.65 ms
+64 bytes from 104.26.12.156 (104.26.12.156): icmp_seq=4 ttl=54 time=1.55 ms
+64 bytes from 104.26.12.156 (104.26.12.156): icmp_seq=5 ttl=54 time=2.24 ms
+64 bytes from 104.26.12.156 (104.26.12.156): icmp_seq=6 ttl=54 time=1.63 ms
+
+--- juilliard.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 1.552/1.778/2.246/0.236 ms

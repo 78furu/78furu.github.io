@@ -1,0 +1,11 @@
+PING shawneecc.edu (184.106.55.132) 56(84) bytes of data.
+64 bytes from 184.106.55.132 (184.106.55.132): icmp_seq=1 ttl=39 time=134 ms
+64 bytes from 184.106.55.132 (184.106.55.132): icmp_seq=2 ttl=39 time=141 ms
+64 bytes from 184.106.55.132 (184.106.55.132): icmp_seq=3 ttl=39 time=134 ms
+64 bytes from 184.106.55.132 (184.106.55.132): icmp_seq=4 ttl=39 time=138 ms
+64 bytes from 184.106.55.132 (184.106.55.132): icmp_seq=5 ttl=39 time=134 ms
+64 bytes from 184.106.55.132 (184.106.55.132): icmp_seq=6 ttl=39 time=134 ms
+
+--- shawneecc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 134.157/136.257/141.777/2.848 ms

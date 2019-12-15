@@ -1,0 +1,5 @@
+PING binghamton.edu (34.239.29.130) 56(84) bytes of data.
+
+--- binghamton.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5102ms
+

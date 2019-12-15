@@ -1,0 +1,5 @@
+PING marshall.edu (206.212.0.79) 56(84) bytes of data.
+
+--- marshall.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5090ms
+

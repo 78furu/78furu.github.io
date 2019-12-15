@@ -1,0 +1,11 @@
+PING forrestcollege.edu (109.73.230.131) 56(84) bytes of data.
+64 bytes from ip-109-73-230-131.siteground.com (109.73.230.131): icmp_seq=1 ttl=46 time=119 ms
+64 bytes from ip-109-73-230-131.siteground.com (109.73.230.131): icmp_seq=2 ttl=46 time=119 ms
+64 bytes from ip-109-73-230-131.siteground.com (109.73.230.131): icmp_seq=3 ttl=46 time=119 ms
+64 bytes from ip-109-73-230-131.siteground.com (109.73.230.131): icmp_seq=4 ttl=46 time=119 ms
+64 bytes from ip-109-73-230-131.siteground.com (109.73.230.131): icmp_seq=5 ttl=46 time=119 ms
+64 bytes from ip-109-73-230-131.siteground.com (109.73.230.131): icmp_seq=6 ttl=46 time=119 ms
+
+--- forrestcollege.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 119.200/119.391/119.684/0.266 ms

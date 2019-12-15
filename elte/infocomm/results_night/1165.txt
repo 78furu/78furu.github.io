@@ -1,0 +1,11 @@
+PING camdencc.edu (170.249.252.12) 56(84) bytes of data.
+64 bytes from host.camdencc.edu (170.249.252.12): icmp_seq=1 ttl=37 time=145 ms
+64 bytes from host.camdencc.edu (170.249.252.12): icmp_seq=2 ttl=37 time=145 ms
+64 bytes from host.camdencc.edu (170.249.252.12): icmp_seq=3 ttl=37 time=145 ms
+64 bytes from host.camdencc.edu (170.249.252.12): icmp_seq=4 ttl=37 time=145 ms
+64 bytes from host.camdencc.edu (170.249.252.12): icmp_seq=5 ttl=37 time=145 ms
+64 bytes from host.camdencc.edu (170.249.252.12): icmp_seq=6 ttl=37 time=145 ms
+
+--- camdencc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 145.269/145.457/145.660/0.506 ms

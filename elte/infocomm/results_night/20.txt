@@ -1,0 +1,11 @@
+PING oakwood.edu (104.238.111.182) 56(84) bytes of data.
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=1 ttl=45 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=2 ttl=45 time=175 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=3 ttl=45 time=176 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=4 ttl=45 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=5 ttl=45 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=6 ttl=45 time=173 ms
+
+--- oakwood.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 173.182/174.206/176.595/1.394 ms

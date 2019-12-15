@@ -1,0 +1,11 @@
+PING central.edu (159.65.249.155) 56(84) bytes of data.
+64 bytes from 159.65.249.155 (159.65.249.155): icmp_seq=1 ttl=46 time=109 ms
+64 bytes from 159.65.249.155 (159.65.249.155): icmp_seq=2 ttl=46 time=109 ms
+64 bytes from 159.65.249.155 (159.65.249.155): icmp_seq=3 ttl=46 time=109 ms
+64 bytes from 159.65.249.155 (159.65.249.155): icmp_seq=4 ttl=46 time=109 ms
+64 bytes from 159.65.249.155 (159.65.249.155): icmp_seq=5 ttl=46 time=109 ms
+64 bytes from 159.65.249.155 (159.65.249.155): icmp_seq=6 ttl=46 time=109 ms
+
+--- central.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 109.199/109.533/109.991/0.416 ms

@@ -1,0 +1,5 @@
+PING utk.edu (160.36.239.51) 56(84) bytes of data.
+
+--- utk.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5121ms
+

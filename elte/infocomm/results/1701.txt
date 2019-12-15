@@ -1,0 +1,11 @@
+PING ssw.edu (104.198.106.132) 56(84) bytes of data.
+64 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=1 ttl=50 time=166 ms
+64 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=2 ttl=50 time=166 ms
+64 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=3 ttl=50 time=169 ms
+64 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=4 ttl=50 time=171 ms
+64 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=5 ttl=50 time=165 ms
+64 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=6 ttl=50 time=167 ms
+
+--- ssw.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 165.829/167.768/171.268/2.088 ms

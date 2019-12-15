@@ -1,0 +1,11 @@
+PING mcm.edu (66.76.21.199) 56(84) bytes of data.
+64 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=1 ttl=39 time=161 ms
+64 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=2 ttl=39 time=161 ms
+64 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=3 ttl=39 time=161 ms
+64 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=4 ttl=39 time=171 ms
+64 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=5 ttl=39 time=167 ms
+64 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=6 ttl=39 time=163 ms
+
+--- mcm.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 161.102/164.365/171.700/3.915 ms

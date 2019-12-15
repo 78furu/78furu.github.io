@@ -1,0 +1,11 @@
+PING hnu.edu (69.64.86.100) 56(84) bytes of data.
+64 bytes from web.hnu.edu (69.64.86.100): icmp_seq=1 ttl=39 time=155 ms
+64 bytes from web.hnu.edu (69.64.86.100): icmp_seq=2 ttl=39 time=155 ms
+64 bytes from web.hnu.edu (69.64.86.100): icmp_seq=3 ttl=39 time=155 ms
+64 bytes from web.hnu.edu (69.64.86.100): icmp_seq=4 ttl=39 time=155 ms
+64 bytes from web.hnu.edu (69.64.86.100): icmp_seq=5 ttl=39 time=155 ms
+64 bytes from web.hnu.edu (69.64.86.100): icmp_seq=6 ttl=39 time=155 ms
+
+--- hnu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 155.095/155.364/155.690/0.503 ms

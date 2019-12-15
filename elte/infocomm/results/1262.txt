@@ -1,0 +1,11 @@
+PING nycollege.edu (74.208.69.59) 56(84) bytes of data.
+64 bytes from s18790491.onlinehome-server.com (74.208.69.59): icmp_seq=1 ttl=45 time=124 ms
+64 bytes from s18790491.onlinehome-server.com (74.208.69.59): icmp_seq=2 ttl=45 time=129 ms
+64 bytes from s18790491.onlinehome-server.com (74.208.69.59): icmp_seq=3 ttl=45 time=123 ms
+64 bytes from s18790491.onlinehome-server.com (74.208.69.59): icmp_seq=4 ttl=45 time=123 ms
+64 bytes from s18790491.onlinehome-server.com (74.208.69.59): icmp_seq=5 ttl=45 time=124 ms
+64 bytes from s18790491.onlinehome-server.com (74.208.69.59): icmp_seq=6 ttl=45 time=124 ms
+
+--- nycollege.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 123.767/124.912/129.361/2.017 ms

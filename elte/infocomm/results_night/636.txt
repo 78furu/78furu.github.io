@@ -1,0 +1,11 @@
+PING hanover.edu (192.200.131.145) 56(84) bytes of data.
+64 bytes from 192.200.131.145 (192.200.131.145): icmp_seq=1 ttl=43 time=131 ms
+64 bytes from 192.200.131.145 (192.200.131.145): icmp_seq=2 ttl=43 time=130 ms
+64 bytes from 192.200.131.145 (192.200.131.145): icmp_seq=3 ttl=43 time=130 ms
+64 bytes from 192.200.131.145 (192.200.131.145): icmp_seq=4 ttl=43 time=130 ms
+64 bytes from 192.200.131.145 (192.200.131.145): icmp_seq=5 ttl=43 time=131 ms
+64 bytes from 192.200.131.145 (192.200.131.145): icmp_seq=6 ttl=43 time=130 ms
+
+--- hanover.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 130.212/130.646/131.115/0.393 ms

@@ -1,0 +1,5 @@
+PING davenport.edu (66.202.198.46) 56(84) bytes of data.
+
+--- davenport.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5103ms
+

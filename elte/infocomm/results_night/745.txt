@@ -1,0 +1,5 @@
+PING emmanuel.edu (69.43.88.82) 56(84) bytes of data.
+
+--- emmanuel.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5128ms
+

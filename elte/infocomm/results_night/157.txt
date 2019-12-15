@@ -1,0 +1,5 @@
+PING fresnocitycollege.edu (34.215.45.255) 56(84) bytes of data.
+
+--- fresnocitycollege.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5102ms
+

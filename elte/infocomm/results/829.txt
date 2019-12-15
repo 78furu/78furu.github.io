@@ -1,0 +1,5 @@
+PING umaryland.edu (134.192.18.30) 56(84) bytes of data.
+
+--- umaryland.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5120ms
+

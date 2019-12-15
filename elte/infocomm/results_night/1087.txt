@@ -1,0 +1,5 @@
+PING mayvillestate.edu (134.129.243.198) 56(84) bytes of data.
+
+--- mayvillestate.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5115ms
+

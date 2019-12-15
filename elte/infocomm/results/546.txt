@@ -1,0 +1,11 @@
+PING dacc.edu (192.124.249.10) 56(84) bytes of data.
+64 bytes from cloudproxy10010.sucuri.net (192.124.249.10): icmp_seq=1 ttl=47 time=18.4 ms
+64 bytes from cloudproxy10010.sucuri.net (192.124.249.10): icmp_seq=2 ttl=47 time=25.0 ms
+64 bytes from cloudproxy10010.sucuri.net (192.124.249.10): icmp_seq=3 ttl=47 time=20.1 ms
+64 bytes from cloudproxy10010.sucuri.net (192.124.249.10): icmp_seq=4 ttl=47 time=23.3 ms
+64 bytes from cloudproxy10010.sucuri.net (192.124.249.10): icmp_seq=5 ttl=47 time=17.4 ms
+64 bytes from cloudproxy10010.sucuri.net (192.124.249.10): icmp_seq=6 ttl=47 time=17.5 ms
+
+--- dacc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 17.404/20.332/25.087/2.937 ms

@@ -1,0 +1,11 @@
+PING mtaloy.edu (184.168.47.225) 56(84) bytes of data.
+64 bytes from redirect-v225.secureserver.net (184.168.47.225): icmp_seq=1 ttl=45 time=172 ms
+64 bytes from redirect-v225.secureserver.net (184.168.47.225): icmp_seq=2 ttl=45 time=172 ms
+64 bytes from redirect-v225.secureserver.net (184.168.47.225): icmp_seq=3 ttl=45 time=172 ms
+64 bytes from redirect-v225.secureserver.net (184.168.47.225): icmp_seq=4 ttl=45 time=176 ms
+64 bytes from redirect-v225.secureserver.net (184.168.47.225): icmp_seq=5 ttl=45 time=173 ms
+64 bytes from redirect-v225.secureserver.net (184.168.47.225): icmp_seq=6 ttl=45 time=172 ms
+
+--- mtaloy.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 172.129/173.248/176.808/1.649 ms

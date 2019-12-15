@@ -1,0 +1,11 @@
+PING findlay.edu (104.20.6.165) 56(84) bytes of data.
+64 bytes from 104.20.6.165 (104.20.6.165): icmp_seq=1 ttl=54 time=1.53 ms
+64 bytes from 104.20.6.165 (104.20.6.165): icmp_seq=2 ttl=54 time=2.20 ms
+64 bytes from 104.20.6.165 (104.20.6.165): icmp_seq=3 ttl=54 time=1.68 ms
+64 bytes from 104.20.6.165 (104.20.6.165): icmp_seq=4 ttl=54 time=1.93 ms
+64 bytes from 104.20.6.165 (104.20.6.165): icmp_seq=5 ttl=54 time=1.61 ms
+64 bytes from 104.20.6.165 (104.20.6.165): icmp_seq=6 ttl=54 time=1.86 ms
+
+--- findlay.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5004ms
+rtt min/avg/max/mdev = 1.534/1.805/2.207/0.227 ms

@@ -1,0 +1,11 @@
+PING ccm.edu (104.198.132.204) 56(84) bytes of data.
+64 bytes from 204.132.198.104.bc.googleusercontent.com (104.198.132.204): icmp_seq=1 ttl=48 time=122 ms
+64 bytes from 204.132.198.104.bc.googleusercontent.com (104.198.132.204): icmp_seq=2 ttl=48 time=121 ms
+64 bytes from 204.132.198.104.bc.googleusercontent.com (104.198.132.204): icmp_seq=3 ttl=48 time=120 ms
+64 bytes from 204.132.198.104.bc.googleusercontent.com (104.198.132.204): icmp_seq=4 ttl=48 time=120 ms
+64 bytes from 204.132.198.104.bc.googleusercontent.com (104.198.132.204): icmp_seq=5 ttl=48 time=120 ms
+64 bytes from 204.132.198.104.bc.googleusercontent.com (104.198.132.204): icmp_seq=6 ttl=48 time=120 ms
+
+--- ccm.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 120.021/120.718/122.079/0.828 ms

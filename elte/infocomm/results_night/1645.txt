@@ -1,0 +1,5 @@
+PING baylor.edu (129.62.3.230) 56(84) bytes of data.
+
+--- baylor.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5127ms
+

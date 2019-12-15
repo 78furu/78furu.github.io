@@ -1,0 +1,5 @@
+PING palmer.edu (198.102.161.10) 56(84) bytes of data.
+
+--- palmer.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5116ms
+

@@ -1,0 +1,11 @@
+PING dordt.edu (198.97.44.72) 56(84) bytes of data.
+64 bytes from 198.97.44.72 (198.97.44.72): icmp_seq=1 ttl=30 time=142 ms
+64 bytes from 198.97.44.72 (198.97.44.72): icmp_seq=2 ttl=30 time=142 ms
+64 bytes from 198.97.44.72 (198.97.44.72): icmp_seq=3 ttl=30 time=142 ms
+64 bytes from 198.97.44.72 (198.97.44.72): icmp_seq=4 ttl=30 time=141 ms
+64 bytes from 198.97.44.72 (198.97.44.72): icmp_seq=5 ttl=30 time=141 ms
+64 bytes from 198.97.44.72 (198.97.44.72): icmp_seq=6 ttl=30 time=141 ms
+
+--- dordt.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5257ms
+rtt min/avg/max/mdev = 141.630/142.001/142.596/0.486 ms

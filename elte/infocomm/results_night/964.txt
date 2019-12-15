@@ -1,0 +1,5 @@
+PING mcckc.edu (165.173.223.0) 56(84) bytes of data.
+
+--- mcckc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5107ms
+

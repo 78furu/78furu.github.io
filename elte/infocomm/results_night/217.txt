@@ -1,0 +1,5 @@
+PING nps.edu (205.155.65.19) 56(84) bytes of data.
+
+--- nps.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5108ms
+

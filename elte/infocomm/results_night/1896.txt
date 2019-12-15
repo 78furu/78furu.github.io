@@ -1,0 +1,5 @@
+PING uwosh.edu (35.170.226.178) 56(84) bytes of data.
+
+--- uwosh.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5097ms
+

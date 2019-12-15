@@ -1,0 +1,11 @@
+PING manhattan.edu (104.197.86.246) 56(84) bytes of data.
+64 bytes from 246.86.197.104.bc.googleusercontent.com (104.197.86.246): icmp_seq=1 ttl=49 time=125 ms
+64 bytes from 246.86.197.104.bc.googleusercontent.com (104.197.86.246): icmp_seq=2 ttl=49 time=125 ms
+64 bytes from 246.86.197.104.bc.googleusercontent.com (104.197.86.246): icmp_seq=3 ttl=49 time=125 ms
+64 bytes from 246.86.197.104.bc.googleusercontent.com (104.197.86.246): icmp_seq=4 ttl=49 time=125 ms
+64 bytes from 246.86.197.104.bc.googleusercontent.com (104.197.86.246): icmp_seq=5 ttl=49 time=125 ms
+64 bytes from 246.86.197.104.bc.googleusercontent.com (104.197.86.246): icmp_seq=6 ttl=49 time=125 ms
+
+--- manhattan.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 125.112/125.385/125.750/0.460 ms

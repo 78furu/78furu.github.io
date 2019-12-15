@@ -1,0 +1,11 @@
+PING letu.edu (99.84.181.41) 56(84) bytes of data.
+64 bytes from server-99-84-181-41.iad89.r.cloudfront.net (99.84.181.41): icmp_seq=1 ttl=234 time=111 ms
+64 bytes from server-99-84-181-41.iad89.r.cloudfront.net (99.84.181.41): icmp_seq=2 ttl=234 time=112 ms
+64 bytes from server-99-84-181-41.iad89.r.cloudfront.net (99.84.181.41): icmp_seq=3 ttl=234 time=109 ms
+64 bytes from server-99-84-181-41.iad89.r.cloudfront.net (99.84.181.41): icmp_seq=4 ttl=234 time=109 ms
+64 bytes from server-99-84-181-41.iad89.r.cloudfront.net (99.84.181.41): icmp_seq=5 ttl=234 time=115 ms
+64 bytes from server-99-84-181-41.iad89.r.cloudfront.net (99.84.181.41): icmp_seq=6 ttl=234 time=109 ms
+
+--- letu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 109.200/111.312/115.833/2.299 ms

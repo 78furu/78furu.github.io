@@ -1,0 +1,11 @@
+PING shorter.edu (194.1.147.22) 56(84) bytes of data.
+64 bytes from 194.1.147.22 (194.1.147.22): icmp_seq=1 ttl=49 time=15.6 ms
+64 bytes from 194.1.147.22 (194.1.147.22): icmp_seq=2 ttl=49 time=14.8 ms
+64 bytes from 194.1.147.22 (194.1.147.22): icmp_seq=3 ttl=49 time=15.2 ms
+64 bytes from 194.1.147.22 (194.1.147.22): icmp_seq=4 ttl=49 time=16.4 ms
+64 bytes from 194.1.147.22 (194.1.147.22): icmp_seq=5 ttl=49 time=15.1 ms
+64 bytes from 194.1.147.22 (194.1.147.22): icmp_seq=6 ttl=49 time=14.8 ms
+
+--- shorter.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 14.860/15.370/16.490/0.559 ms

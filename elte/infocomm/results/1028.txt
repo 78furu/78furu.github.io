@@ -1,0 +1,11 @@
+PING chowan.edu (192.252.157.128) 56(84) bytes of data.
+64 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=1 ttl=42 time=111 ms
+64 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=2 ttl=42 time=115 ms
+64 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=3 ttl=42 time=112 ms
+64 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=4 ttl=42 time=112 ms
+64 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=5 ttl=42 time=115 ms
+64 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=6 ttl=42 time=112 ms
+
+--- chowan.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 111.968/113.372/115.935/1.615 ms

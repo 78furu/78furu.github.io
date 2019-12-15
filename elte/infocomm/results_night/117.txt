@@ -1,0 +1,11 @@
+PING claremont.edu (104.198.102.253) 56(84) bytes of data.
+64 bytes from 253.102.198.104.bc.googleusercontent.com (104.198.102.253): icmp_seq=1 ttl=47 time=152 ms
+64 bytes from 253.102.198.104.bc.googleusercontent.com (104.198.102.253): icmp_seq=2 ttl=47 time=152 ms
+64 bytes from 253.102.198.104.bc.googleusercontent.com (104.198.102.253): icmp_seq=3 ttl=47 time=152 ms
+64 bytes from 253.102.198.104.bc.googleusercontent.com (104.198.102.253): icmp_seq=4 ttl=47 time=152 ms
+64 bytes from 253.102.198.104.bc.googleusercontent.com (104.198.102.253): icmp_seq=5 ttl=47 time=152 ms
+64 bytes from 253.102.198.104.bc.googleusercontent.com (104.198.102.253): icmp_seq=6 ttl=47 time=151 ms
+
+--- claremont.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 151.992/152.244/152.615/0.513 ms

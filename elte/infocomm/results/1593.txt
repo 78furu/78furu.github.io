@@ -1,0 +1,11 @@
+PING usd.edu (192.236.39.24) 56(84) bytes of data.
+64 bytes from www.usd.edu (192.236.39.24): icmp_seq=1 ttl=45 time=158 ms
+64 bytes from www.usd.edu (192.236.39.24): icmp_seq=2 ttl=45 time=158 ms
+64 bytes from www.usd.edu (192.236.39.24): icmp_seq=3 ttl=45 time=161 ms
+64 bytes from www.usd.edu (192.236.39.24): icmp_seq=4 ttl=45 time=158 ms
+64 bytes from www.usd.edu (192.236.39.24): icmp_seq=5 ttl=45 time=158 ms
+64 bytes from www.usd.edu (192.236.39.24): icmp_seq=6 ttl=45 time=161 ms
+
+--- usd.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 158.815/159.886/161.900/1.383 ms

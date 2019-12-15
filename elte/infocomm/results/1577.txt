@@ -1,0 +1,11 @@
+PING tctc.edu (205.186.33.45) 56(84) bytes of data.
+64 bytes from 205-186-33-45.generic.c-light.net (205.186.33.45): icmp_seq=1 ttl=234 time=136 ms
+64 bytes from 205-186-33-45.generic.c-light.net (205.186.33.45): icmp_seq=2 ttl=234 time=138 ms
+64 bytes from 205-186-33-45.generic.c-light.net (205.186.33.45): icmp_seq=3 ttl=234 time=134 ms
+64 bytes from 205-186-33-45.generic.c-light.net (205.186.33.45): icmp_seq=4 ttl=234 time=134 ms
+64 bytes from 205-186-33-45.generic.c-light.net (205.186.33.45): icmp_seq=5 ttl=234 time=134 ms
+64 bytes from 205-186-33-45.generic.c-light.net (205.186.33.45): icmp_seq=6 ttl=234 time=134 ms
+
+--- tctc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 134.389/135.574/138.165/1.376 ms

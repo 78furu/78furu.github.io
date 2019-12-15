@@ -1,0 +1,5 @@
+PING reynolds.edu (164.106.88.18) 56(84) bytes of data.
+
+--- reynolds.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5074ms
+

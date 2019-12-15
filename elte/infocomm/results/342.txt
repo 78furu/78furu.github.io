@@ -1,0 +1,11 @@
+PING goodwin.edu (209.59.129.10) 56(84) bytes of data.
+64 bytes from securehost.goodwin.edu (209.59.129.10): icmp_seq=1 ttl=38 time=134 ms
+64 bytes from securehost.goodwin.edu (209.59.129.10): icmp_seq=2 ttl=38 time=133 ms
+64 bytes from securehost.goodwin.edu (209.59.129.10): icmp_seq=3 ttl=38 time=134 ms
+64 bytes from securehost.goodwin.edu (209.59.129.10): icmp_seq=4 ttl=38 time=164 ms
+64 bytes from securehost.goodwin.edu (209.59.129.10): icmp_seq=5 ttl=38 time=133 ms
+64 bytes from securehost.goodwin.edu (209.59.129.10): icmp_seq=6 ttl=38 time=134 ms
+
+--- goodwin.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 133.851/139.201/164.352/11.260 ms

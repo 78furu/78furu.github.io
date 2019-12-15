@@ -1,0 +1,5 @@
+PING louisiana.edu (130.70.241.71) 56(84) bytes of data.
+
+--- louisiana.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5098ms
+

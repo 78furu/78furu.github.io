@@ -1,0 +1,10 @@
+PING mtu.edu (141.219.70.117) 56(84) bytes of data.
+64 bytes from mtu.edu (141.219.70.117): icmp_seq=1 ttl=232 time=133 ms
+64 bytes from mtu.edu (141.219.70.117): icmp_seq=2 ttl=232 time=132 ms
+64 bytes from mtu.edu (141.219.70.117): icmp_seq=3 ttl=232 time=140 ms
+64 bytes from mtu.edu (141.219.70.117): icmp_seq=5 ttl=232 time=139 ms
+64 bytes from mtu.edu (141.219.70.117): icmp_seq=6 ttl=232 time=140 ms
+
+--- mtu.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5009ms
+rtt min/avg/max/mdev = 132.612/137.282/140.316/3.437 ms

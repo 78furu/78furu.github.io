@@ -1,0 +1,11 @@
+PING mum.edu (192.249.118.206) 56(84) bytes of data.
+64 bytes from cc2236.inmotionhosting.com (192.249.118.206): icmp_seq=1 ttl=35 time=167 ms
+64 bytes from cc2236.inmotionhosting.com (192.249.118.206): icmp_seq=2 ttl=35 time=168 ms
+64 bytes from cc2236.inmotionhosting.com (192.249.118.206): icmp_seq=3 ttl=35 time=167 ms
+64 bytes from cc2236.inmotionhosting.com (192.249.118.206): icmp_seq=4 ttl=35 time=167 ms
+64 bytes from cc2236.inmotionhosting.com (192.249.118.206): icmp_seq=5 ttl=35 time=167 ms
+64 bytes from cc2236.inmotionhosting.com (192.249.118.206): icmp_seq=6 ttl=35 time=178 ms
+
+--- mum.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5001ms
+rtt min/avg/max/mdev = 167.045/169.390/178.333/4.070 ms

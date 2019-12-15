@@ -1,0 +1,11 @@
+PING jhsph.edu (128.220.192.230) 56(84) bytes of data.
+64 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=1 ttl=232 time=110 ms
+64 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=2 ttl=232 time=117 ms
+64 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=3 ttl=232 time=110 ms
+64 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=4 ttl=232 time=117 ms
+64 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=5 ttl=232 time=114 ms
+64 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=6 ttl=232 time=124 ms
+
+--- jhsph.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5005ms
+rtt min/avg/max/mdev = 110.171/115.564/124.244/4.853 ms

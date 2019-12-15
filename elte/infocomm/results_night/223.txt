@@ -1,0 +1,11 @@
+PING pacificcollege.edu (104.26.0.208) 56(84) bytes of data.
+64 bytes from 104.26.0.208 (104.26.0.208): icmp_seq=1 ttl=54 time=1.63 ms
+64 bytes from 104.26.0.208 (104.26.0.208): icmp_seq=2 ttl=54 time=2.06 ms
+64 bytes from 104.26.0.208 (104.26.0.208): icmp_seq=3 ttl=54 time=2.23 ms
+64 bytes from 104.26.0.208 (104.26.0.208): icmp_seq=4 ttl=54 time=1.72 ms
+64 bytes from 104.26.0.208 (104.26.0.208): icmp_seq=5 ttl=54 time=1.90 ms
+64 bytes from 104.26.0.208 (104.26.0.208): icmp_seq=6 ttl=54 time=2.16 ms
+
+--- pacificcollege.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 1.636/1.954/2.235/0.222 ms

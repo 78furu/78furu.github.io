@@ -1,0 +1,11 @@
+PING bemidjistate.edu (199.17.178.40) 56(84) bytes of data.
+64 bytes from bsu178040.bemidjistate.edu (199.17.178.40): icmp_seq=1 ttl=31 time=137 ms
+64 bytes from bsu178040.bemidjistate.edu (199.17.178.40): icmp_seq=2 ttl=31 time=139 ms
+64 bytes from bsu178040.bemidjistate.edu (199.17.178.40): icmp_seq=3 ttl=31 time=136 ms
+64 bytes from bsu178040.bemidjistate.edu (199.17.178.40): icmp_seq=4 ttl=31 time=145 ms
+64 bytes from bsu178040.bemidjistate.edu (199.17.178.40): icmp_seq=5 ttl=31 time=149 ms
+64 bytes from bsu178040.bemidjistate.edu (199.17.178.40): icmp_seq=6 ttl=31 time=137 ms
+
+--- bemidjistate.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 136.699/140.842/149.381/4.888 ms

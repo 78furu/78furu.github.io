@@ -1,0 +1,5 @@
+PING wayne.edu (141.217.1.160) 56(84) bytes of data.
+
+--- wayne.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5103ms
+

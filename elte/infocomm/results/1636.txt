@@ -1,0 +1,11 @@
+PING volstate.edu (23.185.0.4) 56(84) bytes of data.
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=1 ttl=52 time=31.4 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=2 ttl=52 time=31.8 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=3 ttl=52 time=32.4 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=4 ttl=52 time=32.7 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=5 ttl=52 time=32.1 ms
+64 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=6 ttl=52 time=31.4 ms
+
+--- volstate.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 31.420/32.015/32.761/0.484 ms

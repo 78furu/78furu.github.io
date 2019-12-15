@@ -1,0 +1,5 @@
+PING cccco.edu (205.154.226.40) 56(84) bytes of data.
+
+--- cccco.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5109ms
+

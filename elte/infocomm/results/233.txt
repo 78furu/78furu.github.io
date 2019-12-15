@@ -1,0 +1,11 @@
+PING portervillecollege.edu (199.83.129.186) 56(84) bytes of data.
+64 bytes from 199.83.129.186.ip.incapdns.net (199.83.129.186): icmp_seq=1 ttl=46 time=106 ms
+64 bytes from 199.83.129.186.ip.incapdns.net (199.83.129.186): icmp_seq=2 ttl=46 time=106 ms
+64 bytes from 199.83.129.186.ip.incapdns.net (199.83.129.186): icmp_seq=3 ttl=46 time=106 ms
+64 bytes from 199.83.129.186.ip.incapdns.net (199.83.129.186): icmp_seq=4 ttl=46 time=107 ms
+64 bytes from 199.83.129.186.ip.incapdns.net (199.83.129.186): icmp_seq=5 ttl=46 time=105 ms
+64 bytes from 199.83.129.186.ip.incapdns.net (199.83.129.186): icmp_seq=6 ttl=46 time=105 ms
+
+--- portervillecollege.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 105.462/106.128/107.201/0.617 ms

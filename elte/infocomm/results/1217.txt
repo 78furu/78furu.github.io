@@ -1,0 +1,11 @@
+PING elim.edu (142.4.18.108) 56(84) bytes of data.
+64 bytes from server.elim.edu (142.4.18.108): icmp_seq=1 ttl=41 time=179 ms
+64 bytes from server.elim.edu (142.4.18.108): icmp_seq=2 ttl=41 time=177 ms
+64 bytes from server.elim.edu (142.4.18.108): icmp_seq=3 ttl=41 time=177 ms
+64 bytes from server.elim.edu (142.4.18.108): icmp_seq=4 ttl=41 time=178 ms
+64 bytes from server.elim.edu (142.4.18.108): icmp_seq=5 ttl=41 time=178 ms
+64 bytes from server.elim.edu (142.4.18.108): icmp_seq=6 ttl=41 time=178 ms
+
+--- elim.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 177.310/178.354/179.183/0.658 ms

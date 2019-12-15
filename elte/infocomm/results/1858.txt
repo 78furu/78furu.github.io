@@ -1,0 +1,11 @@
+PING uw.edu (128.95.155.198) 56(84) bytes of data.
+64 bytes from www4.cac.washington.edu (128.95.155.198): icmp_seq=1 ttl=38 time=182 ms
+64 bytes from www4.cac.washington.edu (128.95.155.198): icmp_seq=2 ttl=38 time=181 ms
+64 bytes from www4.cac.washington.edu (128.95.155.198): icmp_seq=3 ttl=38 time=178 ms
+64 bytes from www4.cac.washington.edu (128.95.155.198): icmp_seq=4 ttl=38 time=181 ms
+64 bytes from www4.cac.washington.edu (128.95.155.198): icmp_seq=5 ttl=38 time=181 ms
+64 bytes from www4.cac.washington.edu (128.95.155.198): icmp_seq=6 ttl=38 time=181 ms
+
+--- uw.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 178.196/181.128/182.878/1.484 ms

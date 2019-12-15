@@ -1,0 +1,5 @@
+PING emory.edu (170.140.125.20) 56(84) bytes of data.
+
+--- emory.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5110ms
+

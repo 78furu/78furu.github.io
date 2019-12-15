@@ -1,0 +1,11 @@
+PING bentley.edu (54.221.204.45) 56(84) bytes of data.
+64 bytes from ec2-54-221-204-45.compute-1.amazonaws.com (54.221.204.45): icmp_seq=1 ttl=40 time=119 ms
+64 bytes from ec2-54-221-204-45.compute-1.amazonaws.com (54.221.204.45): icmp_seq=2 ttl=40 time=122 ms
+64 bytes from ec2-54-221-204-45.compute-1.amazonaws.com (54.221.204.45): icmp_seq=3 ttl=40 time=118 ms
+64 bytes from ec2-54-221-204-45.compute-1.amazonaws.com (54.221.204.45): icmp_seq=4 ttl=40 time=111 ms
+64 bytes from ec2-54-221-204-45.compute-1.amazonaws.com (54.221.204.45): icmp_seq=5 ttl=40 time=120 ms
+64 bytes from ec2-54-221-204-45.compute-1.amazonaws.com (54.221.204.45): icmp_seq=6 ttl=40 time=123 ms
+
+--- bentley.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5002ms
+rtt min/avg/max/mdev = 111.297/119.231/123.079/3.915 ms

@@ -1,0 +1,11 @@
+PING avc.edu (207.233.89.204) 56(84) bytes of data.
+64 bytes from www.avc.edu (207.233.89.204): icmp_seq=1 ttl=44 time=167 ms
+64 bytes from www.avc.edu (207.233.89.204): icmp_seq=2 ttl=44 time=167 ms
+64 bytes from www.avc.edu (207.233.89.204): icmp_seq=3 ttl=44 time=169 ms
+64 bytes from www.avc.edu (207.233.89.204): icmp_seq=4 ttl=44 time=167 ms
+64 bytes from www.avc.edu (207.233.89.204): icmp_seq=5 ttl=44 time=169 ms
+64 bytes from www.avc.edu (207.233.89.204): icmp_seq=6 ttl=44 time=167 ms
+
+--- avc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 167.594/168.321/169.793/0.989 ms

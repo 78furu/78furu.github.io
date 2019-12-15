@@ -1,0 +1,5 @@
+PING lasierra.edu (199.233.154.4) 56(84) bytes of data.
+
+--- lasierra.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5121ms
+

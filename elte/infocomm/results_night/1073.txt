@@ -1,0 +1,11 @@
+PING unca.edu (152.4.218.25) 56(84) bytes of data.
+64 bytes from 152.4.218.25 (152.4.218.25): icmp_seq=1 ttl=237 time=113 ms
+64 bytes from 152.4.218.25 (152.4.218.25): icmp_seq=2 ttl=237 time=113 ms
+64 bytes from 152.4.218.25 (152.4.218.25): icmp_seq=3 ttl=237 time=114 ms
+64 bytes from 152.4.218.25 (152.4.218.25): icmp_seq=4 ttl=237 time=113 ms
+64 bytes from 152.4.218.25 (152.4.218.25): icmp_seq=5 ttl=237 time=113 ms
+64 bytes from 152.4.218.25 (152.4.218.25): icmp_seq=6 ttl=237 time=113 ms
+
+--- unca.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5313ms
+rtt min/avg/max/mdev = 113.761/113.892/114.199/0.247 ms

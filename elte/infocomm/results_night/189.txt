@@ -1,0 +1,5 @@
+PING lasc.edu (40.83.249.142) 56(84) bytes of data.
+
+--- lasc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5095ms
+

@@ -1,0 +1,11 @@
+PING cgu.edu (104.196.201.45) 56(84) bytes of data.
+64 bytes from 45.201.196.104.bc.googleusercontent.com (104.196.201.45): icmp_seq=1 ttl=51 time=113 ms
+64 bytes from 45.201.196.104.bc.googleusercontent.com (104.196.201.45): icmp_seq=2 ttl=51 time=120 ms
+64 bytes from 45.201.196.104.bc.googleusercontent.com (104.196.201.45): icmp_seq=3 ttl=51 time=113 ms
+64 bytes from 45.201.196.104.bc.googleusercontent.com (104.196.201.45): icmp_seq=4 ttl=51 time=113 ms
+64 bytes from 45.201.196.104.bc.googleusercontent.com (104.196.201.45): icmp_seq=5 ttl=51 time=113 ms
+64 bytes from 45.201.196.104.bc.googleusercontent.com (104.196.201.45): icmp_seq=6 ttl=51 time=113 ms
+
+--- cgu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 113.033/114.462/120.242/2.630 ms

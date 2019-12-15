@@ -1,0 +1,11 @@
+PING msmary.edu (109.199.109.217) 56(84) bytes of data.
+64 bytes from c55477.sgvps.net (109.199.109.217): icmp_seq=1 ttl=46 time=120 ms
+64 bytes from c55477.sgvps.net (109.199.109.217): icmp_seq=2 ttl=46 time=119 ms
+64 bytes from c55477.sgvps.net (109.199.109.217): icmp_seq=3 ttl=46 time=119 ms
+64 bytes from c55477.sgvps.net (109.199.109.217): icmp_seq=4 ttl=46 time=119 ms
+64 bytes from c55477.sgvps.net (109.199.109.217): icmp_seq=5 ttl=46 time=119 ms
+64 bytes from c55477.sgvps.net (109.199.109.217): icmp_seq=6 ttl=46 time=120 ms
+
+--- msmary.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 119.770/120.002/120.561/0.341 ms

@@ -1,0 +1,9 @@
+PING lanecc.edu (163.41.112.159) 56(84) bytes of data.
+64 bytes from web-prod-proxy-01.my.lanecc.edu (163.41.112.159): icmp_seq=1 ttl=32 time=199 ms
+64 bytes from web-prod-proxy-01.my.lanecc.edu (163.41.112.159): icmp_seq=4 ttl=32 time=191 ms
+64 bytes from web-prod-proxy-01.my.lanecc.edu (163.41.112.159): icmp_seq=5 ttl=32 time=201 ms
+64 bytes from web-prod-proxy-01.my.lanecc.edu (163.41.112.159): icmp_seq=6 ttl=32 time=190 ms
+
+--- lanecc.edu ping statistics ---
+6 packets transmitted, 4 received, 33% packet loss, time 5059ms
+rtt min/avg/max/mdev = 190.922/195.968/201.524/4.824 ms

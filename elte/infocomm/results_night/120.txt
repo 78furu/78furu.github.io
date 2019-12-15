@@ -1,0 +1,11 @@
+PING cogswell.edu (35.197.61.130) 56(84) bytes of data.
+64 bytes from 130.61.197.35.bc.googleusercontent.com (35.197.61.130): icmp_seq=1 ttl=47 time=155 ms
+64 bytes from 130.61.197.35.bc.googleusercontent.com (35.197.61.130): icmp_seq=2 ttl=47 time=155 ms
+64 bytes from 130.61.197.35.bc.googleusercontent.com (35.197.61.130): icmp_seq=3 ttl=47 time=157 ms
+64 bytes from 130.61.197.35.bc.googleusercontent.com (35.197.61.130): icmp_seq=4 ttl=47 time=155 ms
+64 bytes from 130.61.197.35.bc.googleusercontent.com (35.197.61.130): icmp_seq=5 ttl=47 time=155 ms
+64 bytes from 130.61.197.35.bc.googleusercontent.com (35.197.61.130): icmp_seq=6 ttl=47 time=155 ms
+
+--- cogswell.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 155.360/155.880/157.704/0.967 ms

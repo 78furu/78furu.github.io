@@ -1,0 +1,5 @@
+PING mesabirange.edu (23.96.237.73) 56(84) bytes of data.
+
+--- mesabirange.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5089ms
+

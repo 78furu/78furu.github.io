@@ -1,0 +1,11 @@
+PING peralta.edu (173.231.200.208) 56(84) bytes of data.
+64 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=1 ttl=34 time=167 ms
+64 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=2 ttl=34 time=167 ms
+64 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=3 ttl=34 time=168 ms
+64 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=4 ttl=34 time=167 ms
+64 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=5 ttl=34 time=167 ms
+64 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=6 ttl=34 time=167 ms
+
+--- peralta.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 167.137/167.649/168.855/0.692 ms

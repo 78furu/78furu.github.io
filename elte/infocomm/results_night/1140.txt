@@ -1,0 +1,11 @@
+PING georgian.edu (104.199.126.6) 56(84) bytes of data.
+64 bytes from 6.126.199.104.bc.googleusercontent.com (104.199.126.6): icmp_seq=1 ttl=47 time=155 ms
+64 bytes from 6.126.199.104.bc.googleusercontent.com (104.199.126.6): icmp_seq=2 ttl=47 time=155 ms
+64 bytes from 6.126.199.104.bc.googleusercontent.com (104.199.126.6): icmp_seq=3 ttl=47 time=154 ms
+64 bytes from 6.126.199.104.bc.googleusercontent.com (104.199.126.6): icmp_seq=4 ttl=47 time=155 ms
+64 bytes from 6.126.199.104.bc.googleusercontent.com (104.199.126.6): icmp_seq=5 ttl=47 time=155 ms
+64 bytes from 6.126.199.104.bc.googleusercontent.com (104.199.126.6): icmp_seq=6 ttl=47 time=154 ms
+
+--- georgian.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 154.643/155.103/155.533/0.593 ms

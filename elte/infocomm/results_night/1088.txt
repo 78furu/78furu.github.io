@@ -1,0 +1,11 @@
+PING minotstateu.edu (165.234.215.36) 56(84) bytes of data.
+64 bytes from dc2.minotstateu.edu (165.234.215.36): icmp_seq=1 ttl=105 time=141 ms
+64 bytes from dc2.minotstateu.edu (165.234.215.36): icmp_seq=2 ttl=105 time=142 ms
+64 bytes from dc2.minotstateu.edu (165.234.215.36): icmp_seq=3 ttl=105 time=142 ms
+64 bytes from dc2.minotstateu.edu (165.234.215.36): icmp_seq=4 ttl=105 time=141 ms
+64 bytes from dc2.minotstateu.edu (165.234.215.36): icmp_seq=5 ttl=105 time=141 ms
+64 bytes from dc2.minotstateu.edu (165.234.215.36): icmp_seq=6 ttl=105 time=142 ms
+
+--- minotstateu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5003ms
+rtt min/avg/max/mdev = 141.522/142.040/142.828/0.452 ms

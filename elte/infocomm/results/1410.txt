@@ -1,0 +1,10 @@
+PING cs.edu (199.34.228.47) 56(84) bytes of data.
+64 bytes from pages-custom-7.weebly.com (199.34.228.47): icmp_seq=1 ttl=45 time=187 ms
+64 bytes from pages-custom-7.weebly.com (199.34.228.47): icmp_seq=2 ttl=45 time=189 ms
+64 bytes from pages-custom-7.weebly.com (199.34.228.47): icmp_seq=3 ttl=45 time=193 ms
+64 bytes from pages-custom-7.weebly.com (199.34.228.47): icmp_seq=4 ttl=45 time=190 ms
+64 bytes from pages-custom-7.weebly.com (199.34.228.47): icmp_seq=6 ttl=45 time=195 ms
+
+--- cs.edu ping statistics ---
+6 packets transmitted, 5 received, 16% packet loss, time 5030ms
+rtt min/avg/max/mdev = 187.422/191.366/195.107/2.806 ms

@@ -1,0 +1,5 @@
+PING clayton.edu (168.28.240.166) 56(84) bytes of data.
+
+--- clayton.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5116ms
+

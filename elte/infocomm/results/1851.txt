@@ -1,0 +1,11 @@
+PING siom.edu (198.185.159.145) 56(84) bytes of data.
+64 bytes from 198.185.159.145 (198.185.159.145): icmp_seq=1 ttl=238 time=118 ms
+64 bytes from 198.185.159.145 (198.185.159.145): icmp_seq=2 ttl=237 time=118 ms
+64 bytes from 198.185.159.145 (198.185.159.145): icmp_seq=3 ttl=238 time=117 ms
+64 bytes from 198.185.159.145 (198.185.159.145): icmp_seq=4 ttl=238 time=118 ms
+64 bytes from 198.185.159.145 (198.185.159.145): icmp_seq=5 ttl=238 time=117 ms
+64 bytes from 198.185.159.145 (198.185.159.145): icmp_seq=6 ttl=238 time=117 ms
+
+--- siom.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 117.580/118.075/118.903/0.449 ms

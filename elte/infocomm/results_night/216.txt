@@ -1,0 +1,5 @@
+PING norcocollege.edu (13.77.158.242) 56(84) bytes of data.
+
+--- norcocollege.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5125ms
+

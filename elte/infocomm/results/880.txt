@@ -1,0 +1,11 @@
+PING kvcc.edu (45.60.132.32) 56(84) bytes of data.
+64 bytes from 45.60.132.32 (45.60.132.32): icmp_seq=1 ttl=44 time=116 ms
+64 bytes from 45.60.132.32 (45.60.132.32): icmp_seq=2 ttl=44 time=114 ms
+64 bytes from 45.60.132.32 (45.60.132.32): icmp_seq=3 ttl=44 time=120 ms
+64 bytes from 45.60.132.32 (45.60.132.32): icmp_seq=4 ttl=44 time=113 ms
+64 bytes from 45.60.132.32 (45.60.132.32): icmp_seq=5 ttl=44 time=115 ms
+64 bytes from 45.60.132.32 (45.60.132.32): icmp_seq=6 ttl=44 time=114 ms
+
+--- kvcc.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 113.748/115.943/120.708/2.419 ms

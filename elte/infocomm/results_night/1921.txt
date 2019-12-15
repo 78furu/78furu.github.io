@@ -1,0 +1,11 @@
+PING wvstateu.edu (75.98.231.184) 56(84) bytes of data.
+64 bytes from 75.98.231.184 (75.98.231.184): icmp_seq=1 ttl=101 time=139 ms
+64 bytes from 75.98.231.184 (75.98.231.184): icmp_seq=2 ttl=101 time=138 ms
+64 bytes from 75.98.231.184 (75.98.231.184): icmp_seq=3 ttl=101 time=138 ms
+64 bytes from 75.98.231.184 (75.98.231.184): icmp_seq=4 ttl=101 time=138 ms
+64 bytes from 75.98.231.184 (75.98.231.184): icmp_seq=5 ttl=101 time=138 ms
+64 bytes from 75.98.231.184 (75.98.231.184): icmp_seq=6 ttl=101 time=138 ms
+
+--- wvstateu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 138.286/138.693/139.430/0.435 ms

@@ -1,0 +1,5 @@
+PING ithaca.edu (40.121.49.159) 56(84) bytes of data.
+
+--- ithaca.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5115ms
+

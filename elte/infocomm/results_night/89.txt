@@ -1,0 +1,11 @@
+PING ati.edu (67.20.112.130) 56(84) bytes of data.
+64 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=1 ttl=35 time=173 ms
+64 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=2 ttl=35 time=172 ms
+64 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=3 ttl=35 time=172 ms
+64 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=4 ttl=35 time=172 ms
+64 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=5 ttl=35 time=172 ms
+64 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=6 ttl=35 time=173 ms
+
+--- ati.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 172.428/172.761/173.240/0.293 ms

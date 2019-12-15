@@ -1,0 +1,5 @@
+PING lehman.edu (148.84.103.12) 56(84) bytes of data.
+
+--- lehman.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5113ms
+

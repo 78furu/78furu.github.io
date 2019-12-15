@@ -1,0 +1,11 @@
+PING pierpont.edu (129.71.73.30) 56(84) bytes of data.
+64 bytes from www.pierpont.edu (129.71.73.30): icmp_seq=1 ttl=43 time=136 ms
+64 bytes from www.pierpont.edu (129.71.73.30): icmp_seq=2 ttl=43 time=136 ms
+64 bytes from www.pierpont.edu (129.71.73.30): icmp_seq=3 ttl=43 time=135 ms
+64 bytes from www.pierpont.edu (129.71.73.30): icmp_seq=4 ttl=43 time=135 ms
+64 bytes from www.pierpont.edu (129.71.73.30): icmp_seq=5 ttl=43 time=136 ms
+64 bytes from www.pierpont.edu (129.71.73.30): icmp_seq=6 ttl=43 time=137 ms
+
+--- pierpont.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5007ms
+rtt min/avg/max/mdev = 135.662/136.475/137.460/0.663 ms

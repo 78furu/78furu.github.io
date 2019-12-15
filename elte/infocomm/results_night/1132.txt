@@ -1,0 +1,11 @@
+PING bergen.edu (104.26.2.77) 56(84) bytes of data.
+64 bytes from 104.26.2.77 (104.26.2.77): icmp_seq=1 ttl=54 time=1.64 ms
+64 bytes from 104.26.2.77 (104.26.2.77): icmp_seq=2 ttl=54 time=1.76 ms
+64 bytes from 104.26.2.77 (104.26.2.77): icmp_seq=3 ttl=54 time=1.57 ms
+64 bytes from 104.26.2.77 (104.26.2.77): icmp_seq=4 ttl=54 time=1.74 ms
+64 bytes from 104.26.2.77 (104.26.2.77): icmp_seq=5 ttl=54 time=1.66 ms
+64 bytes from 104.26.2.77 (104.26.2.77): icmp_seq=6 ttl=54 time=1.73 ms
+
+--- bergen.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 1.574/1.686/1.761/0.085 ms

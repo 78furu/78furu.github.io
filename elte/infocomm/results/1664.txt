@@ -1,0 +1,11 @@
+PING grayson.edu (97.75.99.238) 56(84) bytes of data.
+64 bytes from 97-75-99-238.static-ip.telepacific.net (97.75.99.238): icmp_seq=1 ttl=102 time=157 ms
+64 bytes from 97-75-99-238.static-ip.telepacific.net (97.75.99.238): icmp_seq=2 ttl=102 time=152 ms
+64 bytes from 97-75-99-238.static-ip.telepacific.net (97.75.99.238): icmp_seq=3 ttl=102 time=156 ms
+64 bytes from 97-75-99-238.static-ip.telepacific.net (97.75.99.238): icmp_seq=4 ttl=102 time=150 ms
+64 bytes from 97-75-99-238.static-ip.telepacific.net (97.75.99.238): icmp_seq=5 ttl=102 time=160 ms
+64 bytes from 97-75-99-238.static-ip.telepacific.net (97.75.99.238): icmp_seq=6 ttl=102 time=150 ms
+
+--- grayson.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 150.457/154.746/160.594/3.744 ms

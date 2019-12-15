@@ -1,0 +1,11 @@
+PING northland.edu (138.197.75.193) 56(84) bytes of data.
+64 bytes from www.northland.edu (138.197.75.193): icmp_seq=1 ttl=46 time=109 ms
+64 bytes from www.northland.edu (138.197.75.193): icmp_seq=2 ttl=46 time=118 ms
+64 bytes from www.northland.edu (138.197.75.193): icmp_seq=3 ttl=46 time=109 ms
+64 bytes from www.northland.edu (138.197.75.193): icmp_seq=4 ttl=46 time=110 ms
+64 bytes from www.northland.edu (138.197.75.193): icmp_seq=5 ttl=46 time=109 ms
+64 bytes from www.northland.edu (138.197.75.193): icmp_seq=6 ttl=46 time=109 ms
+
+--- northland.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 109.375/111.211/118.115/3.129 ms

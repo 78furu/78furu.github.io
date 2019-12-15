@@ -1,0 +1,11 @@
+PING sais-jhu.edu (162.129.6.70) 56(84) bytes of data.
+64 bytes from jhcardiac.org (162.129.6.70): icmp_seq=1 ttl=232 time=111 ms
+64 bytes from jhcardiac.org (162.129.6.70): icmp_seq=2 ttl=232 time=112 ms
+64 bytes from jhcardiac.org (162.129.6.70): icmp_seq=3 ttl=232 time=111 ms
+64 bytes from jhcardiac.org (162.129.6.70): icmp_seq=4 ttl=232 time=111 ms
+64 bytes from jhcardiac.org (162.129.6.70): icmp_seq=5 ttl=232 time=111 ms
+64 bytes from jhcardiac.org (162.129.6.70): icmp_seq=6 ttl=232 time=111 ms
+
+--- sais-jhu.edu ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5008ms
+rtt min/avg/max/mdev = 111.508/111.756/112.131/0.483 ms

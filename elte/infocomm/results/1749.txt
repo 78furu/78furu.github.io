@@ -1,0 +1,5 @@
+PING wc.edu (159.65.78.96) 56(84) bytes of data.
+
+--- wc.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5124ms
+

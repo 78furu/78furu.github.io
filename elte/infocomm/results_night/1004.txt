@@ -1,0 +1,5 @@
+PING wmcarey.edu (208.72.134.78) 56(84) bytes of data.
+
+--- wmcarey.edu ping statistics ---
+6 packets transmitted, 0 received, 100% packet loss, time 5098ms
+
