@@ -1,0 +1,31 @@
+traceroute to 78.211.147.0 (78.211.147.0), 30 hops max, 60 byte packets
+ 1  192.168.92.1 (192.168.92.1)  0.316 ms  0.297 ms  0.287 ms
+ 2  kerberos.csoma.elte.hu (157.181.192.1)  10.948 ms  10.966 ms  10.961 ms
+ 3  leo.leo-kcssk.elte.hu (157.181.119.146)  11.435 ms  11.444 ms  11.437 ms
+ 4  taurus.taurus-leo.elte.hu (157.181.126.45)  11.777 ms  11.785 ms  11.859 ms
+ 5  fw1.firewall.elte.hu (157.181.141.145)  11.553 ms  11.521 ms  11.493 ms
+ 6  taurus.fw1.fw.backbone.elte.hu (192.153.18.146)  12.155 ms  11.144 ms  11.134 ms
+ 7  rtr.hbone-elte.backbone.elte.hu (157.181.141.9)  11.416 ms  10.347 ms  10.343 ms
+ 8  tg0-0-0-14.rtr2.vh.hbone.hu (195.111.100.47)  11.196 ms  11.256 ms  11.235 ms
+ 9  be1.rtr1.vh.hbone.hu (195.111.96.56)  23.697 ms  23.715 ms  23.714 ms
+10  hungarnet-ias-geant-gw.bud.hu.geant.net (83.97.88.81)  10.995 ms  11.031 ms  11.028 ms
+11  62.40.98.47 (62.40.98.47)  21.069 ms  21.103 ms  20.280 ms
+12  decix.proxad.net (80.81.192.223)  26.622 ms  26.629 ms  26.077 ms
+13  amsterdam-6k-1-po100.intf.routers.proxad.net (212.27.56.38)  25.939 ms  25.678 ms  26.012 ms
+14  bzn-crs16-2-be1122.intf.routers.proxad.net (194.149.163.49)  39.503 ms  39.496 ms  39.491 ms
+15  194.149.166.22 (194.149.166.22)  39.496 ms  38.066 ms  38.064 ms
+16  rennes-9k-1-be2000.intf.routers.proxad.net (194.149.162.98)  44.048 ms  41.745 ms  41.745 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
