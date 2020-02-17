@@ -1,0 +1,97 @@
+INSTALLATION:
+
+help: https://www.atlassian.com/git/tutorials/install-git
+
+$ sudo apt-get update
+$ sudo apt-get install git
+
+
+
+------------------------------------------------------
+CONFIGURATION:
+
+bármikor előjöhet, hogy nincs email, se név:
+
+git config --global user.name "FIRST_NAME LAST_NAME" // GLOBAL: mindenre ez lesz, ami a gépen van.
+
+git config --global user.email "MY_NAME@example.com"
+
+git config --list
+
+git config --local //csak adott git repoba
+
+-------------------------------------------------------
+
+REMEMBER: working tree <-> staging area <-> history
+
+-------------------------------------------------------
+INITIALIZATION & 1ST COMMIT:
+
+git init // starting repo
+
+add files, then add unimportant also
+
+git status //na miujság a helyzet
+
+
+git commit //oops, problem
+
+git add, then git commit
+
+--------------------------------------------------------
+2ND COMMIT:
+
+Here i add new lines to it
+and this one,
+and mybe this one.
+
+git add "csak az egyik fájl" // mások lehetnek a következő commitban
+
+
+git diff //különbség a working tree es a staging area között
+
+git diff --staged // kül a st. ar. és a historty között -- mit fogunk épp commitolni
+
+git log (-p) // kiírja az eddigi commitokat, -p kapcsolóval a sorokat is
+--------------------------------------------------------
+REMOVAL:
+
+git rm unimportant_file.txt
+
+-----------------------------------------------------------
+UNDO:
+
+git checkout -- <filename> // visszaszedi a fájlt a staging arearól
+
+git reset HEAD <filename> //visszaállítja a legutolsó commited állapotot  a st. areaba, majd git checkout
+
+git log -- <filename> // összes commit, amelynek köze volt a fájlhoz
+
+git checkout 9addb -- <filename> // 9addb az első 5 karaktere a hashkódnak, amelyikből vissza akarjuk kapni
+
+--------------------------------------------------------------
+.gitignore:
+
+ebben vannak olyan dolgok, amiket NEM akarod, hogy kövessen a git. lehet az kész kód vagy logfájl, vagy más artefakt
+
+kreáljunk ilyen fájlokat:
+
+touch myapp.pyc
+mkdir logs
+touch logs/log1.log
+touch log/log2.log
+
+git statussal megnézzük, hogy tényleg bajos
+
+nano/vi/gedit .gitignore //létrehozni és belemászni, hogy tudjunk bele írni
+
+belírjuk ezeket:
+
+*.pyc
+logs/*
+
+git status // jééé, de ezt is commitolni kell
+
+
+delete unimportant, commit it, then try to restore
+
