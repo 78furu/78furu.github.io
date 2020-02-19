@@ -2,8 +2,15 @@ INSTALLATION:
 
 help: https://www.atlassian.com/git/tutorials/install-git
 
-$ sudo apt-get update
-$ sudo apt-get install git
+Linux:
+	($ sudo apt-get update)
+	$ sudo apt-get install git
+
+Windows:
+	http://git-scm.com/download/win
+
+Mac:
+	http://git-scm.com/download/mac
 
 
 
@@ -91,7 +98,7 @@ belírjuk ezeket:
 logs/*
 
 git status // jééé, de ezt is commitolni kell
+------------------------------------------------
 
 
-delete unimportant, commit it, then try to restore
 
