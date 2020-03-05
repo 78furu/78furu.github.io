@@ -1,0 +1,67 @@
+RICSI órája 02. 26.
+-----------------------------------------------
+
+
+Kell két különféle verzió. Kettő külön él, párhuzamosan fejlődik tovább.
+Példa: alap csomag valamiből és a prémium. Vagy operációs rendszertől függő parancsok esetében a két külön oprendszerre.
+Kreáljunk egy szövegfájlt: S1.text
+
+	$ git add * 
+	$ git commit -m 'added s1'
+	$ git status
+	$ git log --all --decorate --oneline // kiírja egysorosan az eddigieket.
+
+A master ág a főkutya. Rövidítsünk egy parancsot ekképp:
+
+ 	$ alias graph="git log --all --decorate --oneline" // ezzel elmentjük az egész parancsot egy graph parancsként
+
+Megjegyzés: ne legyenek szóközök a graphnál az egyenlőségnél.
+
+	$ git branch Tandetron // paranccsal létrehozunk egy másik, Tandetron nevű ágat, ami másik verzót jelentheti
+	$ git branch Ciktlotron // szintúgy
+
+Az alábbi paranccsal megmutatja, hogy a HEAD melyikre mutat, azaz, éppen min dolgozunk:
+
+	$ git log 
+
+ezt megvátoztathatjuk a 
+
+	$ git checkout <branchname> // ahol ugye branchname = Tandetron vagy Ciklotron, <> - ezek nem kellenek
+
+
+Most megírhatjuk a másik ágra szánt dolgainkat, változtassuk meg az s1-et, írjunk bele
+kommitáljuk ($ git commit -m "tetszőleges message"), majd átváltunk ciklotronos ágra, módosítjuk azt is, commitáljuk
+vissza tandetronra, módosítsuk, kommitáljuk
+Na ez unalmas, a végén egy darabot akarunk. 
+menjünk vissza a masterre is, majd lecsekkoljuk, mi a különbség a tandetron és a master között a 
+
+	$ git diff master..Tandetron // paranccsal
+
+Fast forward merging: összefésüli:
+
+
+	$ git merge Tandetron master // azaz git merge <melyik ágat> <melyikbe> mergelje
+
+graph-fal lecsekkoljuk, egy szinten van már a master és a Tandetron, utóbbira nincs szükségünk, töröljük:
+
+	$ git branch -d Tandetron // nincs már ott a Tandetron
+
+Na most mi lesz, ha oda akarjuk mergelni a ciklotronnal? Baj lesz.
+
+	$ git merge Ciklotron  // ugye ez a baj, oldjuk meg kézzel, menjünk át a ciklotronra, nyissuk meg az s1 fájlt
+
+kitöröltük az extra cuclikat (<, > és =-lel kezdődeket), majd most commitáljuk
+--------------------------------------------
+GITHUB:
+
+csináljunk githubrepot: github.com-on // egyszerű, nem írom le
+
+ha kinyerjük az url-t ami a github repositoryhoz tartozik: lehúzzuk magnkhoz
+
+git clone <URL> //  ezzel sikerült lehúzni a cuclikat
+
+Következő órán CMake-nek kezd neki a Balázs.
+------------------------------------------------------
+------------------------------------------------------
+------------------------------------------------------
+------------------------------------------------------

@@ -1,0 +1,78 @@
+Szigeti CMake-je (03.04.)
+
+
+Megjegyzés: a $-nal jelölt sorokat bashből (terminálból kell futtani)
+
+C/C++-hez kell külön fordító, ami a forrásfájlokból képze futtatható programot. 
+Ennek lépései a következők:
+	- Előfordítás/preprocesszálás;
+	- Lexikai elemek lefordítása/tokenizálás: kulcsszavakból bináris utasítások;
+	- Szintaktikai elemzés: előre megírt szabályokra figyel, pl ";" a parancs után;
+	- Környezeti & érvényességi vizsgálat: lokális vagy globális deklarációk érvényességére figyel, kerüljük a globális változókat lehetőleg;
+	- Típuselemzés: megfelelő típusátadás, -deklaráció;
+	- Kódgenerálás: bináris futtatható kódot állít elő.
+
+Headerfájlok (.h, .hpp) csak deklarálják a függvényeket, változókat és azok típusait, a források (.c, .cpp) tartalmazzák a definíciót. A C/C++-ben a One Definition Rule miatt csak egyszer tudjuk behúzni a headeröket. Ezzel rugalmasabban kezelhetjük az alkódokat. 
+
+Statikus és dinamikus könyvtárak léteznek, lásd: Haladó alkprog.
+
+Fordítás:
+	
+	$ g++/clang++ -o Hello.c -o Hello.exe // léteznek más kapcsolók is, ezeket itt nem tárgyaljuk // bashből (terminálból futtatjuk)
+
+Hibák:
+	- Fordítási hiba: forráskódra mutat, egyszerűbb;
+	- Linkelési hiba: objektumfájlokra mutat, bonyolultabb.
+
+Fordítások típusai:
+	- Debug: lassú, fejelesztéshez;
+	- Release: gyors, vegső kiadáshoz.
+
+Kézzel ne fordítsunk. 
+
+Build systemek, fordítást megkönnyítő programok. Tudnak párhuzamosítani. Ilyen a CMake például, ezt fogjuk használni.
+-----------------------------------------------------------------------
+
+CMake:
+	Make fájl generátor. Open-source, hordozható, több nyelvet is ismer. 
+
+	cmake -> configure step: CMakelist.txt [rámutat a célfájlkora] -> target step ->generate step: binary tree-t csinál, ami egymásra mutat (?)
+
+	$ cmake --help // vagy csak egy kötőjel
+
+	$ mkdir build
+	$ cdir build
+	$ cmake ..  	// kiolvassa a felette lévő mappából a CMakelist.txt-t, belerakja a build mappába
+
+	Példa CMake kódra:
+
+		project(Tutorial) 						// projektnév
+		add executable(Tutorial tutorial.cxx) 	// hozzáadjuk a futtatható tutorial.cxx fájlt a projekthez
+		project(Tutorial VERSION 1.0) 			// verziószám
+
+		cmake_minimum_required(VERSION 3.0) 	// a CMakenek milyen verziója kell
+		set(CMAKE_CXX_STANDARD 11)				// forditó típusa
+		set(CMAKE_CXX_..._REQUIRED True) 		// szintén előkövetelmény definíció
+
+		add_library(MathFunctions mysqrt.cxx)	// MathFunctions saját konyvtárunk benne a mysqrt.cxx kód
+		add_subdirectory(MathFunctions)
+		ad_executable(Tutorial tutorial.cxx) 	// (???)
+		target_link_libraries(					// első a projekt neve, második a Public, harmadik (és a többi) a saját
+							Tutorial
+							Public
+							MathFunctions
+							)			
+
+
+		target_include_directories(
+						Tutorial
+						Public
+						MathFunctions
+						)
+
+
+
+Következő órán gyakorlatban is elkészítünk egy ilyet.
+
+__A jegyzetet Balázs átnézte és egyúttal hozzájárult annak feltöltéséhez.__
+
