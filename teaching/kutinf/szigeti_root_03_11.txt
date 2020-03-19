@@ -1,0 +1,62 @@
+Szigeti Root (03. 11.)
+
+
+
+CERN ROOT, ha később nagenergiás fizikával akar foglalkozni. C++-ben megírt szoftver, amely csomó segítséget nyújt nagymennyiségű adat kezeléséhez. Van valamennyire Python is integrálva bele (meg valamennyi Jupyter Notebook). 
+
+www.root.cern.ch // Docstring és egyebek
+
+Alapvető célja, hogy a teljes analízis folyamatát lehet megírni. Van hozzá grafikus ábrázoló csomag is. C++11-ben van megírva ("mainly", tehát néhol nem működik). Teljesen Open-Source. Minden Cern-es publikációban részt vesz. 
+
+	- Data analysis: histograms, graphs, trees,
+	- Függvényillesztés
+	- File input/output
+	- etc.
+
+Nyers adatokból az eseményeket (trigger (részecske, így a következőt mérjük) hatására elinduló tárolás -- akár lehet false trigger is) kiszűrjük a sok szemét mellett. Ezekből kinyerjük pl. a részecske momentumát/helyét -- ez a rekonstrukció. Ezután kezelhető formába hozzuk az adatokat, majd elvégezzük az analízsit, statisztikai teszteket. Ezeket a ROOT egyben el tudja végezni.
+
+Érti a makrókat -- tehát nem kell külön lefordítani, hanem folytonosan is lehet dolgozni vele (mint pl. Pythonban).
+
+**ábra a ROOT Math/Stats Libraries-ről, lásd diasor**
+
+Erősen típusos nyelv lévén nehezebben lehet megtanulni, de hosszútávon (nagy adatnál) megtérül, sőt, a memóriakezelése sokkal jobb a ROOT-nak, mint a Pythonnak. Mint említve volt, Open-source projekt, tehát lehetnek benne hibák. 
+
+A ROOT-on belül van GEANT4 is, ami különböző geometriákat tud szimulálni (monte-carlo metódusokkal -- további info google), amelyekkel össze tudjuk hasonlítani a valós adatokkal. Részecske-részecske kölcsönhatás még nincs, de detektor-részecske van(?). 
+
+A ROOT-nak van külön interpreterje, így a 
+	
+	$ root 
+
+paranccsal el is tudjuk indítani, amivel kapunk egy basht, és a parancsokat így lehet bwrni:
+	
+	root [0] 1+1		// itt mi csak az "1+1"-et írtuk be, a [0] a parancs sorszáma
+		> 2				// output
+
+A "draw" paranccsal lehet plotolni. pl
+
+	root [1] gr.draw
+
+**további példa a a diasorban az Exercise Solution nevű diánál**
+
+Ha C++ kódot akarunk írni, akkor így kell:
+
+	void MacroName(){
+
+	""" Ide írod a C++ kódod"""
+
+	}
+
+Majd ez lefuttatjuk  3 féleképpen:
+
+	$ root MacroName.c 			// bashből
+
+	$ root 						// belépek és lefuttatjuk
+	root [0] .x MacroName.c
+
+	$ root 						// belépek, betöltöm és meghívom
+	root [0] .L MacroName.c
+	root [1] MacroName();
+
+Tud latexet is használni. Markerek és színek végett érdekes ez. ASCII fájlokat is tud kezelni. Többdimenziós plotokra is képes, hisztogramokat tud összeadni/kivonni, egyéb műveleteket tud végezni velük. 
+
+Lesznek fent a honlapon példakódok, gyakorlatok, telepítési útmutató (magyarul), beadandó -- amihez kell majd egy build, múlt óráról.
