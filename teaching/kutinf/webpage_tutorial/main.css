@@ -1,0 +1,39 @@
+body{
+	background-color: grey;
+	color: red;
+	font-family: arial;
+}
+
+h1, h3, h6, p {
+	color: green; 
+}
+
+p {
+	color: brown;
+	padding: 20px 15px 10px 5px; 
+	background-color: white;
+}
+
+.blue{
+	color: blue;
+}
+
+#special{
+	background-color: red;
+}
+
+p:hover{
+	background-color: green;
+}
+
+p::first-letter{
+	color: black;
+}
+
+li{
+	color: red;
+}
+
+ul li{
+	color: green;
+}

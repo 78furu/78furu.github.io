@@ -1,0 +1,232 @@
+Weboldalfejlesztés bevezető:
+
+
+
+Célja a topikomnak:
+	- Manapság minden az internet körül forog, így ezen keresztül a legkönnyebb elérni az embereket.
+	- Mivel Facebookra nem tudsz kódot vagy slideshowt posztolni, muszáj saját felületre áttérned.
+	- Nincs pénzed, hogy felbérelj honlapszerkesztőt.
+	- Fő pont: prezentációidat-kódjaidat eléred usb stick vagy laptop nélkül bármikor.
+
+
+Szükséged lesz:
+	- Domain névre: ami címen elérhető a honlapod;
+		* a BRAND, a MÁRKANÉV
+		* általában 1000-2000 ft, google segít eligazodni
+		* GoDaddy, iPage ilyen domainkezelő
+
+	- Platfomra: honlap tartalmát kezeli
+		* WordPress gimiből,
+		* Bármilyen szövegszerkesztő, akár Notepad, én Sublime Textet használok
+
+	- Tárhelyre: honlap adatai tárolódnak;
+		* Stabilitás,
+		* Ingyenes (?)
+
+	- Böngészőre, hogy lásd mit is csinálsz
+	- Google-re, mert te sem tudhatsz mindent fejből
+
+[forrás: https://www.youtube.com/watch?v=gazkjut5Z1Y]
+ 
+Hálistennek ezt a github (vagy az elte) biztosítja.
+
+Ha egy weblap az ember, akkor a HTML a csontvázat, a CSS az izmokat, bőrt és egyéb külsőséget jelenti, a JavaScripttel pedig életre kel az egész.
+
+Kezdjünk neki!
+
+Kell ugye egy domain: 
+
+	regisztráció githubra: https://github.com/join
+
+	csináljunk oldalt: https://pages.github.com/
+		- user or organization site
+		- personal username
+		- terminal is what we use
+		- clone this
+		- write the html
+
+		- 	$ git add --all
+
+			$ git commit -m "Initial commit"
+
+			$ git push -u origin master
+
+		- check website
+
+
+Töltsük fel kontenttel!
+
+-----------------------------------------
+HTML:
+-----------------------------------------
+
+Elmélet:
+
+	HyperText Markup Language = hiperszöveges jelölőnyelv, internetes szabvány mellyel bongészők weboldalakat tudnak olvasni. 
+
+	kiterjesztése: .html vagy .htm
+
+	Négyfajta elem található benne:
+		- strukturális elemek, amelyek leírják az adott szöveg "célját" például <h1>Téma 1</h1> mint első szintű címsor (alcím).
+
+	    - prezentációs szimbólumok, amelyek leírják, hogy az adott szöveg hogyan nézzen ki: például <b>vastag</b> vastag kinézetet eredményez. (deprecated)
+
+	    - hiperszöveg (hypertext) elemek, amelyek segítségével kapcsolat létesíthető a dokumentum egyes elemei és más dokumentumok között (például a <a href="https://hu.wikipedia.org/">Wikipedia</a> a Wikipedia szót mint egy kapcsolatot (angol szóval: link) a megadott URL-hez jeleníti meg)
+	    
+	    - eszköz elemek, amelyek segítségével gombok, listák, beviteli mezők hozhatók létre.
+
+	Felépítes:
+		- Dokumentum típus definíció:
+			<!DOCTYPE html>
+
+		-  HTML fejléc <head></head>, ami technikai és dokumentációs adatokat tartalmaz, amelyeket az internet böngésző nem jelenít meg, tehát átlag felhasználó ezeket nem látja
+
+		- HTML törzs <body></body>, amely a megjelenítendő információkat tartalmazza.
+
+		<minta HTML>, Wikipedia link: https://hu.wikipedia.org/wiki/HTML
+
+
+	Szerkesztés bármilyen szövegszerkesztővel, akár notepad vagy Visual Studio Code (VSC), az enyém Sublime Text:
+			sudo apt-get update
+			sudo apt-get install sublime-text
+
+	Alapvetően a bongésző mindig egy index.html nevű fájlt fog keresni.
+
+	(Automatikusan érzékelő live-server:
+		sudo apt install npm
+		sudo npm install -g live-server
+		live-server // a html mappájából)
+
+----------------------------
+HTML alapjai:
+	
+	Csináljunk egy index.html nevű textfájlt. 
+
+	Szimpla "test" a fájlban. -> csak azt írja ki.
+
+	<!DOCTYPE html> 
+	<html>
+
+	</html>
+
+	<> these are tags. Minden ezekkel van definiálva
+
+	írjuk bele a <head></head> és <body></body> scriptet. Majd a body-ba egy "Hello world"-öt. CONGRATS YOU ARE AN HTML DEVELOPER.
+
+	A <head>-be beleírhatjuk a <title>Kezdetleges honlapom címe</title>. 
+	
+	Prezentációs szimbólumok:
+		- <strong> vastagon szedett </strong> (or <b> </b> for bold)
+		- <em> dőlt </em> (emphasis, or <i> </i> for italic)
+		- <br> (linebreak, do not use)
+		- <img src = "kép linkje"> (kép megjelentése)
+		- <ul> 
+			<li> </li>
+			<li> </li>
+			</ul>        (unordered list, with list elements, lehet akár ordered list is. )
+
+		- <div> </div> és <span> </span> majd a formázásokra, most nem játszunk velük
+		- <p> </p> (paragraphs, block of text, automata padding and spacing, a <br>-t váltja ki)
+		- 	<h1> </h1>
+			<h2> </h2>
+			<h3> </h3>
+				...
+			<h6> </h6> (headers for section headings)
+
+
+	Hipertext szimbólum:
+		- <a href='https://google.com'> google.com </a> (anchor, hiperlink referencia, ami a valid oldalra mutat)
+		- <abbr> valami </abbr> (abbreviation: segítség a magyarázathoz), példa:
+			<abbr id="anId" class="jargon" style="color:purple;" title="Hypertext Markup Language">HTML</abbr>
+		- <!-- This is a comment --> (kommentálás: !-- komment --)
+
+[forrás: https://youtu.be/3JluqTojuME]
+
+
+toljuk fel gitre a parancsokkal és voilá! kész a honlapunk.
+
+------------------------
+CSS alapjai:
+
+	Cascading Style Sheet. Cascading: fentről olvassa a szöveget. 
+	Célja, hogy a stíluselemeket szétválassza a nyers kontenttől, és egyszerűbb hozzáférést biztosítson.
+
+	Egy css fájl szabályokból áll, amelyeket a selectorok hoznak létre. Később írt selector felülírja a korábbit.
+
+	Ugyanúgy szövegfájlként kezeljük, hozzunk létre egy main.css fájlt. Írjuk bele:
+
+		body {					// a body tagre vonatkozik, kapcsos zárójellel belemászunk
+			background: red; 	// melyik attribútumot mire akarjuk változtatni, majd ;
+		}
+
+	de ezt akár a <head> tagbe is beleírhattuk volna:
+		<style type='text/css'>
+			body {
+				background: red;
+			}
+		</style>
+
+	De ezzel csak copy-paste lenne az egész kód, márpedig keep your DRY (Don't repeat yourself). Belinkelhetjük inkább a külső css fájlt (szintén a <head> tagbe).
+		<link href='styles/main.css' rel='stylesheet' type='type/css'>
+
+	Vissza a css-be:
+		body-hoz mehet a font-family: arial; // így meg van változtatva az egész betűtípus
+
+	másik selector pl:
+
+		h1, h2, h3, p, li {		// egyszerre többet is kijelölhetünk
+			color: #666;	// hexadecimálissal is megadhatjuk a színt
+		}
+
+	ha ezek után azt írom, hogy 
+		p {
+			background: #222;	
+			color: white;			// felülírja az előzőt
+			padding: 10 px 			// 10px: minden oldal; 10px 20px: top-bottom and left-right; 10px 20px 30px 40px: top right bottom left (clockwise)
+
+		}
+
+	ha akarunk külön csak egy paragraphnak attribíútumot adni, használhatjuk a __class__ (osztály) attribútumot mind a html, mind a css fájlban:
+
+		<p class="secondary"> Ez itt másképp fog kinézni </p> // html-be
+
+		.secondary{											// css-be
+			background: none;
+			color: #777;
+		}
+
+	A class inkább speciális, így azt a p selector elé írva sem változik semmi. Továbbá a class egyszerre több tagre is vonatkozhat.
+
+	Másik hasznos kijelölés az __id__ attribútum. Ez egy html-ben csak egyszer szerepelhet, egy elemre mutat rá. 
+
+		<p id="only_one"> Ez itt megint másképp fog kinézni </p> // html-be
+
+		#special{								// css-be
+			background: red;
+		}
+
+	Legtöbbször azonban a classt fogjuk használni, ritkán van olyan nagyon specifikus dolog, hogy id kelljen. Pl.: navigáció oldalon belül.
+
+	Van __pseudo-class__ is, amelyek a classokra vonatkoznak és bizonyos műveletekre érzékenyek, pl a hover, vagy ami a részletére vonatkozik, a first-letter:
+
+		p:hover, h1:hover, a:hover {
+		  background-color: yellow;
+		}
+
+		p::first-letter {
+	  		background-color: green;
+		}
+
+	Akár kombinálhatjuk, de a sorrend számít:
+
+		p .secondary { color: red; } // ez minden secondary osztályú elemre vonatkozik, amely a p-n belül van
+
+		.secondary p { color: red; } // minden p-re vonatkozik, amely secondary classon belül van.
+
+	Meghatározhatjuk, hogy akár valaminek a leszármazottja belül legyen:
+
+		div p {background-color: black;} // minden div-en belüli p 
+
+
+	Bővebben a kiosztásokról: https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Selector illetve majd a javascriptnél
+

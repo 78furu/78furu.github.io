@@ -1,0 +1,20 @@
+Az órák anyagát és pár addicionális információt a következő videók tartalmazzák, így aki nem vett volna részt az órákon, vagy valami nem tiszta neki az itt meg tudja nézni.
+
+https://www.youtube.com/watch?v=uR6G2v_WsRA&t
+https://www.youtube.com/watch?v=FyAAIHHClqI&t
+https://www.youtube.com/watch?v=Gg4bLk8cGNo&t
+
+Továbbá Furu kérte, hogy linkeljem be a honlapját:
+https://78furu.github.io/teaching/kutinf/index.html
+
+A gites anyagokhoz a házi a következő:
+
+- Válassz egy tetszőleges projektet (lehet máshova egy beadandó, vagy csak egy egyszerű látványkód)
+- Egy még nem teljesen kész állapotát töltsd fel a githubodra.
+- Végezz benne módosításokat (bónusz, ha több konfiguráció van pl. default + premium, vagy basic + advanced, stb.) a videókban/órán/akárhonnan szerzett verziókövető ismereteid felhasználásával és ezt is töltsd fel (a lényegretörő commitokat ne feledd).
+- Küld el nekünk a repódat. (A history-ban gitubon nyomon tudjuk követni a változtatásaidat)
+
+Amennyiben a repóban látszanak a módosítások (legyen legalább 1 deleted, 1 added és 1 changed sor), és a commit-ok, úgy a házi teljesített, azon felül kiemelkedő.
+
+Üdv,
+Ricsi
