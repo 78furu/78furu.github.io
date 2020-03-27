@@ -162,7 +162,16 @@ td,th{padding:0}
     transform: rotate(45deg);
 }
 
-.deprecated hr {
-	color: black;
+p.news{
+    background-color:#ddd;
+    display: block;
+	border-radius: 25px;
+	padding: 20px; 
+	border: 3px solid black;
 }
+
+p.beadando{
+	background-color: #CEE92F;
+}
+
 
