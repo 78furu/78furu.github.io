@@ -171,7 +171,10 @@ p.news{
 }
 
 p.beadando{
-	background-color: #CEE92F;
+	background-color: #f3fcba;
+    display: block;
+	border-radius: 25px;
+	padding: 20px; 
 }
 
 
