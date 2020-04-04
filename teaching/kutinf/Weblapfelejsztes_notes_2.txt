@@ -1,0 +1,245 @@
+CSS Layouts:
+
+	Sok szeretettel köszöntelek benneteket a weblapszerkesztésssel foglalkozó anyagom második részében. Amennyiben nem láttátok az előző videót, a leírásban lesz a linkje, abban a HTML és CSS alapokat nézzük át. A mai órán továbbmegyünk CSS-sel és megismerkedünk a Jupyter Slideshow fogalmával, majd a végén a kettőt egybekötjük. 
+	
+
+	A mai órán CSS Layoutokat fogunk nézni. Ismerjük már az alapvető CSS parancsokat, a célunk az, hogy ténylegesen honlap formája legyen a honlapunknak. Ezek csúnyák. Nézzen ki úgy, mintha tényleg egy honlap lenne. 
+
+	Ugye beszéltünk a header, footer, div, span, nav tagekről. Ezek eleve non-styling tagek. Ezeket meg lehet tölteni stílussal, alapvetően meaninglessek, csak szemantikai címkék/tagek. Alapvetően például egy header-ön belüli nav címke nemcsak az olvasót segíti a tájékozódásban, de a keresőmotorok is könnyebben megtalálják az adott címszót. Megnézhetjük, és ténylegesen semmi formázást nem ad neki. Elkezdjük felépíteni a honlapot.  [Header->Nav alapjai lejjebb.] Csinálunk egy hamis navigációs sávot a fejlácen belül. Adjunk hozzá 5 linket anchor cimkével. A # nem mutat sehova, általában arra használják, hogy később linkekkel töltsék meg. Csináljunk ezekután egy row osztályú div taget amivel 3 oszlopot akarunk létrehozni. [létrehozni a divet]  A Footerbe is írjunk valamit. 		
+
+	<!doctype html>
+	<html>
+		<head>
+			<title> CSS Layouts </title>
+			<link rel="stylesheet" href="main.css">
+		</head>
+		<body>
+
+			<header>
+				<nav>
+					<h1>My page</h1>
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Blog</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Contact</a></li>
+						<li><a href="#">Links</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<div class="row">
+				<div class="col1"></div>
+				<div class="col2"></div>
+				<div class="col3"></div>
+
+			</div>
+
+			<footer>2020 mysite</footer>
+		</body>
+	</html>
+
+
+	Menjünk át a css fájlba. Adjunk a háttérnek színt, mondjuk szürkét, #999, és betűszínnek fehéret. Alapvetően a törzsnek van egy margója, azt most vegyük nullára. Most formázzuk meg fejlécen belüli h1 taget majd a navon belüli számozatlan listát is persze. Vegyük le a margót mindkettőnél. Azért rakjuk a nav-en belülre a ul-t mert nem akarunk minden más ul-t is megformázni. Adjunk hozzá nav ul li taget is. Megfigyelhetjuk a leszármazást is. Nav leszármazottja az ul, annak leszármazottja az li. Ebbe írjuk bele, hogy a listapontok stílusa legyen none. Ez alapvetően -- mint látszott -- bulletpointokból állt. Ezzel el is tűnt a bulletpoint. A megjelenítést (displayt) válasszuk blokkon belülire (inline-block), így egymás mellé kerülnek az egyes felsorolt pontok. A block amúgy a stílsformázás megkönnyítésének érdekében van, szimplán lehetne inline is. Adjunk nekik fekete háttérszínt is meg fehér betűszínt. Ezzel ha megnézzük, nem változott meg a kékről, hiszen annak a tagjét nem írtuk át, melyet azonnal orvosolunk is. Az li tagokhoz adjuk egy 0 margót is. A margó a címkéken kívülre tesz űrt, míg a padding pedig azon belülre. Ezt láthatjuk is. 5 px margóval nem tölti ki a szavak mellett a teret, de 5 pixel paddinggel már azonban igen. Tegyünk alulra-felülre 5 és oldalra 15 px paddinget. Ha a megjelenítést a fejlévben meg a navigációban szintén blokkon belülire vesszük, akkor ezzel már a cím mellé ugrik navigációs sáv. Adjunk paddinget is a fejlévhez, ugyanazt, mint a listaelemekhez, de alulra ne legyen, felülre 15. A cím utáni hézag vajon honnan jöhet? A ul-nek van alapvetően paddingje, állítsunk be csak balra 15 px-t.  
+
+	Mit csináltunk eddig? elkezdtük feltölteni a szemantikai címkéket értelemmel. Selectorok segítségével meghatároztunk megjelenítési formákat. Célszerű azokat csoportosítva tárolni, másképp könnyen elveszik az ember. Nagyon kevés selector szabályt tanultunk, melyek a következők: Margó, háttér, színek, padding, megjelenítés, listatípus. 
+
+	Következőkben csinálunk sor- és oszlop selectorokat. Ha azt írom, hogy div .row, akkor minden diven belüli olyan selector, melynek az osztálya row, de mi azt szeretnénk, hogy minden row osztály div címkére vonatkozzanak a szabályok, szóval azt írjuk, hogy div.row{}. Adjunk hozzá egy float: left;  szabályt, amivel minden a bal oldalra fog "lógni". Lecsekkolhatjuk, áttéve jobbra átkerül. A footert clear:both szabállyal kell meghívni, hogy tisztázza a mellette lévő szabályokat (konkrétan az előző címkék floatjait törli ki). Adjunk paddinget és margót a .col osztályoknak! Még mindig nagyon nem olyannak tűnik, amire szép ránézni. Használjunk inkább százalékokat! Adjunk meg width-nek 16 %-ot, rakjunk rá 1-1 százalék paddinget és margót. Van öt elemunk, és 100 %-unk. 16 százalék az elem szélessége, erre rá jön mindkét oldalra a padding 1-1 százalékkal, és a margó szintén 1-1 százalékkal. Összesen 20 %, ami megötszörözve kiadja a 100%-ot. Nézzük meg mi történik, ha rosszul számolunk. Tegyük fel, hogy elfelejtük, hogy a paddinget vagy a margót duplán számolja, és 2-2 százalékot adunk meg. Írjuk is be, majd nézzük meg, hogy néz ki. Ekkor valójában egy elemre összesen 24 százalék jön ki, 120%-ot eredményezve összesen. Ekkor az utolsó elem lekerül alulra, hiszen az elemek lebegnek (float:left;). Ezen okoknál fogva célszerű a honlapunkat százalékos kiosztással felvértezni. Ettől kvázi-reszponzív felületet kapunk, amely alkalmazkodik az ablakhoz. Pixeles felosztással konkrét számokat tudunk csak megadni. Még egy dolgot tudunk csinálni, ez pedig a határok sugarainak állítása (border-radius). Paddingnek célszerű alulra-felülre más értéket választani.  Ezek után ha adunk még hozzá row-elementeket, azok egymás alá fognak sorakozni. 
+
+	Nos, eddig amiket néztünk, nem voltak túlzottan bonyolultak, sőt, meglehetősen egyszerűek voltak. Milyen jó lenne, ha lenne egy egyeséges keretrendszer, ami segít leegyszerűsíteni az egyes osztályok megírását és tagolását. Hm... Van: úgy hívják, bootstrap!
+
+
+		body {
+		margin: 0;
+		}
+
+
+		header {
+			background: #999;
+			color: white;
+			margin: 0;
+			padding: 15px 15px 0px 15px;
+
+		}
+
+		header h1 {
+			margin: 0;
+			display: inline;
+		}
+
+		nav ul {
+			margin: 0;
+			padding: 0 0 0 15px;
+			display: inline;
+		}
+
+		nav ul li {
+			background: black;
+			color: white;
+			display: inline-block;
+			list-style-type: none;
+			padding: 5px 15px;
+			margin: 0;
+		}
+
+		nav ul li a {
+			color: white;
+		}
+
+		.row {
+			clear: both;
+		}
+
+		.row:after {
+			clear: both;
+		}
+
+		.col{
+			float: left;
+			background: #333;
+			color: white;
+		/*	padding: 20px;*/
+			padding: 10px .5%;
+			margin: .5%;
+			width: 18%;
+		}
+
+		footer{
+			clear: both;
+		}
+
+ _________________________
+|SLIDES W JUPYTER NOTEBOOK|
+
+	Mielőtt még a bootstrapbe belekezdenénk, jó lenne számot vetni önmagunkkal és megkérdezni, hogy jó-jó okés, az még rendben van, hogy honlapot kell csinálni, hogy elérjem a saját dolgaimat is messzíről, de miért fogalkozunk mi azzal, hogy hogy milyen a megjelenése? Úgysem azt fogja nézni az átlag látogató, vagy a leendő diákjaim úgyis csak az eredményekért meg a házi feladatokért fogják látogatni, amiket meg csak letöltenek. Miért kell nekem a CSS-sel is foglalkozni?
+
+	Remélem mindenki ismerős a Pythonnal, tudtommal BSc-n ez az a nyelv amit erőltetnek -- csak halkan jegyzem meg, hogy teljesen jogosan. Továbbá, mindenki használt már Jupyter Notebookot. A Jupyter Notebooknak a nagy előnye, hogy a kódcellák mellé ún. Markdown cellákat is be tudunk szúrni, amelyek egy wrapperként működnek, és tudják olvasni a HTML fájlokat. Sőt. Megfelelő paraméterezéssel akár igazán szép felületet is létre tudunk hozni. A későbbi kellemetlenségek elkerülése végett, installáljunk még most a terminálból egy úgynevezett nbconvert programot a
+
+		pip install nbconvert 
+
+	vagy 
+
+		conda install nbconvert 
+
+	paranccsal, valamint installáljunk egy úgynevezett RISE programot is 
+
+		conda install -c conda-forge rise
+
+	Indítsunk el egy Jupyter notebookot első lépésként (jupyter notebook). A füleknél meg kell jelennie egy Nbextensions fülnek. Amennyiben nem jelent meg, azt a következő parancssal tudjátok installálni. Ehhez le kell lőni az egész kernelt mögötte, bezárni, installálni, majd újraindítani:
+
+		conda install -c conda-forge jupyter_contrib_nbextensions
+
+	Hasznos linkek az installáláshoz:
+		NBConvert: https://nbconvert.readthedocs.io/en/latest/install.html
+		RISE: https://rise.readthedocs.io/en/stable/installation.html
+		NBextensions: https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
+	És a tippekhez: 
+		https://www.markroepke.me/posts/2019/06/05/tips-for-slideshows-in-jupyter.html
+		https://medium.com/learning-machine-learning/present-your-data-science-projects-with-jupyter-slides-75f20735eb0f
+		https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67
+
+
+	Ezek után pipáljuk ki a RISE-ot. Hozzunk létre egy külön notebookot és a view fülnél a cell toolbar menüpontot állítsuk át Slideshowra. Visszaállításhoz pedig None-ra. Ekkor a cellák jobb felső sarkában megjelent egy Slide Type opció. 5 féle lehetőség közül tudunk választani. Slide, Sub-Slide, Fragment, Skip, Notes. A diák a notebook sorrendjének megfelelő módon lesznek megjelenítve. Hozzunk létre néhány cellát. Írjunk be egy címet, ami legyen Slide, hozzunk létre egy másik slide-ot a Tartalomjegyzéknek, majd Fragmentekkel jelenítsük meg a tartalmat is. Itt használhatnánk akár HTML kódot is, de azt majd később. Következőkben nézzük meg, (új slide), hogy működnek a sub-slide-ok. Nézzük meg az adatfeldolgozás részét. Töltsük be pandassal. Jajj, nincs, matplotlibünk, importáljuk. Ezt egy skip cellába téve el is tudjuk tüntetni. Plottoljunk is ki valamit. Továbbá a Notes opcióval jegyzetet is tudunk hozzá írni jegyzetet, ezt a RISE-ban a T betűvel tudjuk aktiválni és látjuk a jegyzeteinket. Hozzunk létre egy utsó slideot és nézzük meg, hogy néz ki ez slideshowként, a RISE gombjára kattintva. Ekkor láthatjuk az eredményt. F11-gyel nagyképernyő, et voilá kész a prezentáció. Ezt ki is tudjuk menteni. Terminálba írjuk be a következőket:
+
+		jupyter-nbconvert --to slides MySlideshow.ipynb --post serve // utolsóval egyből egy böngészőben
+
+	és kész is a HTML-ünk. Vannak okosságok, amikkel szebbé tehetjük:
+
+		--SlidesExporter.reveal_theme=serif 
+		--SlidesExporter.reveal_scroll=True 
+		--SlidesExporter.reveal_transition=concave
+
+	forrás: https://nbconvert.readthedocs.io/en/latest/config_options.html
+
+	Továbbá lehetséges, hogy kelleni fognak még a szépészeti eszközök, amelyeket egy ún reveal.js fájl tartalmaz, de ezt akár online is tudjuk importálni:
+
+		jupyter nbconvert notebook-name.ipynb --to-slides --reveal-prefix "http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0"
+
+	Ezt a html-t most már tudjuk feltölteni (minden hozzátartozó fájllal együtt) a megfelelő mappába és online bárhol el tudjuk érni. Fontos megjegyezni, hogy emögött már nem fut kernel, nem tudjuk online is futtatni.  
+
+Okosságok Markdownnal:
+
+	Összekapcsolandó a html-css-t a Jupyterrel, a Markdown celláknak hála nagyon sok szépészeti műtétet el tudunk végezni a notebookunkon. Alap dolog, ami a leggyakrabban kézenfekvő lehet és még csak nem is kell hozzá, hogy slideshowt készítsen az ember, az a kódcellák eltüntetése. Itt arról van szó, hogy az inputokat nem, de az outputokat mutassa a notebook. ehhez a kódrészlet:
+
+
+		from IPython.display import HTML
+
+		HTML('''<script>
+		code_show=true; 
+		function code_toggle() {
+		 if (code_show){
+		 $('div.input').hide();
+		 $('div.output_stderr').hide();
+		 } else {
+		 $('div.input').show();
+		 $('div.output_stderr').show();
+		 }
+		 code_show = !code_show
+		} 
+		$( document ).ready(code_toggle);
+		</script>
+		<form action='javascript:code_toggle()'><input STYLE='color: #4286f4' 
+		type='submit' value='Click here to toggle on/off the raw code.'></form>''')
+
+	Ezt kódcellában kell lefuttani, és bár tartalmaz már javascriptet, a kód nem túl bonyolult. Ha azonban csak egy bizonyos cellának az inputját szeretnénk eltüntetni, célszerű az alábbi függvényt definiálni, majd használni minden olyan cellában, amelyet el akarunk rejteni:
+
+		def hide_code_in_slideshow():   
+		    from IPython import display
+		    import binascii
+		    import os
+		    uid = binascii.hexlify(os.urandom(8)).decode()    
+		    html = """<div id="%s"></div>
+		    <script type="text/javascript">
+		        $(function(){
+		            var p = $("#%s");
+		            if (p.length==0) return;
+		            while (!p.hasClass("cell")) {
+		                p=p.parent();
+		                if (p.prop("tagName") =="body") return;
+		            }
+		            var cell = p;
+		            cell.find(".input").addClass("hide-in-slideshow")
+		        });
+		    </script>""" % (uid, uid)
+		    display.display_html(html, raw=True)
+
+	Továbbá ahhoz, hogy a prezentációnk szép legyen, nem árt egy kis HTML-CSS formázást belevinni. Ezt kettő féleképpen tudjuk megcsinálni. Egyrészt kódcella outputjaként másrészt Markdown cellával közvetlenül Az IPython.core.display importálásával HTML-outputot tudunk megjeleníteni kódcellában. Avagy, a markdownba a nyers html-t is beírhatjuk, aminek első lépéseként, állítsuk középrezártra a címet. Ezt a <centering> taggel vagy külön stílusként tudjuk megtenni. 
+
+		Kód cella:
+			from IPython.core.display import display, HTML
+			display(HTML('<h1>Hello, world!</h1>')
+
+		Markdown cella:
+			<h1 style="text-align: center">  Hello, world! </h1>
+
+	Ide akár teljes html kódot is beszúrhatunk, tegyük is meg például az előző részben gyártott navigációs sávval. Mindkettővel.
+
+		**nem rakom ide**
+
+	Látszik, hogy nem működik a formázás, hiszen nincs css fájlunk, de ezt is be tudjuk húzni:
+
+		HTML("""<head>
+			    	<title>CSS Layout</title>
+			        <link rel="stylesheet" type="text/css" href="main2.css">
+			    </head>
+			    
+			""")
+	Ugyanígy működik minden más HTML kód is. Példa kreativitásra:
+
+		Ha fel akarjuk hívni a hallgató figyelmét valamire:
+
+			<code style="background:yellow;color:black">Ez itt ki van emelve, mert nagyon fontos.</code>
+
+		Ha kvázi terminál-paracsot akarunk beírni:
+
+			<p style="background:black">
+				<code style="background:black;color:white">C:\Users\furu> echo "Hello world!"
+				</code>
+			</p>
+
+
+	Reverse-engineerging módszerrel akár a közvetlen HTML kódot is tudjuk machinálni, ami néha szükséges lehet. 
+
+	Most hogy minden megvan, az előző óráról tanultak értelmében írjuk egy hivatkozást a prezentációkra a html fájlban, majd toljuk fel az egészet és kész is van.
+
+	Köszönöm szépen a figyelmet, remélem hasznotokra fog válni. 
