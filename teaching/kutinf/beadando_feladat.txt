@@ -1,0 +1,32 @@
+Kedves hallgatók!
+
+
+
+A honlapszerkesztéssel kapcsolatos beadandóhoz a feladatok az alábbiak:
+
+	0. Csináld végig a tutorialokat az oldalon, ez kelleni fog a továbbiakhoz.
+	1. Válassz ki egy tetszőleges laborgyakorlatot, aminek a honlapját fogod megtervezni (remélhetőleg olyat, amiben programoztatok és notebookot is használtatok).
+	2. A honlap szóljon az egész labor tartalmáról. Legyen egy általános leírása, legyen hozzá felhasznált irodalom, 		legyen beszúrva kép akár az egyik labor helyszínéről (vagy az egyetemről), valamint követelmények, saját 		megjegyzés, egyéb extrák plusz pont. Ezekhez a bekezdésekhez elég pár mondatot írni, hogy érthető legyen		külsős, nem fizikus ember számára is.
+	3. Hogy vissza tudjak lépni, legyenek hivatkozások az előző oldalakra is, e.g., Home page >> Tanulmányok >> Saját		labor (értelemszerűen hivatkozás mindegyik).
+	4. Legyenek felsorolva a laboralkalmak jegyzőkönyvei (letölthető formában (hint: download)), meg a hozzájuk tartozó jegyzet például (nem kell mindegyik, de néhanyat illik).
+	5. Az egész oldalnak legyen egy külön .css fájlja, mely csak erre az oldalra vonatkozik, és (könyörögve kérlek) formázzátok meg szépre; középre zárás, lebegjenek egymás mellett, színek jól láthatóak legyenek, margót és paddinget bátran használjunk, betűtípus nem comic sans, stb. 
+	6. Az egyik tetszőlegesen választott órához készült jegyzőkönyvből csináljatok python prezentációt, nézzen úgy ki, mintha tényleg előadnátok (ha nincs ilyen, csináljatok egyet kézzel):
+		- Használjatok különböző cellatípusokat (slide, fragment, stb.), valamint kód és markdownt szintén. 
+		- Legyenek benne színes-szagos ábrák, jól látható módon.
+		- Legyen benne vázlatos magyarázat a mérésről.
+		- Markdown cella díszítése plusz pont.
+
+
+A beküldendő tartalom egy link, ami a saját honlapodra mutat, amin könnyedén megtalálom a beadandó laborgyakorlat hivatkozását is. 
+
+Megjegyzések:
+
+	- Ne felejtsd el használni a verziókövetést, valamint a google-t! Sok időt meg tudsz spórolni magadnak.
+	- Ha végeztél, a szokásos git parancsokkal (add, commit, push) mentsd el az egészet a githubon, hogy én is el tudjam érni.
+	- Ha elakadsz, nyugodtan írj egy emailt nekem (Furu, elérhetőségek a honlapon).
+
+Határidő: vizsgaidőszak első hetének vége (2020. május 24. 23:59). Célszerű előbb beküldeni, hogy az ajánlott javításokat tudjátok majd eszközölni. 
+
+
+Üdv,
+Furu

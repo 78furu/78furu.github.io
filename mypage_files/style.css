@@ -177,4 +177,13 @@ p.beadando{
 	padding: 20px; 
 }
 
+p.news ul{
+    background-color: #f3fcba;
+}
 
+p.news ul li{
+    background-color: #f3fcba;
+}
+p.news ul li a{
+    background-color: #f3fcba;
+}

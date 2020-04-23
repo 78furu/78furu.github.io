@@ -43,9 +43,9 @@
       </ul>
 
       <h3>Hírek</h3>
-      <h7 style="font-family:verdana;">  Legutóbbi frissítés: 20/04/03. </h7>
+      <h7 style="font-family:verdana;">  Legutóbbi frissítés: 20/04/23. </h7>
     <p class = "news"> 
-      <strong>Frissítés:</strong> Április 1-jei óra <a href="https://youtu.be/jnfiwInbfUI" target="_blank">itt, </a> hozzá jegyzet <a href="Weblapfejlesztes_notes_2.txt" download> itt </a> érhető el. Az elkészült honlap <a href="webpage_tutorial/index.html"> itt </a> van, azon belül megtaláljátok a slideshownak és a notebooknak a linkjét is. Beadandóról nemsokára emailt küldünk ki!
+      <strong>Frissítés:</strong> Felkerültek a beadandók a honlapra: <a href="#root_bead">Root beadandó, </a> <a href="#honlap_bead">honlapszerkeszés és IPython Slideshow beadandó, </a><a href="#teszt_bead">tesztelés beadandó.</a> Mindegyik beadandónak a határideje: vizsgaidőszak első hetének vége (2020. május 24. 23:59). Célszerű előbb beküldeni, hogy az ajánlott javításokat tudjátok majd eszközölni. Sok sikert kívánunk!
     </p>
       <p class="warning">
         Figyelem! A koronavírus miatti szervezeti átalakulás következtében az órákat mi is távoktatásban fogjuk megvalósítani az előrehozott tavaszi szünetet követően (első óra: március 25.). Az órák (élő) videó vagy kiadott jegyzet (esetleg mindkettő) formájában lesznek megtartva. Kérek mindenkit, hogy kövesse figyelemmel az emaileket és ezt a honlapot. </p>
@@ -60,7 +60,60 @@
 
 
 
-    <section class="main-content">
+    <section class="main-content" id = "beadando">
+
+      <h2 id="data-mining-and-machine-learning-course-for-physics-msc-students"> Beadandók: </h2>
+      <p>A kurzus sikeres teljesítéséhez mindegyik beadandót sikeresen meg kell csinálni. </p>
+      <ul>
+        <li>Git alapok beadandó: <a href="#ricsi_bead_1"> itt</a> (lejárt).</li>
+        <li id = "root_bead"> <strong>Root beadandó</strong>
+          A <a href=https://root.cern.ch/>hivatalos honlapról</a> töltsétek le a root-ot, majd Build-eljétek fel, ehhez <a href="https://root.cern.ch/building-root">itt</a> találtok segítséget.  A feladat készítsetek egy egyszerű macro-t, ami a következőket tudja:
+          <ol> 
+              <li> Ábrázoljatok rajta két tetszőleges egyszerű adatsort</li>
+              <li> Az ábrázolásnál fontos, hogy legyenek tengelyfeliratok, ábrafelirat, legend, változtassátok meg a adatsorok színét, markerét, errorbar-okat. </li>
+              <li> Illeszétek meg a két különböző adatsort és ábrázoljátok egy következő ábrán az illesztéseket </li>
+              <li> Az így kapott két hisztogramot mentsétek el .root fileként és küldjétek el emailben </li>
+          </ol>
+
+
+        </li>
+
+
+        <li id = "honlap_bead"><strong>Honlapszerkesztés beadandó:</strong>
+          <ol>
+<li>Csináld végig a tutorialokat az oldalon, ez kelleni fog a továbbiakhoz.</li>
+  <li>Válassz ki egy tetszőleges laborgyakorlatot, aminek a honlapját fogod megtervezni (remélhetőleg olyat, amiben programoztatok és notebookot is használtatok).</li>
+  <li>A honlap szóljon az egész labor tartalmáról. Legyen egy általános leírása, legyen hozzá felhasznált irodalom,    legyen beszúrva kép akár az egyik labor helyszínéről (vagy az egyetemről), valamint követelmények, saját    megjegyzés, egyéb extrák plusz pont. Ezekhez a bekezdésekhez elég pár mondatot írni, hogy érthető legyen    külsős, nem fizikus ember számára is.</li>
+  <li>Hogy vissza tudjak lépni, legyenek hivatkozások az előző oldalakra is, e.g., Home page >> Tanulmányok >> Saját   labor (értelemszerűen hivatkozás mindegyik).</li>
+  <li>Legyenek felsorolva a laboralkalmak jegyzőkönyvei (letölthető formában (hint: download)), meg a hozzájuk tartozó jegyzet például (nem kell mindegyik, de néhanyat illik).</li>
+  <li>Az egész oldalnak legyen egy külön .css fájlja, mely csak erre az oldalra vonatkozik, és (könyörögve kérlek) formázzátok meg szépre; középre zárás, lebegjenek egymás mellett, színek jól láthatóak legyenek, margót és paddinget bátran használjunk, betűtípus nem comic sans, stb. </li>
+  <li>Az egyik tetszőlegesen választott órához készült jegyzőkönyvből csináljatok python prezentációt, nézzen úgy ki, mintha tényleg előadnátok (ha nincs ilyen, csináljatok egyet kézzel):
+    <ul>
+    <li> Használjatok különböző cellatípusokat (slide, fragment, stb.), valamint kód és markdownt szintén. </li>
+    <li> Legyenek benne színes-szagos ábrák, jól látható módon.</li>
+    <li> Legyen benne vázlatos magyarázat a mérésről.</li>
+    <li> Markdown cella díszítése plusz pont.</li></li>
+    </ul>
+        </ol>
+
+        A beküldendő tartalom egy link, ami a saját honlapodra mutat, amin könnyedén megtalálom a beadandó laborgyakorlat hivatkozását is. 
+
+    Megjegyzések:
+    <ul>
+      <li> Ne felejtsd el használni a verziókövetést, valamint a google-t! Sok időt meg tudsz spórolni magadnak.</li>
+      <li> Ha végeztél, a szokásos git parancsokkal (add, commit, push) mentsd el az egészet a githubon, hogy én is el tudjam érni.</li>
+      <li> Ha elakadsz, nyugodtan írj egy emailt nekem (Furu, elérhetőségek a honlapon).</li>
+      </ul>
+        </li>
+
+    <li id = "teszt_bead"><strong>Tesztelés beadandó:</strong>
+    Írjatok egy EGYSZERŰ python kódot, majd az órán vett modullal teszteljétek le néhány aspektusát. Használjátok a dokumentációban szereplő asserteket (lehetőleg minél többet, nem csak azt, hogy egyenlő-e, legyetek kreatívak). Törekedjetek az optimális tesztelésre, a beadandóban mutassátok meg miért nem jó a brute force tesztelés (hint: teszt futási ideje/tárhely/etc., elég csak egy) A kódot és a tesztet zip.-ben küldjétek el nekünk emailben.
+
+    </li>
+
+      </ul>
+
+
       <h2 id="data-mining-and-machine-learning-course-for-physics-msc-students"> Órák: </h2>
 <ul>
   <hr>
@@ -87,7 +140,7 @@
     </ul>
   <hr>
 
-  <p class="beadando">
+  <p class="beadando" id = "ricsi_bead_1">
     <a href="ricsi_homework.txt" download> Ricsi házija </a>
   </p>
   <hr>
@@ -126,13 +179,34 @@
     </ul>
   <hr>
 
-  <li>8. óra (ápr. 8.): Weblapszerkesztés vége, Python prezentáció: JQuery, Jupyter slideshow - gyakorlat [Furu]</li>
+  <li>8. óra (ápr. 8.): Tesztelés [Ricsi]</li>
     <ul>
-      <li><a href="#" download>Sematikus jegyzet kódokkal (TBA)</a> </li>   
+      <li>Óra teamsen</a> </li>   
 
-      <li>(TBA) <a href="#">(TBA)</a>.</li>
     </ul>
   <hr>
+
+  <li>9. óra (ápr. 15.): Tesztelés [Ricsi]</li>
+    <ul>
+      <li>Óra teamsen</a> </li>   
+
+    </ul>
+  <hr>
+  
+  <li>10. óra (ápr. 22.): Tesztelés [Ricsi]</li>
+    <ul>
+      <li>Óra teamsen</a> </li>   
+
+    </ul>
+  <hr>
+
+  <li>11. óra (ápr. 29.): Jira, Confluence, Bitbucket  [Ricsi]</li>
+    <ul>
+      <li>Óra teamsen</a> </li>   
+
+    </ul>
+  <hr>
+
 
 </ul>
 
