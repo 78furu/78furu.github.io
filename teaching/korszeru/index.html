@@ -45,7 +45,7 @@
 
       
         <p>
-          A tárgyon csak azt szerezhet jegyet, aki elkészítette és beadta (github-on át) a kiadott házi feladatok 75%-t, illetve küldött be értékelhető beadandót. Ezek hiányában a vizsgára bocsátás meg lesz tagadva. Aki teljesítette a feltételeket annak a beadandók alapján ajánlunk meg jegyet. A házi feladatok esetében minden esetben figyeljetek arra, hogy olyan házi feladatokat nem veszünk figyelembe, amelyek nem fordulnak le.  Elvárás, hogy a programok C++ konstrukciókkal és stílusban íródjanak, hibák és figyelmeztetések nélkül forduljanak, helyesen működjenek, a foglalt memóriát felszabadítsák, ne indexeljék túl a tömböket, ne segfaultoljanak, stb. Kérjük, hogy figyeljetek arra, hogy a kódok részletesen legyenek kommentelve. A házi feladatokat esetében azt saját github tárhelyre kell feltölteni, majd ennek elérhetőségét elküldeni nekünk. Ehhez részletes segítséget kaptok az első gyakorlatok során. 
+          A tárgyon csak azt szerezhet jegyet, aki elkészítette és beadta (github-on át) a kiadott házi feladatok 75%-t, illetve küldött be értékelhető beadandót. Ezek hiányában a vizsgára bocsátás meg lesz tagadva. Aki teljesítette a feltételeket annak a beadandók alapján ajánlunk meg jegyet. A házi feladatok esetében minden esetben figyeljetek arra, hogy olyan házi feladatokat nem veszünk figyelembe, amelyek nem fordulnak le.  Elvárás, hogy a programok C++ konstrukciókkal és stílusban íródjanak, hibák és figyelmeztetések nélkül forduljanak, helyesen működjenek, a foglalt memóriát felszabadítsák, ne indexeljék túl a tömböket, ne segfaultoljanak, stb. Kérjük, hogy figyeljetek arra, hogy a kódok részletesen legyenek kommentelve. A házi feladatokat esetében azt saját github tárhelyre kell feltölteni, majd ennek elérhetőségét elküldeni nekünk. Ehhez részletes segítséget kaptok az első gyakorlatok során. A kiadott feladatok mellett lehetőség van arra is, hogy saját beadandót hozzatok, ebben az esetben kérlek küldjetek nekünk egy emailt, amiben röviden összefoglaljátok mire gondoltatok. Az MSc-s hallgatókat ösztönözzük arra, hogy éljenek ezzel a lehetőséggel.
         </p>
 
       <h3>Kapcsolat</h3>
@@ -83,6 +83,15 @@
 
       <h2 id="data-mining-and-machine-learning-course-for-physics-msc-students"> Feladatok: </h2>
         <ol>
+        	<li> <strong>Monte-Carlo integrálás</strong> Írjunk integrátort, ami az alábbi függvényként hívható, és kiszámolja egy 3D-s integrál közelítő értékét. Az első argumentum az integrandus, a második az integrálási tartomány (igazat ad vissza, ha a pont benne van a tartományban), az utolsó 6 az integrálási tartomány bennfoglaló téglatestje.
+
+			<code><br>
+			MonteCarlo( [](auto x, auto y, auto z){ return exp(-x*x-y*y-z*z); },
+			 [](auto x, auto y, auto z)->bool{ return x*x+y*y+z*z<16.0; },
+			 -4.0, 4.0, -4.0, 4.0, -4.0, 4.0);
+			</code><br>
+        	</li> <br>
+
            <li> <strong> Stack-en tárolt Vektor és négyzetes Mátrix struktúra.</strong>
 Típus szinten adott méretű, hasonlóan az std::array-hez. A szokásos matematikai műveleteket kell támogatni közöttük. Mátrixon legalább kettőt kell az alábbiak közül: lineáris egyenletrendszer megoldása ismert jobboldallal, determináns számítás, inverz számítás.</li> <br>
 
@@ -122,10 +131,21 @@ az ismert SI prefixumokat is tárolja és követi a mennyiségekre, és a művel
 köztes prefixumot választani (pl. 1km + 1mm $\rightarrow$ 1000.001 m).</li> <br>
 
   <li> <strong> Hőmérséklet osztály</strong>
-Csináljunk egy olyan osztályt, amely tárolja a hőmérséklet értékét adott mértékegységekben. (pl. Celsius, Fahrenheit, Kelvin, Rankine, Delisle, Römer). Ezenkívűl képes őket összeadni, kivonni, átváltani, n-darab értéket sorbarendezni. </li> <br>
+Csináljunk egy olyan osztályt, amely tárolja a hőmérséklet értékét adott mértékegységekben. (pl. Celsius, Fahrenheit, Kelvin, Rankine, Delisle, Römer). Ezenkívűl képes őket összeadni, kivonni, átváltani, n-darab külünböző mértékegységben megadott értéket sorbarendezni. </li> <br>
+
+	<li>
+		<strong>Perkoláció számolása</strong>  Készítsünk egy NxN-es rácsra egy <a href="https://ematlap.hu/tudomany-tortenet-2020-11/957-mi-is-az-a-perkolacio">perkolációs számlálót</a>. Határozzuk meg a kritikus valószínűséget, illetve készítsünk hozzá megfelelő ábrázolást. Teszteljük az algoritmusunkat különböző N-ekre. 
+	</li>
+
+	 <li><strong>Kettős csillag körül keringő bolygó pályája</strong> Oldjuk meg 4-ed rendű Runge-Kuttával a gravitációs 3-test problémát. Törekedjünk arra, hogy rendszer a lehető legáltalánosabb legyen, pl. különböző tömegek. Teszteljünk különböző kezdeti feltételeket. Ábrázoljuk a fázisteret, illetve a rendszer energiáját az idő függvényében
+ 	</li> <br>
 
   <li> <strong> Kettős inga szimulálása</strong>
 Írjunk a 4-ed rendű Runge-Kuttával kettős inga szimulációt, úgy, hogy grafikusan megjelenítjük az ingát, és egérrel meglökhetőek a súlyok. Rajzoljuk ki a fázisteret is.</li> <br>
+
+	<li> <strong>Lorenz pillangó kirajzolása</strong>
+		Számoljuk ki és jelenítsük meg a Lorenz rendszert, és számoljunk Ljapunov exponenst, amely alapján színezzük ki
+	</li>
 
   <li> <strong> Ideális gáz gravitációs térben</strong>
 A 4-ed rendű Runge-Kutta felhasználásával írjunk 2D szimulációt, amelyben kis kör alakú
@@ -141,19 +161,16 @@ Határozzuk meg n-darab ponttöltés által keltett elektromos teret és potenci
 Írjunk programot, amely kirajzolja, valamint nagyíthatóan és navigálhatóan megjeleníti a Mandelbrot
 fraktált. </li><br>
 
-  <li> <strong> Molekuláris dinamika (== van der Waals gáz)</strong>
-N (=1000) részecske mozog véges térfogatban. A részecskék véges sugarúak, merev gömb-ként ütköznek, továbbá közöttük a Lennard-Jones potenciál hat: $ V(r) = 4 \epsilon ( (\sigma/r)^12 - (\sigma/r)^6)$. <a href="https://en.wikipedia.org/wiki/Molecular_dynamics" target="_blank"> Wiki</a> (egyszerűbb 2D no pot eset <a href="https://github.com/sdiebolt/molecular-dynamics" target="_blank">githubon</a>) </li> <br>
+  <li> <strong> Van der Waals gáz dobozban </strong>
+A 4-ed rendű Runge-Kutta felhasználásával írjunk 2D szimulációt, ahol N(=1000) részecske mozog V térfogató dobozban.  A részecskék véges sugarúak, merev gömbként ütköznek, továbbá közöttük a Lennard-Jones potenciál
+hat: $V(r) = 4 \epsilon ( (\sigma/r)^12 - (\sigma/r)^6)$ <a href="https://en.wikipedia.org/wiki/Molecular_dynamics" target="_blank"> Wiki</a> (egyszerűbb 2D no pot eset <a href="https://github.com/sdiebolt/molecular-dynamics" target="_blank">githubon</a>) </li> <br>
 
 <li> <strong>Legrövidebb út algoritmus</strong> Legrövidebb út algoritmus implementálása (akár valamelyik legutóbbi Bosch-veseny mintájára, ahol a kocsinak kell az átlagos menetidők alapján eljutnia A-ból B-be, melyet fordulónként úgy variáltak, hogy a következő körben lámpák is voltak ismert időzítéssel, a harmadik körben pedig véletlen dugók is voltak
 benne). A lényeg, hogy meg kell találni a Dijkstra algoritmust és beprogramozni.</li><br>
 
-<li>
-	<strong>Perkoláció számolása</strong>  NxN-es négyzetrácsra véletlenszerűen leszórsz M részecskét, és megnézed, hogy át tudsz-e menni a részecskéken a felső vonaltól az alsó vonalra. M függvényében ábrázolod az átjutási valószínűseget).
-</li>
 
- <li>
- 	<strong>Kettős csillag körül keringő bolygó pályája</strong> tba.
- </li>
+
+
 
         </ol>
 
